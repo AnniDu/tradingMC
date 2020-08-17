@@ -1,0 +1,150 @@
+,Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap,PE Ratio (TTM)
+0,WMT,Walmart Inc.,132.60,+0.75,+0.57%,6.516M,8.684M,375.517B,25.21
+1,PG,The Procter & Gamble Company,135.10,-0.68,-0.50%,5.657M,7.092M,335.871B,27.23
+2,UL,The Unilever Group,59.44,-0.47,-0.78%,1.237M,1.146M,241.635B,23.52
+3,UN,The Unilever Group,58.21,-0.36,-0.61%,"732,449",1.898M,221.14B,23.04
+4,KO,The Coca-Cola Company,48.45,+0.07,+0.14%,9.691M,17.235M,208.114B,22.85
+5,PEP,"PepsiCo, Inc.",137.56,-0.54,-0.39%,2.462M,4.877M,191.814B,28.06
+6,COST,Costco Wholesale Corporation,336.28,+0.58,+0.17%,1.523M,2.557M,148.476B,40.23
+7,PM,Philip Morris International Inc.,77.71,-0.43,-0.55%,2.647M,4.944M,121.017B,16.64
+8,BUD,Anheuser-Busch InBev SA/NV,56.22,-0.12,-0.21%,"821,355",2.65M,111.264B,92.01
+9,KOF,"Coca-Cola FEMSA, S.A.B. de C.V.",43.44,+0.44,+1.02%,"68,389","131,355",78.441B,N/A
+10,MDLZ,"Mondelez International, Inc.",56.12,+0.11,+0.20%,3.934M,6.191M,80.001B,24.05
+11,DEO,Diageo plc,136.29,-3.18,-2.28%,"356,399","428,034",78.956B,21.28
+12,MO,"Altria Group, Inc.",42.54,-0.03,-0.07%,4.718M,8.164M,79.056B,N/A
+13,EL,The Estée Lauder Companies Inc.,212.09,-1.28,-0.60%,"805,356",1.316M,76.352B,59.84
+14,BTI,British American Tobacco p.l.c.,33.46,-0.38,-1.12%,6.45M,2.223M,76.475B,1.51
+15,TGT,Target Corporation,136.53,+1.72,+1.28%,2.97M,4.36M,68.267B,25.28
+16,CL,Colgate-Palmolive Company,77.05,+0.07,+0.09%,2.387M,3.768M,66.063B,25.77
+17,KMB,Kimberly-Clark Corporation,158.23,-0.23,-0.15%,1.065M,1.591M,53.964B,21.24
+18,DG,Dollar General Corporation,198.55,+2.47,+1.26%,1.353M,2.256M,49.979B,25.74
+19,TAL,TAL Education Group,73.58,-3.53,-4.58%,2.353M,3.24M,44.176B,N/A
+20,MNST,Monster Beverage Corporation,83.32,-0.50,-0.60%,1.386M,2.121M,43.943B,39.32
+21,KHC,The Kraft Heinz Company,35.59,+0.02,+0.06%,3.108M,6.192M,43.512B,N/A
+22,KDP,Keurig Dr Pepper Inc.,29.89,-0.27,-0.90%,3.014M,4.049M,42.061B,36.45
+23,GIS,"General Mills, Inc.",63.27,+0.30,+0.48%,1.79M,3.897M,38.653B,17.77
+24,STZ,"Constellation Brands, Inc.",176.03,-0.59,-0.33%,"558,475",1.214M,33.953B,607.00
+25,STZ-B,"Constellation Brands, Inc.",175.82,+0.00,+0.00%,239,409,34.067B,606.27
+26,BF-B,Brown-Forman Corporation,71.13,-0.35,-0.49%,"344,008","846,057",32.956B,41.35
+27,BF-A,Brown-Forman Corporation,65.13,-0.02,-0.03%,"30,517","50,925",33.108B,37.87
+28,HSY,The Hershey Company,146.07,-0.50,-0.34%,"499,739",1.263M,30.386B,28.59
+29,SYY,Sysco Corporation,59.54,+0.94,+1.60%,3.738M,3.919M,30.262B,141.76
+30,CLX,The Clorox Company,224.25,-0.45,-0.20%,"921,378",1.509M,28.241B,30.47
+31,HRL,Hormel Foods Corporation,52.23,+0.11,+0.21%,"887,778",1.888M,28.149B,30.72
+32,KR,The Kroger Co.,35.39,+0.80,+2.31%,10.319M,9.899M,27.531B,13.65
+33,MKC-V,"McCormick & Company, Incorporated",201.49,-0.31,-0.15%,"1,177","1,357",26.851B,36.25
+34,MKC,"McCormick & Company, Incorporated",201.55,-0.49,-0.24%,"406,418","604,547",26.85B,36.26
+35,ADM,Archer-Daniels-Midland Company,44.59,+0.16,+0.36%,1.581M,2.617M,24.776B,14.20
+36,K,Kellogg Company,69.10,+0.08,+0.12%,1.145M,2.2M,23.696B,21.85
+37,DLTR,"Dollar Tree, Inc.",98.84,+1.57,+1.61%,1.864M,2.479M,23.448B,29.17
+38,CHD,"Church & Dwight Co., Inc.",94.26,-0.49,-0.52%,"717,544",1.544M,23.312B,32.97
+39,TSN,"Tyson Foods, Inc.",63.94,-0.66,-1.02%,2.422M,2.889M,23.291B,12.87
+40,FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",61.31,+1.40,+2.34%,"373,013","595,760",21.938B,26.89
+41,EDU,New Oriental Education & Technology Group Inc.,135.63,-5.58,-3.95%,"865,209",1.176M,21.488B,52.37
+42,GSX,GSX Techedu Inc.,89.20,-10.80,-10.80%,9.594M,6.682M,21.287B,N/A
+43,CCEP,Coca-Cola European Partners plc,42.10,-0.58,-1.36%,1.937M,1.686M,19.08B,24.75
+44,CAG,"Conagra Brands, Inc.",37.78,+0.08,+0.21%,1.329M,3.21M,18.408B,21.97
+45,CPB,Campbell Soup Company,51.63,+0.45,+0.88%,1.186M,2.187M,15.601B,10.23
+46,SJM,The J. M. Smucker Company,113.97,-0.66,-0.58%,"654,872","950,031",13.005B,16.67
+47,NTCO,Natura &Co Holding S.A.,18.89,+1.41,+8.07%,"813,203","431,144",11.819B,N/A
+48,SAM,"The Boston Beer Company, Inc.",817.09,-26.63,-3.16%,"96,376","172,419",9.976B,73.30
+49,CHGG,"Chegg, Inc.",77.14,+0.28,+0.36%,1.24M,3.546M,9.59B,"5,933.85"
+50,LW,"Lamb Weston Holdings, Inc.",64.65,-0.04,-0.06%,"533,049",1.487M,9.395B,25.96
+51,TAP,Molson Coors Beverage Company,37.68,-0.13,-0.34%,"873,438",2.559M,8.21B,N/A
+52,BYND,"Beyond Meat, Inc.",125.04,-1.95,-1.54%,1.426M,6.327M,7.808B,N/A
+53,NWL,Newell Brands Inc.,16.99,-0.06,-0.35%,1.845M,3.666M,7.209B,N/A
+54,ACI,"Albertsons Companies, Inc.",14.85,-0.05,-0.34%,1.509M,2.09M,7.114B,N/A
+55,HLF,Herbalife Nutrition Ltd.,47.61,-0.01,-0.02%,"743,853",1.383M,5.849B,22.18
+56,CASY,"Casey's General Stores, Inc.",174.89,+2.67,+1.55%,"137,830","280,377",6.455B,24.63
+57,BG,Bunge Limited,45.93,-0.04,-0.09%,"834,225",1.392M,6.414B,N/A
+58,POST,"Post Holdings, Inc.",87.89,-0.88,-0.99%,"351,130","459,696",5.951B,N/A
+59,BJ,"BJ's Wholesale Club Holdings, Inc.",41.48,+0.87,+2.14%,1.701M,2.806M,5.749B,23.33
+60,INGR,Ingredion Incorporated,81.65,+1.62,+2.02%,"352,072","428,985",5.469B,15.80
+61,USFD,US Foods Holding Corp.,24.30,+0.14,+0.58%,"948,385",3.969M,5.362B,N/A
+62,DAR,Darling Ingredients Inc.,32.95,+0.34,+1.04%,1.227M,1.104M,5.337B,13.16
+63,HELE,Helen of Troy Limited,209.48,+0.93,+0.45%,"130,704","189,101",5.305B,30.89
+64,FLO,"Flowers Foods, Inc.",24.52,+0.05,+0.20%,"834,154","977,625",5.189B,53.07
+65,NOMD,Nomad Foods Limited,24.30,-0.15,-0.61%,"682,486",1.015M,4.781B,24.13
+66,LANC,Lancaster Colony Corporation,168.66,-2.64,-1.54%,"67,843","129,558",4.641B,33.27
+67,PFGC,Performance Food Group Company,34.50,+0.36,+1.05%,"814,301",1.409M,4.571B,N/A
+68,LOPE,"Grand Canyon Education, Inc.",96.13,-0.53,-0.55%,"244,468","344,888",4.545B,18.16
+69,PPC,Pilgrim's Pride Corporation,16.45,+0.04,+0.24%,"623,327",1.316M,4.014B,15.55
+70,GO,Grocery Outlet Holding Corp.,42.88,0.00,0.00%,1.149M,1.351M,3.928B,"5,360.00"
+71,HAIN,"The Hain Celestial Group, Inc.",33.72,+0.07,+0.22%,"306,200","745,322",3.438B,N/A
+72,FIZZ,National Beverage Corp.,64.64,+0.31,+0.48%,"164,961","250,522",3.014B,23.25
+73,SFM,"Sprouts Farmers Market, Inc.",24.50,+0.03,+0.12%,1.54M,2.504M,2.89B,13.34
+74,LAUR,"Laureate Education, Inc.",13.10,+0.04,+0.31%,"324,527",1.033M,2.751B,N/A
+75,STRA,"Strategic Education, Inc.",117.66,+0.59,+0.50%,"103,157","254,915",2.872B,22.68
+76,SAFM,"Sanderson Farms, Inc.",117.15,-0.06,-0.05%,"137,941","318,468",2.605B,N/A
+77,COKE,"Coca-Cola Consolidated, Inc.",276.48,+2.16,+0.79%,"29,733","39,785",2.592B,45.73
+78,CCU,Compañía Cervecerías Unidas S.A.,13.84,-0.45,-3.15%,"259,558","169,417",2.56B,5.47
+79,ARCE,Arco Platform Limited,46.37,-0.49,-1.05%,"149,056","335,768",2.548B,909.22
+80,SPB,"Spectrum Brands Holdings, Inc.",58.12,-1.02,-1.72%,"393,807","439,044",2.502B,N/A
+81,JJSF,J & J Snack Foods Corp.,131.43,+0.32,+0.24%,"80,760","102,095",2.483B,66.31
+82,NUS,"Nu Skin Enterprises, Inc.",47.52,0.00,0.00%,"266,135","689,569",2.442B,17.82
+83,THS,"TreeHouse Foods, Inc.",43.45,+0.54,+1.26%,"401,275","602,033",2.455B,N/A
+84,TWOU,"2U, Inc.",37.80,-0.92,-2.38%,"970,825",1.807M,2.434B,N/A
+85,AFYA,Afya Limited,25.92,-0.01,-0.04%,"204,003","278,738",2.411B,N/A
+86,PRMW,Primo Water Corporation,14.76,-0.16,-1.07%,1.599M,1.967M,2.355B,N/A
+87,TR,"Tootsie Roll Industries, Inc.",32.29,-0.02,-0.06%,"170,198","239,460",2.227B,33.92
+88,CALM,"Cal-Maine Foods, Inc.",46.45,+0.35,+0.76%,"179,579","330,377",2.244B,122.56
+89,CENTA,Central Garden & Pet Company,38.92,-0.35,-0.89%,"156,055","247,619",2.175B,19.68
+90,CENT,Central Garden & Pet Company,42.40,-0.50,-1.17%,"63,956","90,434",2.169B,21.44
+91,AKO-B,Embotelladora Andina S.A.,13.07,-0.23,-1.73%,"1,841","4,541",2.062B,13.70
+92,GHC,Graham Holdings Company,410.56,+0.09,+0.02%,"18,737","38,584",2.099B,12.49
+93,PSMT,"PriceSmart, Inc.",66.20,-0.02,-0.03%,"63,742","127,773",2.029B,25.76
+94,BIG,"Big Lots, Inc.",50.05,0.00,0.00%,"805,186",1.979M,1.964B,7.10
+95,LRN,K12 Inc.,45.75,+0.26,+0.57%,"696,816",1.304M,1.89B,76.25
+96,BGS,"B&G Foods, Inc.",29.17,-0.11,-0.38%,"577,807",1.148M,1.872B,16.41
+97,ATGE,Adtalem Global Education Inc.,35.75,+0.09,+0.25%,"263,114","413,631",1.852B,8.96
+98,IBA,"Industrias Bachoco, S.A.B. de C.V.",37.05,+0.40,+1.09%,"2,783","10,553",1.846B,8.76
+99,AKO-A,Embotelladora Andina S.A.,11.62,-0.34,-2.84%,"3,671","2,052",1.833B,12.18
+100,USNA,"USANA Health Sciences, Inc.",83.15,-0.54,-0.65%,"50,784","168,379",1.748B,16.43
+101,EPC,Edgewell Personal Care Company,30.30,-0.27,-0.88%,"312,277","614,131",1.647B,18.86
+102,VGR,Vector Group Ltd.,10.42,+0.19,+1.86%,1.086M,1.067M,1.597B,24.01
+103,IPAR,"Inter Parfums, Inc.",46.40,0.00,0.00%,"95,224","141,268",1.463B,41.06
+104,CORE,"Core-Mark Holding Company, Inc.",31.61,+0.16,+0.51%,"208,316","243,838",1.425B,24.07
+105,WMK,"Weis Markets, Inc.",50.14,+1.03,+2.10%,"46,541","135,114",1.349B,13.31
+106,FDP,Fresh Del Monte Produce Inc.,24.46,-0.17,-0.69%,"118,723","224,352",1.158B,52.04
+107,UVV,Universal Corporation,45.67,+1.21,+2.72%,"205,294","191,163",1.118B,14.81
+108,CVGW,"Calavo Growers, Inc.",63.30,-0.27,-0.42%,"81,869","125,230",1.117B,95.76
+109,UNFI,"United Natural Foods, Inc.",20.37,+0.42,+2.11%,"505,676",1.47M,1.114B,N/A
+110,PRDO,Perdoceo Education Corporation,15.36,+0.07,+0.46%,"313,272","654,011",1.062B,N/A
+111,JBSS,"John B. Sanfilippo & Son, Inc.",89.29,-0.72,-0.80%,"42,151","60,793",1.03B,18.68
+112,ELF,"e.l.f. Beauty, Inc.",20.18,+0.04,+0.20%,"369,030","879,041",1.024B,65.10
+113,NEW,Puxin Limited,10.93,+0.02,+0.18%,"445,619","494,147",951.254M,N/A
+114,BEDU,Bright Scholar Education Holdings Limited,7.63,-0.19,-2.43%,"118,443","54,328",919.789M,24.85
+115,IMKTA,"Ingles Markets, Incorporated",42.92,+0.26,+0.61%,"110,101","112,347",869.551M,6.14
+116,BRBR,"BellRing Brands, Inc.",19.56,+0.02,+0.10%,"173,563","402,014",771.223M,5.98
+117,SPTN,SpartanNash Company,20.58,+0.33,+1.65%,"420,361","520,833",737.449M,14.88
+118,MGPI,"MGP Ingredients, Inc.",36.49,-0.22,-0.60%,"50,080","99,039",617.166M,15.80
+119,STKL,SunOpta Inc.,6.78,+0.09,+1.35%,"307,580","776,490",607.929M,N/A
+120,AGRO,Adecoagro S.A.,5.07,-0.01,-0.20%,"383,544","348,352",592.146M,N/A
+121,ANDE,"The Andersons, Inc.",17.73,+0.46,+2.66%,"159,421","230,673",585.09M,N/A
+122,CHEF,"The Chefs' Warehouse, Inc.",15.21,+0.24,+1.64%,"769,159",1.278M,574.9M,N/A
+123,TPB,"Turning Point Brands, Inc.",28.80,-0.53,-1.81%,"400,628","170,992",553.591M,86.75
+124,COE,China Online Education Group,25.33,-0.61,-2.35%,"3,701","46,026",542.249M,N/A
+125,APEI,"American Public Education, Inc.",35.28,+1.97,+5.91%,"124,735","96,211",522.038M,41.12
+126,REV,"Revlon, Inc.",8.36,-0.01,-0.12%,"90,332","205,080",446.341M,N/A
+127,SENEA,Seneca Foods Corporation,43.33,+0.17,+0.39%,"40,678","43,488",393.076M,5.59
+128,SENEB,Seneca Foods Corporation,41.35,-0.75,-1.78%,5,247,381.901M,5.33
+129,NGVC,"Natural Grocers by Vitamin Cottage, Inc.",13.82,+0.31,+2.29%,"83,895","182,234",311.286M,17.72
+130,BREW,"Craft Brew Alliance, Inc.",15.60,+0.56,+3.72%,"587,833","192,634",304.907M,N/A
+131,DL,China Distance Education Holdings Limited,8.97,0.00,0.00%,"89,528","75,161",303.456M,11.68
+132,LNDC,Landec Corporation,9.74,+0.34,+3.56%,"198,093","173,106",284.788M,N/A
+133,UTI,"Universal Technical Institute, Inc.",8.15,+0.01,+0.12%,"172,851","328,811",265.777M,131.45
+134,LMNR,Limoneira Company,14.69,+0.38,+2.66%,"29,856","79,011",262.33M,N/A
+135,VLGEA,"Village Super Market, Inc.",25.11,+0.72,+2.95%,"38,166","49,744",257.227M,16.18
+136,ALCO,"Alico, Inc.",31.00,-0.52,-1.65%,"7,768","21,455",232.241M,10.13
+137,LINC,Lincoln Educational Services Corporation,7.53,+0.83,+12.39%,"425,714","136,676",198.525M,20.86
+138,ZVO,Zovio Inc,5.76,+0.55,+10.56%,1.062M,"675,293",185.12M,N/A
+139,GPX,GP Strategies Corporation,9.69,+0.11,+1.15%,"17,244","66,004",165.393M,16.94
+140,FARM,Farmer Bros. Co.,6.68,+0.43,+6.88%,"223,554","111,795",115.802M,N/A
+141,MTEX,"Mannatech, Incorporated",16.74,-0.06,-0.36%,"3,900","3,374",35.175M,8.96
+142,RYCE,Amira Nature Foods Ltd.,6.71,+0.08,+1.24%,"31,212","35,709",13.545M,N/A
+143,CHSCO,CHS Inc.,27.31,+0.09,+0.33%,"14,044","17,369",N/A,N/A
+144,CHSCM,CHS Inc.,26.07,+0.08,+0.31%,"18,289","26,542",N/A,N/A
+145,CHSCL,CHS Inc.,27.76,+0.04,+0.14%,"16,865","34,466",N/A,N/A
+146,VSTA,Vasta Platform Limited,19.02,+0.72,+3.93%,"496,111",1.619M,1.579B,N/A
+147,CHSCN,CHS Inc.,26.54,+0.18,+0.68%,"19,581","32,193",N/A,N/A
+148,CHSCP,CHS Inc.,28.10,+0.05,+0.18%,"21,507","17,582",N/A,N/A

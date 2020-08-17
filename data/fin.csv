@@ -1,0 +1,1268 @@
+,Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap,PE Ratio (TTM)
+0,HSBC-PA,HSBC Holdings plc ADR A 1/40PF A,25.97,0.00,0.00%,"48,146","83,135",531.333B,55.02
+1,BRK-A,Berkshire Hathaway Inc.,"316,251.00","-1,863.00",-0.59%,221,"1,111",503.383B,23.10
+2,BRK-B,Berkshire Hathaway Inc.,210.96,-1.02,-0.48%,3.372M,6.438M,503.912B,0.02
+3,V,Visa Inc.,196.64,-0.94,-0.48%,4.922M,8.24M,431.711B,37.37
+4,JPM-PC,JPMorgan Chase & Co.,28.20,+0.02,+0.07%,"70,136","123,438",369.922B,3.78
+5,SAN-PB,"Banco Santander, S.A. GTD PFD SECS 6",23.19,+0.20,+0.87%,"4,082","12,904",356.674B,50.97
+6,JPM-PD,JPMorgan Chase & Co.,27.50,-0.01,-0.04%,"78,358","139,624",365.354B,3.68
+7,BAC-PL,Bank of America Corporation,"1,464.43",-8.56,-0.58%,"7,494","9,161",288.009B,704.73
+8,JPM,JPMorgan Chase & Co.,102.41,+0.04,+0.04%,11.712M,21.551M,312.105B,13.71
+9,BAC-PK,Bank of America Corporation,27.16,0.00,0.00%,"43,567","55,224",272.488B,13.07
+10,MA,Mastercard Incorporated,326.80,+0.61,+0.19%,1.404M,4.001M,327.146B,45.23
+11,BAC-PE,Bank of America Corporation,24.81,+0.02,+0.09%,"25,019","17,146",294.691B,11.94
+12,BML-PL,Bank of America Corporation,24.08,+0.01,+0.04%,"27,375","30,079",296.695B,11.59
+13,BAC-PC,Bank of America Corporation,25.89,+0.06,+0.23%,"49,890","72,071",262.305B,12.46
+14,WFC-PL,Wells Fargo & Company,"1,361.00",+0.95,+0.07%,"5,520","19,649",212.712B,"1,466.59"
+15,WFC-PY,Wells Fargo & Company,26.26,-0.05,-0.19%,"41,294","39,259",214.422B,28.30
+16,WFC-PN,Wells Fargo & Company,25.36,0.00,0.00%,"19,075","43,421",213.774B,27.33
+17,WFC-PX,Wells Fargo & Company,25.73,-0.08,-0.31%,"52,099","68,522",214.321B,27.73
+18,WFC-PW,Wells Fargo & Company,25.84,+0.04,+0.16%,"27,953","57,589",210.17B,27.84
+19,WFC-PO,Wells Fargo & Company,25.30,+0.03,+0.12%,"19,666","41,229",213.696B,27.26
+20,WFC-PP,Wells Fargo & Company,25.32,+0.01,+0.04%,"12,846","41,333",213.352B,27.28
+21,BML-PG,Bank of America Corporation,20.50,-0.03,-0.15%,"2,446","4,541",276.818B,9.87
+22,BML-PH,Bank of America Corporation,20.53,+0.09,+0.44%,"16,493","15,339",278.354B,9.88
+23,WFC-PT,Wells Fargo & Company,25.93,-0.07,-0.27%,"18,785","12,366",213.874B,27.94
+24,WFC-PR,Wells Fargo & Company,27.22,+0.16,+0.59%,"106,979","94,610",200.641B,29.33
+25,WFC-PQ,Wells Fargo & Company,25.52,-0.08,-0.31%,"143,221","183,424",205.114B,27.50
+26,WFC-PV,Wells Fargo & Company,25.66,+0.01,+0.04%,"32,416","50,128",207.346B,27.65
+27,BAC-PB,Bank of America Corporation,27.26,+0.05,+0.18%,"66,821","56,179",272.468B,13.12
+28,BAC,Bank of America Corporation,26.47,+0.12,+0.46%,49.379M,71.71M,229.339B,12.74
+29,BML-PJ,Bank of America Corporation,24.65,-0.05,-0.19%,"7,684","11,974",285.102B,11.86
+30,PYPL,"PayPal Holdings, Inc.",191.46,-1.61,-0.83%,4.848M,7.669M,224.64B,87.87
+31,C-PJ,Citigroup Inc.,28.20,0.00,0.00%,"23,565","65,944",160.073B,4.82
+32,C-PS,Citigroup Inc.,25.81,-0.01,-0.04%,"34,915","66,473",152.913B,4.41
+33,LFC,China Life Insurance Company Limited,12.34,+0.20,+1.65%,"474,925","737,985",137.121B,18.56
+34,C,Citigroup Inc.,52.93,+0.04,+0.08%,13.349M,26.105M,110.193B,9.04
+35,WFC,Wells Fargo & Company,25.30,+0.28,+1.12%,25.592M,48.707M,104.237B,27.26
+36,RY-PT,Royal Bank of Canada,30.39,0.00,0.00%,1,807,99.862B,4.83
+37,RY,Royal Bank of Canada,73.54,-0.32,-0.43%,"393,998",1.08M,104.438B,11.70
+38,MS-PK,Morgan Stanley,27.84,+0.08,+0.29%,"46,510","62,860",75.677B,5.04
+39,MS-PI,Morgan Stanley,28.08,+0.07,+0.25%,"37,251","58,973",74.885B,5.08
+40,GS-PJ,"The Goldman Sachs Group, Inc.",26.61,+0.04,+0.15%,"58,841","78,606",72.804B,2.01
+41,MS,Morgan Stanley,52.30,+0.12,+0.23%,5.686M,12.13M,82.465B,9.47
+42,HSBC,HSBC Holdings plc,22.28,-0.06,-0.27%,1.882M,4.418M,91.074B,N/A
+43,USB-PH,U.S. Bancorp,21.95,+0.03,+0.13%,"63,369","98,749",90.364B,6.87
+44,GS-PK,"The Goldman Sachs Group, Inc.",27.27,-0.01,-0.04%,"43,471","54,371",70.544B,2.06
+45,MS-PF,Morgan Stanley,28.02,-0.07,-0.25%,"28,768","56,056",72.458B,5.07
+46,BLK,"BlackRock, Inc.",588.46,-1.10,-0.19%,"304,210","857,547",89.731B,20.71
+47,GS-PN,"The Goldman Sachs Group, Inc.",26.24,+0.12,+0.46%,"22,672","40,421",101.144B,1.98
+48,MS-PE,Morgan Stanley,28.49,-0.16,-0.56%,"35,460","50,135",72.272B,5.16
+49,TD,The Toronto-Dominion Bank,47.90,-0.10,-0.21%,"850,810",1.784M,86.522B,10.60
+50,USB-PP,U.S. Bancorp,27.45,-0.09,-0.33%,"28,331","79,655",86.119B,8.59
+51,SPGI,S&P Global Inc.,352.27,-3.86,-1.08%,"511,443",1.057M,84.897B,33.22
+52,USB-PO,U.S. Bancorp,25.90,-0.07,-0.27%,"14,717","34,448",84.275B,8.10
+53,GS-PD,"The Goldman Sachs Group, Inc.",23.33,-0.02,-0.09%,"70,480","79,409",82.79B,1.76
+54,MS-PA,Morgan Stanley,23.61,+0.02,+0.09%,"60,227","59,593",83.136B,4.27
+55,USB-PM,U.S. Bancorp,26.82,-0.09,-0.33%,"51,592","92,692",80.938B,8.39
+56,AXP,American Express Company,100.41,-0.01,-0.01%,1.888M,5.137M,80.846B,20.65
+57,GS-PA,"The Goldman Sachs Group, Inc.",22.18,+0.02,+0.09%,"50,846","47,901",81.74B,1.67
+58,GS,"The Goldman Sachs Group, Inc.",207.97,-0.42,-0.20%,2.184M,3.545M,71.557B,15.69
+59,HDB,HDFC Bank Limited,46.67,-0.48,-1.02%,1.225M,2.37M,76.971B,90.18
+60,PUK-PA,Prudential plc PER SUB 6.50%,27.51,-0.07,-0.25%,"9,154","12,287",70.82B,21.00
+61,CME,CME Group Inc.,171.44,+1.87,+1.10%,1.086M,1.927M,61.483B,25.86
+62,MMC,"Marsh & McLennan Companies, Inc.",116.61,-0.54,-0.46%,1.01M,1.945M,59.066B,29.45
+63,PNC-PQ,"The PNC Financial Services Group, Inc.",24.98,-0.01,-0.06%,"44,270","54,031",58.731B,1.55
+64,CB,Chubb Limited,130.14,-1.06,-0.81%,1.374M,2.24M,58.741B,26.99
+65,USB,U.S. Bancorp,37.78,+0.41,+1.10%,3.833M,8.33M,56.91B,11.82
+66,ICE,"Intercontinental Exchange, Inc.",102.49,+2.29,+2.29%,3.954M,2.939M,55.653B,26.50
+67,BNS,The Bank of Nova Scotia,43.52,-0.50,-1.14%,"993,661",1.336M,52.592B,8.49
+68,SCHW-PD,The Charles Schwab Corporation,26.21,-0.03,-0.11%,"27,542","44,952",52.988B,10.97
+69,TFC,Truist Financial Corporation,39.50,+0.68,+1.75%,3.478M,6.044M,53.231B,N/A
+70,BAM,Brookfield Asset Management Inc.,33.64,+0.38,+1.14%,3.963M,2.125M,52.86B,72.19
+71,MCO,Moody's Corporation,281.05,-0.92,-0.33%,"381,400","716,653",52.753B,30.80
+72,SCHW-PC,The Charles Schwab Corporation,25.56,-0.01,-0.02%,"48,532","81,714",52.456B,10.69
+73,PGR,The Progressive Corporation,88.97,-0.07,-0.08%,1.649M,2.777M,52.083B,11.93
+74,AIG-PA,"American International Group, Inc.",27.76,+0.07,+0.25%,"15,081","36,518",49.802B,N/A
+75,MET-PE,"MetLife, Inc.",27.39,+0.13,+0.48%,"31,464","54,339",48.575B,3.55
+76,MET-PA,"MetLife, Inc.",24.44,+0.11,+0.43%,"37,787","46,250",47.473B,3.17
+77,PNC,"The PNC Financial Services Group, Inc.",111.75,+0.74,+0.67%,1.796M,2.919M,47.438B,6.94
+78,UBS,UBS Group AG,12.33,-0.08,-0.64%,1.64M,3.263M,44.222B,10.05
+79,AON,Aon Plc,197.20,+2.53,+1.30%,1.173M,1.491M,45.681B,26.36
+80,WBK,Westpac Banking Corporation,12.81,+0.08,+0.63%,"195,638","377,585",46.703B,7.53
+81,SCHW,The Charles Schwab Corporation,35.05,+0.44,+1.27%,8.07M,10.965M,45.167B,14.67
+82,COF-PG,Capital One Financial Corporation,25.66,+0.14,+0.53%,"27,442","49,573",43.491B,N/A
+83,COF-PH,Capital One Financial Corporation,26.31,+0.08,+0.32%,"16,561","37,664",42.669B,N/A
+84,PUK,Prudential plc,32.72,-0.34,-1.03%,"118,355","402,657",42.706B,302.96
+85,COF-PF,Capital One Financial Corporation,25.35,+0.02,+0.07%,"45,871","36,113",41.823B,N/A
+86,BK-PC,The Bank of New York Mellon Corporation,25.44,-0.04,-0.16%,"25,631","42,554",41.066B,5.48
+87,SMFG,"Sumitomo Mitsui Financial Group, Inc.",5.76,-0.03,-0.52%,"743,242",1.52M,39.571B,5.42
+88,BMO,Bank of Montreal,58.92,+0.11,+0.19%,"378,227","741,779",37.628B,9.59
+89,BX,The Blackstone Group Inc.,52.74,-0.44,-0.83%,1.691M,3.184M,36.484B,237.57
+90,MET,"MetLife, Inc.",39.61,+0.17,+0.43%,6.529M,6.127M,35.952B,5.14
+91,ALL-PG,The Allstate Corporation,27.79,-0.03,-0.11%,"20,439","31,328",35.692B,2.08
+92,ALL-PH,The Allstate Corporation,26.84,-0.07,-0.26%,"84,362","109,499",34.574B,1.91
+93,BK,The Bank of New York Mellon Corporation,37.53,+0.25,+0.67%,2.584M,5.671M,33.246B,8.09
+94,CM,Canadian Imperial Bank of Commerce,73.35,-0.04,-0.05%,"202,373","478,785",32.56B,8.38
+95,ING,ING Groep N.V.,8.13,-0.07,-0.85%,3.04M,6.715M,31.697B,6.12
+96,COF,Capital One Financial Corporation,69.47,+1.83,+2.71%,2.913M,4.151M,31.723B,N/A
+97,IBN,ICICI Bank Limited,9.76,-0.32,-3.17%,5.73M,7.365M,30.865B,28.05
+98,TROW,"T. Rowe Price Group, Inc.",136.94,-0.32,-0.23%,"698,123",1.163M,31.083B,16.25
+99,KKR,KKR & Co. Inc.,36.63,+0.40,+1.09%,2.91M,3.989M,30.957B,123.33
+100,TRV,"The Travelers Companies, Inc.",118.60,-0.67,-0.56%,"579,883",1.761M,30.028B,16.80
+101,ALL,The Allstate Corporation,96.12,-0.14,-0.15%,1.519M,2.038M,30.02B,7.20
+102,MSCI,MSCI Inc.,356.41,-3.46,-0.96%,"299,881","544,122",29.809B,58.05
+103,MFC,Manulife Financial Corporation,15.06,-0.13,-0.85%,1.492M,2.88M,29.19B,16.39
+104,PRU,"Prudential Financial, Inc.",70.59,+1.05,+1.51%,1.562M,3.212M,27.883B,N/A
+105,CS,Credit Suisse Group AG,11.38,-0.03,-0.26%,2.264M,2.908M,27.947B,N/A
+106,HBANN,Huntington Bancshares Incorporated,26.86,+0.41,+1.55%,"1,892","3,780",29.278B,33.83
+107,AFL,Aflac Incorporated,38.07,+0.32,+0.85%,2.452M,3.763M,27.141B,9.52
+108,AIG,"American International Group, Inc.",30.99,+0.28,+0.91%,4.765M,6.682M,26.696B,N/A
+109,WLTW,Willis Towers Watson Public Limited Company,201.51,+2.76,+1.39%,"433,319","698,655",25.966B,25.74
+110,SLF,Sun Life Financial Inc.,42.75,+0.01,+0.02%,"312,244","638,501",24.952B,16.18
+111,STT,State Street Corporation,70.53,+0.18,+0.26%,"835,529",2.358M,24.854B,11.30
+112,BCS,Barclays PLC,5.65,+0.03,+0.53%,1.453M,4.062M,24.587B,50.45
+113,XP,XP Inc.,44.15,-1.01,-2.24%,"864,763",1.552M,24.362B,N/A
+114,KKR-PA,KKR & Co. Inc.,26.51,+0.02,+0.06%,"10,323","20,281",22.147B,8.38
+115,STT-PG,State Street Corporation,28.15,-0.06,-0.20%,"24,186","33,453",21.64B,4.51
+116,IBKR,"Interactive Brokers Group, Inc.",52.16,+1.41,+2.78%,"602,838","713,696",21.736B,32.42
+117,NDAQ,"Nasdaq, Inc.",129.24,-1.04,-0.80%,"678,376","707,098",21.229B,27.04
+118,STT-PD,State Street Corporation,27.56,+0.02,+0.07%,"65,712","64,463",21.101B,4.42
+119,HIG-PG,"The Hartford Financial Services Group, Inc.",27.88,0.00,0.00%,"21,512","18,625",20.711B,5.61
+120,AMTD,TD Ameritrade Holding Corporation,37.95,+0.51,+1.36%,1.417M,3.981M,20.529B,10.63
+121,AJG,Arthur J. Gallagher & Co.,106.99,-0.20,-0.19%,"378,400","994,090",20.485B,28.42
+122,KKR-PB,KKR & Co. Inc.,27.20,-0.35,-1.27%,"3,977","8,510",20.322B,10.01
+123,FRC,First Republic Bank,117.34,-0.25,-0.21%,"499,133","938,284",20.196B,22.14
+124,KEY-PK,KeyCorp,27.56,-0.01,-0.04%,"21,787","35,431",19.955B,24.50
+125,BSBR,Banco Santander (Brasil) S.A.,5.36,-0.03,-0.56%,"401,806",1.406M,19.822B,6.77
+126,DB,Deutsche Bank Aktiengesellschaft,9.52,-0.03,-0.31%,2.097M,5.06M,19.522B,N/A
+127,AMP,"Ameriprise Financial, Inc.",159.66,+0.66,+0.42%,"464,854","929,115",19.202B,8.30
+128,FITBI,Fifth Third Bancorp,27.10,+0.05,+0.18%,"39,278","32,696",18.958B,13.89
+129,MKTX,MarketAxess Holdings Inc.,496.50,-0.26,-0.05%,"106,599","237,095",18.853B,71.95
+130,KEY-PJ,KeyCorp,26.97,-0.09,-0.33%,"32,892","25,727",17.999B,23.97
+131,KEY-PI,KeyCorp,29.07,+0.07,+0.24%,"28,339","36,202",17.377B,25.84
+132,NTRS,Northern Trust Corporation,83.42,+0.77,+0.93%,"616,275",1.316M,17.359B,12.98
+133,FRC-PI,First Republic Bank,27.28,-0.03,-0.11%,"25,656","19,091",17.199B,5.15
+134,FRC-PH,First Republic Bank,26.30,+0.02,+0.09%,"4,801","8,043",16.942B,4.96
+135,DFS,Discover Financial Services,54.30,+0.87,+1.63%,1.484M,4.666M,16.639B,16.78
+136,FRC-PG,First Republic Bank,25.83,-0.01,-0.04%,"4,471","7,600",16.259B,4.87
+137,CFG-PD,"Citizens Financial Group, Inc.",27.19,+0.01,+0.04%,"12,232","29,095",16.221B,10.78
+138,FRC-PF,First Republic Bank,25.47,-0.08,-0.31%,"2,056","4,121",15.827B,4.81
+139,RF-PC,Regions Financial Corporation,27.00,-0.02,-0.07%,"11,277","56,596",15.516B,40.36
+140,ACGLP,Arch Capital Group Ltd.,25.59,-0.06,-0.21%,"28,309","38,646",15.529B,9.43
+141,IX,ORIX Corporation,61.48,-0.12,-0.19%,"23,175","61,052",15.333B,5.74
+142,HIG,"The Hartford Financial Services Group, Inc.",42.81,+0.35,+0.82%,1.7M,2.725M,15.334B,8.62
+143,NMR,"Nomura Holdings, Inc.",5.04,-0.02,-0.40%,"52,748","239,071",15.314B,18.26
+144,ACGLO,Arch Capital Group Ltd.,26.10,-0.08,-0.31%,"18,328","17,814",15.219B,9.62
+145,MKL,Markel Corporation,"1,097.18",+13.27,+1.22%,"33,869","53,571",15.117B,70.60
+146,RF-PA,Regions Financial Corporation,25.82,-0.07,-0.27%,"24,143","44,147",14.974B,38.59
+147,FITB,Fifth Third Bancorp,20.96,+0.22,+1.06%,3.283M,7.691M,14.929B,10.74
+148,SYF,Synchrony Financial,24.93,+0.23,+0.93%,3.741M,7.417M,14.553B,7.41
+149,RF-PB,Regions Financial Corporation,27.25,-0.15,-0.55%,"21,413","42,578",14.213B,40.73
+150,MTB,M&T Bank Corporation,109.21,+1.38,+1.28%,"353,602","921,155",14.009B,10.13
+151,APO-PB,"Apollo Global Management, Inc.",27.25,-0.19,-0.69%,"6,721","18,848",13.896B,N/A
+152,APO-PA,"Apollo Global Management, Inc.",26.80,-0.04,-0.15%,"7,048","15,474",13.783B,N/A
+153,FDS,FactSet Research Systems Inc.,354.59,-1.37,-0.38%,"131,351","239,534",13.472B,36.53
+154,KB,KB Financial Group Inc.,33.84,-0.83,-2.39%,"138,396","224,231",13.494B,4.43
+155,SHG,"Shinhan Financial Group Co., Ltd.",27.84,-0.57,-2.01%,"101,449","144,560",13.348B,5.23
+156,HBANO,Huntington Bancshares Incorporated,25.60,0.00,0.00%,"16,581","31,606",13.295B,32.24
+157,PNC-PP,"The PNC Financial Services Group, Inc. DEPOSITARY SHS REP 1/4000TH PERP PFD SER P",26.64,+0.07,+0.26%,"76,113","92,408",12.787B,2.32
+158,ACGL,Arch Capital Group Ltd.,32.25,-0.11,-0.34%,"764,717",2.162M,13.093B,11.88
+159,BRO,"Brown & Brown, Inc.",45.82,0.00,0.00%,"424,147",1.161M,12.959B,29.56
+160,SIVB,SVB Financial Group,250.38,+0.78,+0.31%,"210,700","375,496",12.96B,14.57
+161,CINF,Cincinnati Financial Corporation,80.11,+0.53,+0.67%,"605,423",1.391M,12.886B,23.45
+162,TW,Tradeweb Markets Inc.,55.28,+0.77,+1.41%,1.217M,1.173M,12.56B,65.34
+163,KEY,KeyCorp,12.75,+0.12,+0.95%,4.122M,11.431M,12.444B,11.33
+164,PFG,"Principal Financial Group, Inc.",45.22,+0.34,+0.75%,1.086M,1.684M,12.414B,9.95
+165,ETFC,E*TRADE Financial Corporation,54.36,+0.15,+0.28%,1.252M,2.365M,12.019B,15.71
+166,ERIE,Erie Indemnity Company,217.32,+1.60,+0.74%,"31,906","62,117",11.364B,38.53
+167,RF,Regions Financial Corporation,11.77,+0.15,+1.29%,4.996M,10.799M,11.301B,17.59
+168,WRB,W. R. Berkley Corporation,62.28,-0.57,-0.91%,"510,854","805,358",11.086B,34.14
+169,CFG,"Citizens Financial Group, Inc.",25.90,+0.21,+0.82%,1.893M,5.597M,11.055B,10.27
+170,APO,"Apollo Global Management, Inc.",47.87,-0.62,-1.28%,1.035M,1.757M,10.973B,N/A
+171,BEN,"Franklin Resources, Inc.",21.95,+0.07,+0.32%,1.57M,3.783M,10.873B,10.70
+172,L,Loews Corporation,37.61,-0.25,-0.66%,"558,438",1.147M,10.547B,N/A
+173,BAP,Credicorp Ltd.,131.86,+0.03,+0.02%,"228,258","445,155",10.47B,11.46
+174,RJF,"Raymond James Financial, Inc.",75.98,+0.90,+1.20%,"353,670","865,319",10.421B,12.25
+175,HBAN,Huntington Bancshares Incorporated,9.90,+0.13,+1.33%,5.322M,10.9M,10.071B,12.47
+176,FNF,"Fidelity National Financial, Inc.",33.10,-0.30,-0.90%,1.298M,2.905M,9.66B,10.97
+177,EQH,"Equitable Holdings, Inc.",21.80,+0.09,+0.41%,1.781M,3.168M,9.797B,269.14
+178,WU,The Western Union Company,23.64,+0.20,+0.85%,3.365M,6.228M,9.716B,16.37
+179,ALLY,Ally Financial Inc.,22.64,+0.34,+1.52%,2.381M,5.91M,8.464B,12.67
+180,CG,The Carlyle Group Inc.,27.14,+0.14,+0.52%,"723,988",2.338M,9.464B,N/A
+181,GS-PC,"The Goldman Sachs Group, Inc. PFD 1/1000 C",23.49,+0.08,+0.33%,"16,553","15,487",9.118B,1.88
+182,RNR,RenaissanceRe Holdings Ltd.,179.02,-1.41,-0.78%,"170,746","501,296",9.169B,14.11
+183,CNA,CNA Financial Corporation,33.76,-0.01,-0.03%,"108,724","313,663",9.162B,19.63
+184,GL,Globe Life Inc.,85.48,+0.50,+0.59%,"244,752","577,398",9.105B,12.52
+185,RE,"Everest Re Group, Ltd.",225.28,+0.02,+0.01%,"217,912","378,088",9.005B,17.29
+186,BCH,Banco de Chile,17.42,-0.06,-0.34%,"66,888","148,331",8.854B,9.68
+187,CACC,Credit Acceptance Corporation,485.53,-10.30,-2.08%,"233,295","194,439",8.569B,26.44
+188,RNR-PF,RenaissanceRe Holdings Ltd.,27.27,-0.10,-0.37%,"11,942","16,860",8.532B,2.15
+189,ATH-PA,Athene Holding Ltd.,26.08,+0.16,+0.62%,"926,087","97,612",8.177B,3.14
+190,RNR-PE,RenaissanceRe Holdings Ltd.,25.46,-0.11,-0.43%,"11,877","14,025",8.085B,2.01
+191,VOYA-PB,"Voya Financial, Inc.",26.54,-0.39,-1.45%,"21,974","26,052",8.082B,7.75
+192,Y,Alleghany Corporation,549.70,+3.31,+0.61%,"41,732","65,960",7.867B,N/A
+193,BSAC,Banco Santander-Chile,16.05,+0.05,+0.31%,"461,075","428,587",7.616B,8.02
+194,SEIC,SEI Investments Company,53.23,-0.04,-0.08%,"391,599","676,715",7.798B,17.20
+195,LNC,Lincoln National Corporation,38.82,+0.62,+1.62%,1.114M,2.065M,7.502B,35.10
+196,AIZ,"Assurant, Inc.",125.07,+0.63,+0.51%,"208,317","448,249",7.46B,19.81
+197,AIZP,"Assurant, Inc.",122.44,-1.56,-1.26%,695,"15,484",7.171B,19.39
+198,ATH,Athene Holding Ltd.,36.93,+0.61,+1.68%,1.258M,2.055M,7.174B,15.48
+199,CBSH,"Commerce Bancshares, Inc.",60.97,+0.32,+0.53%,"232,228","468,760",6.8B,23.02
+200,MORN,"Morningstar, Inc.",157.31,-0.88,-0.56%,"67,164","91,152",6.752B,45.73
+201,LPLA,LPL Financial Holdings Inc.,83.60,-0.17,-0.20%,"231,738","821,884",6.612B,13.27
+202,PBCTP,"People's United Financial, Inc.",27.15,+1.13,+4.34%,"11,671","23,728",6.59B,23.88
+203,VOYA,"Voya Financial, Inc.",52.16,+0.26,+0.50%,"622,447",1.25M,6.582B,N/A
+204,RGA,"Reinsurance Group of America, Incorporated",95.38,+0.95,+1.01%,"265,196","951,880",6.415B,10.73
+205,CIB,Bancolombia S.A.,26.29,-0.25,-0.94%,"106,164","521,803",6.322B,N/A
+206,OAK-PB,"Oaktree Capital Group, LLC",27.46,-0.31,-1.12%,"7,290","12,637",7.105B,12.61
+207,ARCC,Ares Capital Corporation,14.57,-0.23,-1.55%,2.759M,2.35M,6.158B,141.46
+208,CBSHP,"Commerce Bancshares, Inc.",25.01,+0.01,+0.04%,"14,826","6,246",6.102B,9.44
+209,AFG,"American Financial Group, Inc.",67.61,0.00,0.00%,"352,607","706,701",5.986B,26.31
+210,CMA,Comerica Incorporated,41.82,+0.58,+1.41%,1.064M,2.044M,5.815B,9.95
+211,ARES-PA,Ares Management Corporation,26.24,-0.10,-0.38%,"12,649","23,182",5.796B,46.94
+212,SBNY,Signature Bank,107.43,+0.02,+0.02%,"447,371","440,373",5.754B,11.14
+213,FAF,First American Financial Corporation,51.37,-0.33,-0.64%,"689,624","867,571",5.729B,9.06
+214,ZION,"Zions Bancorporation, National Association",34.49,+0.23,+0.67%,"836,686",2.175M,5.656B,13.49
+215,SC,Santander Consumer USA Holdings Inc.,17.84,+0.10,+0.56%,"612,693",1.013M,5.461B,21.60
+216,FHN,First Horizon National Corporation,10.09,+0.27,+2.75%,4.919M,7.409M,5.593B,10.84
+217,WF,Woori Financial Group Inc.,23.00,-0.07,-0.30%,"10,683","53,833",5.598B,4.11
+218,EWBC,"East West Bancorp, Inc.",38.46,+0.11,+0.29%,"408,163",1.068M,5.442B,9.23
+219,PB,"Prosperity Bancshares, Inc.",58.25,+0.07,+0.12%,"329,974","549,963",5.397B,11.58
+220,PRI,"Primerica, Inc.",135.80,+0.35,+0.26%,"101,538","172,034",5.367B,15.48
+221,GAB-PG,The Gabelli Equity Trust Inc. PFD-G,25.58,+0.03,+0.13%,"1,482","3,049",5.624B,21.14
+222,KMPR,Kemper Corporation,81.61,+0.41,+0.50%,"146,253","305,287",5.332B,12.33
+223,ARES,Ares Management Corporation,40.01,-0.14,-0.35%,"455,827",1.075M,5.73B,71.57
+224,GOCO,"GoHealth, Inc.",16.82,+1.11,+7.07%,1.74M,3.916M,5.268B,N/A
+225,SNV-PD,Synovus Financial Corp.,25.46,+0.07,+0.28%,"8,702","23,878",5.243B,9.85
+226,AXS-PE,AXIS Capital Holdings Limited,25.52,+0.01,+0.04%,"16,972","50,257",5.064B,N/A
+227,ORI,Old Republic International Corporation,16.56,-0.14,-0.84%,1.176M,2.148M,5.035B,18.26
+228,IVZ,Invesco Ltd.,10.68,-0.02,-0.19%,4.454M,7.121M,4.904B,10.58
+229,ORCC,Owl Rock Capital Corporation,12.41,+0.15,+1.22%,1.427M,1.011M,4.774B,8.73
+230,PBCT,"People's United Financial, Inc.",11.36,+0.12,+1.07%,2.586M,4.481M,4.825B,9.99
+231,JEF,Jefferies Financial Group Inc.,17.80,+0.31,+1.77%,1.372M,2.484M,4.746B,13.54
+232,CFR,"Cullen/Frost Bankers, Inc.",75.67,+0.29,+0.38%,"316,392","439,815",4.745B,13.61
+233,NYCB,"New York Community Bancorp, Inc.",10.18,+0.06,+0.59%,2.952M,3.685M,4.723B,12.89
+234,VIRT,"Virtu Financial, Inc.",23.97,+0.06,+0.25%,1.35M,1.454M,4.631B,7.41
+235,NYCB-PA,"New York Community Bancorp, Inc.",26.60,+0.20,+0.76%,"21,504","27,019",4.548B,33.67
+236,FFIN,"First Financial Bankshares, Inc.",31.79,+0.27,+0.86%,"249,303","584,595",4.486B,25.23
+237,BHFAP,"Brighthouse Financial, Inc.",26.92,-0.01,-0.06%,"34,747","35,336",4.463B,1.10
+238,WBS-PF,Webster Financial Corporation,26.32,-0.61,-2.27%,"11,630","7,840",4.457B,9.02
+239,FHN-PA,First Horizon National Corporation,25.88,+0.06,+0.23%,"1,928","6,190",4.44B,27.80
+240,EV,Eaton Vance Corp.,38.41,+0.12,+0.31%,"252,649","835,680",4.394B,11.26
+241,TCF,TCF Financial Corporation,28.66,+0.84,+3.02%,"708,327","863,244",4.363B,20.95
+242,TFSL,TFS Financial Corporation,15.41,+0.07,+0.46%,"209,809","273,931",4.317B,48.16
+243,SSB,South State Corporation,60.69,+0.66,+1.10%,"275,357","410,369",4.304B,55.12
+244,BOKF,BOK Financial Corporation,59.91,-0.22,-0.37%,"948,091","266,493",4.212B,11.16
+245,KNSL,"Kinsale Capital Group, Inc.",196.93,-5.67,-2.80%,"119,312","152,017",4.27B,67.14
+246,ESGR,Enstar Group Limited,187.26,+2.76,+1.50%,"23,369","48,528",4.147B,6.89
+247,STL-PA,Sterling Bancorp,26.00,+0.16,+0.62%,"4,220","6,615",4.136B,18.08
+248,SF-PB,Stifel Financial Corp.,27.17,+0.01,+0.04%,"3,289","9,196",4.14B,5.02
+249,TREE,"LendingTree, Inc.",314.10,-3.84,-1.21%,"124,620","152,763",4.119B,N/A
+250,RLI,RLI Corp.,90.90,+0.44,+0.49%,"158,978","213,200",4.086B,35.45
+251,ESNT,Essent Group Ltd.,36.25,+0.34,+0.95%,"540,399",1.772M,4.075B,7.89
+252,NEA,Nuveen AMT-Free Quality Municipal Income Fund,14.57,-0.07,-0.48%,"604,576","528,296",4.059B,285.69
+253,OMF,"OneMain Holdings, Inc.",29.99,+0.36,+1.21%,"525,157",1.009M,4.028B,6.46
+254,THG,"The Hanover Insurance Group, Inc.",106.51,+0.50,+0.47%,"158,596","274,825",4.019B,13.79
+255,HLI,"Houlihan Lokey, Inc.",57.35,+0.43,+0.76%,"201,304","521,131",3.985B,20.19
+256,FCNCA,"First Citizens BancShares, Inc.",415.40,+5.06,+1.23%,"222,081","54,357",3.976B,10.16
+257,ASB-PC,Associated Banc-Corp,25.62,-0.10,-0.39%,530,"1,224",3.886B,12.12
+258,PFSI,"PennyMac Financial Services, Inc.",49.50,+1.34,+2.78%,1.005M,"848,304",3.583B,4.31
+259,WAL,Western Alliance Bancorporation,38.49,+0.32,+0.84%,"246,347","795,765",3.856B,9.02
+260,AXS,AXIS Capital Holdings Limited,46.00,-0.19,-0.41%,"887,593","963,003",3.878B,N/A
+261,UNM,Unum Group,19.05,+0.18,+0.95%,1.308M,3.307M,3.878B,4.05
+262,CEF,Sprott Physical Gold and Silver Trust,19.77,-0.29,-1.45%,"891,669",1.238M,3.852B,13.56
+263,ESGRO,Enstar Group Limited,27.10,-0.08,-0.29%,"10,719","12,119",3.843B,1.00
+264,JHG,Janus Henderson Group plc,20.75,-0.15,-0.72%,"593,558",1.797M,3.815B,51.49
+265,ESGRP,Enstar Group Limited,26.98,-0.23,-0.85%,"19,101","17,768",3.797B,0.99
+266,UBSI,"United Bankshares, Inc.",28.69,+0.35,+1.24%,"281,128","581,684",3.723B,13.72
+267,HLNE,Hamilton Lane Incorporated,70.42,+0.15,+0.21%,"145,718","221,769",3.701B,38.93
+268,SF,Stifel Financial Corp.,52.80,-0.03,-0.06%,"200,214","411,957",3.62B,9.76
+269,FNB-PE,F.N.B. Corporation,27.50,+0.56,+2.08%,"5,612","5,588",3.621B,28.06
+270,WTFCM,Wintrust Financial Corporation,25.46,+0.04,+0.16%,"13,511","18,158",3.61B,5.66
+271,GSHD,"Goosehead Insurance, Inc",97.26,-3.25,-3.23%,"96,583","181,657",3.562B,511.89
+272,GBCI,"Glacier Bancorp, Inc.",36.87,+0.19,+0.52%,"407,445","711,422",3.518B,15.90
+273,LMND,"Lemonade, Inc.",63.22,+3.96,+6.68%,1.059M,2.632M,3.577B,N/A
+274,ASB-PE,Associated Banc-Corp,26.93,+0.02,+0.07%,955,"2,728",3.467B,12.74
+275,NVG,Nuveen AMT-Free Municipal Credit Income Fund,16.03,+0.01,+0.06%,"173,160","356,428",3.42B,N/A
+276,AMG,"Affiliated Managers Group, Inc.",72.94,+0.59,+0.82%,"191,786","402,857",3.396B,28.58
+277,HKIB,AMTD International Inc.,6.60,0.00,0.00%,"15,666","5,865",3.452B,N/A
+278,OZK,Bank OZK,26.17,+0.24,+0.93%,"507,856",1.109M,3.385B,12.66
+279,LAZ,Lazard Ltd,32.18,-0.10,-0.31%,"376,054","648,023",3.378B,14.06
+280,ASB-PD,Associated Banc-Corp,25.33,-0.15,-0.59%,"2,100","2,673",3.376B,11.98
+281,PNFP,"Pinnacle Financial Partners, Inc.",43.93,+0.44,+1.01%,"302,437","390,612",3.332B,11.26
+282,SIGI,"Selective Insurance Group, Inc.",55.32,-0.53,-0.95%,"290,686","294,587",3.309B,17.74
+283,DNP,DNP Select Income Fund Inc.,10.89,-0.03,-0.27%,"353,909","375,079",3.308B,N/A
+284,VLYPP,Valley National Bancorp,26.51,+0.40,+1.53%,"4,842","9,246",3.29B,34.25
+285,SNV,Synovus Financial Corp.,22.13,+0.38,+1.75%,"591,189",1.681M,3.26B,8.56
+286,VLY,Valley National Bancorp,8.06,+0.03,+0.37%,1.948M,2.298M,3.257B,10.42
+287,VLYPO,Valley National Bancorp,24.34,+0.10,+0.41%,"7,979","11,476",3.247B,31.45
+288,CBU,"Community Bank System, Inc.",60.14,+0.39,+0.65%,"219,426","279,941",3.219B,20.05
+289,SLQT,"SelectQuote, Inc.",19.78,-0.22,-1.10%,"585,789",1.348M,3.28B,N/A
+290,IFS,Intercorp Financial Services Inc.,26.78,+0.56,+2.14%,"21,581","53,930",2.912B,N/A
+291,BPOP,"Popular, Inc.",37.72,+0.39,+1.04%,"644,281","689,490",3.177B,7.07
+292,PHYS,Sprott Physical Gold Trust,15.41,-0.02,-0.13%,1.636M,2.462M,4.535B,N/A
+293,NAD,Nuveen Quality Municipal Income Fund,14.77,-0.04,-0.27%,"248,331","381,241",3.126B,N/A
+294,BHF,"Brighthouse Financial, Inc.",32.18,+0.54,+1.71%,"465,008",1.053M,2.993B,1.32
+295,APAM,Artisan Partners Asset Management Inc.,37.85,-0.10,-0.26%,"344,695","531,292",2.974B,13.76
+296,CNS,"Cohen & Steers, Inc.",61.87,-0.58,-0.93%,"68,449","153,323",2.956B,25.05
+297,TCBIP,"Texas Capital Bancshares, Inc.",25.45,+0.20,+0.79%,"7,588","7,300",2.95B,12.54
+298,MTG,MGIC Investment Corporation,8.69,+0.10,+1.16%,3.552M,5.899M,2.942B,5.94
+299,RDN,Radian Group Inc.,15.26,-0.06,-0.39%,1.104M,2.327M,2.923B,6.92
+300,HOMB,"Home Bancshares, Inc. (Conway, AR)",17.46,+0.04,+0.23%,"486,235","992,179",2.884B,13.87
+301,WTM,"White Mountains Insurance Group, Ltd.",904.13,-10.90,-1.19%,"8,948","16,420",2.804B,29.85
+302,AB,AllianceBernstein Holding L.P.,29.07,-0.38,-1.29%,"318,594","351,139",2.8B,10.81
+303,GDOT,Green Dot Corporation,52.29,-0.09,-0.17%,"279,259","593,074",2.791B,54.19
+304,SLM,SLM Corporation,7.38,+0.09,+1.23%,1.642M,5.175M,2.769B,5.69
+305,OCN,Ocwen Financial Corporation,21.00,-0.15,-0.71%,"79,900","115,714",181.558M,N/A
+306,FOCS,Focus Financial Partners Inc.,39.10,+0.60,+1.57%,"723,594","415,958",2.722B,153.35
+307,PCI,PIMCO Dynamic Credit and Mortgage Income Fund,19.03,+0.05,+0.26%,"257,362","631,233",2.702B,N/A
+308,WBS,Webster Financial Corporation,29.65,+0.91,+3.17%,"487,066","761,269",2.674B,10.16
+309,WTFC,Wintrust Financial Corporation,46.36,+0.85,+1.87%,"176,988","495,511",2.67B,10.31
+310,UMPQ,Umpqua Holdings Corporation,12.01,+0.19,+1.61%,1.397M,1.838M,2.645B,N/A
+311,UMBF,UMB Financial Corporation,54.81,+1.12,+2.09%,"295,593","271,352",2.632B,14.39
+312,FHI,"Federated Hermes, Inc.",26.06,-0.31,-1.18%,"729,234","689,655",2.611B,N/A
+313,PRE-PH,PartnerRe Ltd.,26.14,+0.07,+0.27%,"53,863","49,715",2.614B,N/A
+314,EVR,Evercore Inc.,64.21,+0.86,+1.36%,"229,398","489,733",2.606B,11.51
+315,PRE-PG,PartnerRe Ltd.,25.97,+0.04,+0.15%,"27,800","10,862",2.597B,N/A
+316,CVBF,CVB Financial Corp.,19.12,+0.11,+0.60%,"290,658","667,877",2.592B,14.70
+317,FNB,F.N.B. Corporation,7.98,+0.07,+0.88%,1.72M,2.5M,2.579B,8.14
+318,PRE-PI,PartnerRe Ltd.,25.70,-0.06,-0.23%,"5,878","10,078",2.57B,N/A
+319,PRE-PF,PartnerRe Ltd.,25.66,-0.06,-0.22%,"4,431","2,226",2.566B,N/A
+320,PLMR,"Palomar Holdings, Inc.",100.31,-1.25,-1.23%,"192,377","398,092",2.555B,58.39
+321,FCFS,"FirstCash, Inc.",60.95,+1.06,+1.77%,"258,206","323,944",2.526B,17.46
+322,MCY,Mercury General Corporation,45.51,+0.02,+0.04%,"171,376","322,209",2.519B,13.27
+323,NNI,"Nelnet, Inc.",63.87,-0.27,-0.42%,"52,998","143,790",2.448B,20.88
+324,STL,Sterling Bancorp,12.70,+0.21,+1.68%,1.52M,2.613M,2.47B,8.83
+325,ONB,Old National Bancorp,14.94,+0.18,+1.22%,"407,865","905,800",2.466B,12.99
+326,PACW,PacWest Bancorp,20.54,+0.28,+1.38%,1.198M,1.375M,2.431B,N/A
+327,BXS,BancorpSouth Bank,23.29,+0.39,+1.70%,"370,186","515,461",2.389B,11.44
+328,BOH,Bank of Hawaii Corporation,59.27,+0.57,+0.97%,"194,403","261,892",2.374B,12.90
+329,CNO,"CNO Financial Group, Inc.",16.63,0.00,0.00%,"627,222",1.101M,2.357B,6.52
+330,FHB,"First Hawaiian, Inc.",18.11,+0.17,+0.95%,"942,913",1.779M,2.352B,11.88
+331,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,7.71,+0.01,+0.13%,"506,173","682,400",2.335B,N/A
+332,AEL,American Equity Investment Life Holding Company,25.37,+0.51,+2.05%,"303,365","708,852",2.333B,9.70
+333,PJT,PJT Partners Inc.,59.44,-0.02,-0.03%,"50,524","164,428",2.296B,22.36
+334,ADS,Alliance Data Systems Corporation,47.84,+0.73,+1.55%,"525,473",1.659M,2.283B,43.69
+335,BIPC,Brookfield Infrastructure Corporation,50.27,-1.08,-2.10%,"184,753","292,088",2.257B,N/A
+336,INDB,Independent Bank Corp.,68.75,+0.60,+0.87%,"93,419","144,550",2.265B,15.49
+337,UTF,"Cohen & Steers Infrastructure Fund, Inc",23.97,+0.17,+0.71%,"230,939","253,230",2.242B,3.50
+338,NUV,"Nuveen Municipal Value Fund, Inc.",10.65,0.00,0.00%,"224,854","303,239",2.205B,93.42
+339,BKU,"BankUnited, Inc.",23.66,+0.71,+3.09%,"497,486",1.202M,2.186B,10.93
+340,NZF,Nuveen Municipal Credit Income Fund,15.38,-0.04,-0.26%,"113,418","225,539",2.186B,N/A
+341,PPBI,"Pacific Premier Bancorp, Inc.",23.05,+0.15,+0.66%,"368,072","632,195",2.175B,184.40
+342,COLB,"Columbia Banking System, Inc.",30.31,+0.27,+0.92%,"414,030","412,765",2.17B,14.68
+343,ATCO,Atlas Corp.,8.78,+0.31,+3.66%,"462,096","458,314",2.166B,N/A
+344,ASB,Associated Banc-Corp,14.10,+0.20,+1.44%,"701,314",1.276M,2.167B,6.67
+345,SLMBP,SLM Corporation,33.42,0.00,0.00%,115,"7,777",2.182B,25.79
+346,NAC,Nuveen California Quality Municipal Income Fund,14.91,-0.12,-0.80%,"203,089","190,422",2.158B,6.19
+347,IBOC,International Bancshares Corporation,33.82,+0.27,+0.80%,"102,861","234,704",2.14B,12.24
+348,CSQ,Calamos Strategic Total Return Fund,13.80,-0.02,-0.14%,"164,975","289,488",2.138B,N/A
+349,CATY,Cathay General Bancorp,26.80,+0.16,+0.60%,"171,530","390,873",2.134B,8.87
+350,MAIN,Main Street Capital Corporation,32.80,-0.02,-0.06%,"311,031","416,571",2.16B,N/A
+351,FIBK,"First Interstate BancSystem, Inc.",32.71,+0.89,+2.80%,"208,602","226,793",2.112B,12.69
+352,IBTX,"Independent Bank Group, Inc.",48.42,+0.62,+1.30%,"204,176","815,207",2.093B,11.03
+353,GBDC,"Golub Capital BDC, Inc.",12.47,-0.07,-0.56%,"292,998","599,531",2.086B,N/A
+354,AGO,Assured Guaranty Ltd.,23.87,+0.18,+0.76%,"516,754","800,141",1.994B,6.72
+355,SFBS,"ServisFirst Bancshares, Inc.",38.50,+0.59,+1.56%,"130,445","194,244",2.074B,13.56
+356,ISBC,"Investors Bancorp, Inc.",8.30,+0.08,+0.97%,1.219M,1.68M,2.073B,11.33
+357,CIT,CIT Group Inc.,21.04,+0.79,+3.90%,1.15M,2.715M,2.071B,N/A
+358,ANAT,"American National Group, Inc.",76.78,+1.16,+1.53%,"29,426","44,288",2.064B,14.57
+359,PRAA,"PRA Group, Inc.",44.94,+0.29,+0.65%,"148,108","324,155",2.048B,15.88
+360,AUB,Atlantic Union Bankshares Corporation,25.72,+0.58,+2.31%,"208,019","351,884",2.024B,10.67
+361,SFNC,Simmons First National Corporation,18.33,+0.26,+1.44%,"389,703","725,671",1.998B,7.25
+362,FSK,FS KKR Capital Corp.,16.14,-0.06,-0.37%,"464,791","670,776",1.997B,8.51
+363,BSTZ,BlackRock Science and Technology Trust II,25.35,-0.05,-0.20%,"140,794","258,461",1.98B,N/A
+364,PSEC,Prospect Capital Corporation,5.10,+0.02,+0.39%,"595,158",1.841M,1.914B,N/A
+365,EHTH,"eHealth, Inc.",74.29,-1.60,-2.11%,"713,404",1.027M,1.913B,25.43
+366,NOAH,Noah Holdings Limited,30.59,+0.08,+0.26%,"131,725","375,922",1.885B,14.69
+367,HTH,Hilltop Holdings Inc.,20.74,+0.36,+1.77%,"438,805","447,668",1.871B,6.13
+368,WAFD,"Washington Federal, Inc.",24.70,+0.08,+0.30%,"315,891","457,682",1.87B,10.04
+369,JPS,Nuveen Preferred Securities Income Fund,9.16,+0.04,+0.44%,"457,704","544,726",1.867B,5.62
+370,HWC,Hancock Whitney Corporation,21.56,+0.46,+2.18%,"342,887","597,873",1.862B,N/A
+371,ABCB,Ameris Bancorp,26.35,+0.56,+2.15%,"288,741","431,052",1.831B,13.70
+372,WD,"Walker & Dunlop, Inc.",57.50,+0.48,+0.84%,"146,627","230,706",1.788B,9.32
+373,AMK,"AssetMark Financial Holdings, Inc.",24.72,-0.41,-1.63%,"90,793","135,342",1.791B,172.87
+374,TCBI,"Texas Capital Bancshares, Inc.",35.27,-0.05,-0.14%,"294,033","875,190",1.779B,17.37
+375,ADX,"Adams Diversified Equity Fund, Inc.",16.26,-0.03,-0.18%,"177,557","177,693",1.767B,13.95
+376,BTT,Blackrock Municipal 2030 Target Term Trust,24.97,-0.05,-0.20%,"236,273","118,271",1.761B,38.71
+377,MC,Moelis & Company,31.74,-0.28,-0.87%,"265,340","600,601",1.754B,21.53
+378,FBC,"Flagstar Bancorp, Inc.",30.71,+0.07,+0.23%,"875,360","443,892",1.749B,6.22
+379,BRP,"BRP Group, Inc.",22.17,+1.16,+5.52%,"291,461","301,633",1.744B,N/A
+380,GDV,The Gabelli Dividend & Income Trust,19.21,-0.06,-0.31%,"159,352","249,849",1.742B,3.93
+381,NAVI,Navient Corporation,8.94,+0.22,+2.52%,1.341M,3.5M,1.734B,5.62
+382,ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,11.36,+0.09,+0.80%,"318,979","335,244",1.724B,N/A
+383,WABC,Westamerica Bancorporation,62.97,+0.35,+0.57%,"61,149","138,269",1.696B,21.94
+384,FULT,Fulton Financial Corporation,10.43,+0.20,+1.96%,"605,136",1.207M,1.69B,9.73
+385,SF-PA,Stifel Financial Corp.,26.38,+0.06,+0.23%,"9,622","12,198",1.671B,4.88
+386,DSL,DoubleLine Income Solutions Fund,16.42,-0.10,-0.61%,"199,921","415,504",1.672B,N/A
+387,UCBI,"United Community Banks, Inc.",19.10,+0.14,+0.74%,"916,207","483,707",1.652B,9.94
+388,PSLV,Sprott Physical Silver Trust,9.30,-0.26,-2.72%,4.475M,3.529M,1.639B,N/A
+389,HMN,Horace Mann Educators Corporation,39.68,-0.18,-0.45%,"131,412","177,758",1.641B,15.48
+390,GAB-PH,The Gabelli Equity Trust Inc.,25.58,-0.08,-0.30%,"2,030","3,706",1.616B,20.80
+391,GAB-PJ,The Gabelli Equity Trust Inc.,26.40,-0.03,-0.09%,"6,985","2,413",1.593B,21.46
+392,UTG,Reaves Utility Income Fund,32.33,-0.17,-0.52%,"149,032","278,255",1.663B,N/A
+393,WSFS,WSFS Financial Corporation,31.20,+0.31,+1.00%,"230,752","286,777",1.581B,15.69
+394,AHL-PC,Aspen Insurance Holdings Limited,26.46,-0.19,-0.71%,"8,868","19,495",1.58B,N/A
+395,TRMK,Trustmark Corporation,24.48,+0.39,+1.62%,"289,611","404,234",1.553B,12.15
+396,WSBC,"WesBanco, Inc.",22.88,+0.24,+1.08%,"213,485","302,634",1.538B,14.12
+397,FMBI,"First Midwest Bancorp, Inc.",13.41,+0.22,+1.63%,"560,049","661,074",1.533B,10.46
+398,RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",11.40,+0.21,+1.88%,"604,219","645,600",1.53B,2.79
+399,PTY,PIMCO Corporate & Income Opportunity Fund,15.80,+0.02,+0.13%,"244,062","379,171",1.525B,9.63
+400,EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,20.39,+0.05,+0.25%,"99,667","169,160",1.499B,N/A
+401,CCXX,Churchill Capital Corp III,10.80,+0.05,+0.47%,"880,254",1.648M,1.485B,N/A
+402,AHL-PD,Aspen Insurance Holdings Limited,24.98,-0.03,-0.12%,"8,746","18,970",1.491B,N/A
+403,BANF,BancFirst Corporation,45.58,+0.58,+1.29%,"58,189","207,984",1.489B,13.48
+404,CRVL,CorVel Corporation,82.40,-0.49,-0.59%,"41,236","68,896",1.478B,35.79
+405,AX,"Axos Financial, Inc.",24.89,+0.30,+1.22%,"220,197","364,707",1.484B,8.35
+406,PDI,PIMCO Dynamic Income Fund,24.86,-0.11,-0.45%,"152,466","263,211",1.473B,N/A
+407,RNST,Renasant Corporation,26.00,+0.12,+0.46%,"433,097","234,614",1.461B,15.13
+408,FFBC,First Financial Bancorp.,14.88,+0.27,+1.85%,"207,910","553,611",1.458B,8.90
+409,JRVR,"James River Group Holdings, Ltd.",47.05,-0.76,-1.59%,"135,955","181,822",1.438B,N/A
+410,BDJ,BlackRock Enhanced Equity Dividend Trust,7.67,-0.01,-0.13%,"296,761","527,866",1.438B,3.74
+411,BBN,BlackRock Taxable Municipal Bond Trust,25.19,-0.77,-2.97%,"350,391","149,946",1.439B,N/A
+412,TY,Tri-Continental Corporation,26.84,+0.09,+0.34%,"44,302","58,700",1.438B,4.24
+413,FRME,First Merchants Corporation,26.64,+0.27,+1.02%,"67,530","233,485",1.442B,9.45
+414,CFFN,"Capitol Federal Financial, Inc.",10.00,0.00,0.00%,"400,603","693,296",1.415B,20.12
+415,TOWN,TowneBank,19.40,+0.08,+0.41%,"102,414","191,585",1.409B,10.54
+416,NBTB,NBT Bancorp Inc.,31.98,+0.22,+0.69%,"163,624","157,885",1.395B,14.60
+417,GAB,The Gabelli Equity Trust Inc.,5.50,+0.03,+0.55%,"253,607","612,382",1.393B,4.47
+418,ECPG,"Encore Capital Group, Inc.",44.28,-0.05,-0.11%,"311,190","381,619",1.388B,6.94
+419,NTB,The Bank of N.T. Butterfield & Son Limited,27.02,+0.07,+0.26%,"95,152","231,573",1.373B,8.82
+420,RVT,Royce Value Trust Inc.,13.76,-0.06,-0.43%,"184,761","264,582",1.382B,3.51
+421,CLBK,"Columbia Financial, Inc.",11.80,-0.06,-0.51%,"92,636","173,869",1.358B,26.22
+422,EVV,Eaton Vance Limited Duration Income Fund,11.65,-0.03,-0.21%,"185,392","316,228",1.354B,N/A
+423,NWBI,"Northwest Bancshares, Inc.",10.46,+0.21,+2.05%,"698,009","707,226",1.337B,18.95
+424,FPF,First Trust Intermediate Duration Preferred & Income Fund,21.97,+0.05,+0.23%,"88,702","139,477",1.335B,N/A
+425,HTGC,"Hercules Capital, Inc.",11.65,-0.09,-0.77%,"815,746","868,600",1.331B,13.06
+426,BANR,Banner Corporation,37.64,+0.52,+1.40%,"95,908","201,923",1.325B,11.69
+427,HYT,"BlackRock Corporate High Yield Fund, Inc.",10.86,0.00,0.00%,"255,452","456,373",1.324B,14.60
+428,ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,14.59,-0.03,-0.21%,"87,093","227,365",1.324B,6.05
+429,BTZ,BlackRock Credit Allocation Income Trust,13.94,-0.24,-1.69%,"812,261","283,190",1.303B,6.92
+430,USA,Liberty All-Star Equity Fund,6.09,+0.01,+0.16%,"349,290","716,125",1.296B,3.72
+431,BMA,Banco Macro S.A.,20.24,+0.04,+0.20%,"359,870","740,658",1.293B,2.83
+432,AMSF,"AMERISAFE, Inc.",66.74,+0.55,+0.83%,"81,610","101,879",1.29B,14.29
+433,SG,"Sirius International Insurance Group, Ltd.",11.07,+0.02,+0.18%,"25,398","82,550",1.276B,N/A
+434,FBP,First BanCorp.,5.84,+0.21,+3.73%,1.118M,1.596M,1.274B,12.22
+435,HTLF,"Heartland Financial USA, Inc.",34.46,+0.41,+1.20%,"42,019","120,541",1.271B,10.35
+436,ARGO,"Argo Group International Holdings, Ltd.",36.38,+0.36,+1.00%,"115,998","290,263",1.261B,N/A
+437,LKFN,Lakeland Financial Corporation,49.06,+0.03,+0.06%,"101,300","138,817",1.261B,15.67
+438,VCTR,"Victory Capital Holdings, Inc.",18.39,0.00,0.00%,"632,865","141,922",1.245B,8.22
+439,CADE,Cadence Bancorporation,9.79,+0.69,+7.58%,1.501M,1.89M,1.233B,N/A
+440,BXMX,Nuveen S&P 500 Buy-Write Income Fund,11.76,+0.08,+0.68%,"529,590","289,920",1.224B,5.90
+441,QIWI,Qiwi plc,19.47,-0.33,-1.67%,"163,904","489,706",1.221B,11.81
+442,TSLX,"Sixth Street Specialty Lending, Inc.",18.00,-0.12,-0.66%,"582,578","392,317",1.217B,10.84
+443,SASR,"Sandy Spring Bancorp, Inc.",25.65,+0.45,+1.79%,"160,130","267,288",1.206B,18.37
+444,ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,15.57,-0.04,-0.26%,"94,789","180,641",1.188B,N/A
+445,SAFT,"Safety Insurance Group, Inc.",77.83,-0.43,-0.55%,"32,495","56,558",1.173B,14.23
+446,NFJ,"AllianzGI Dividend, Interest & Premium Strategy Fund",12.32,-0.01,-0.08%,"155,326","231,863",1.168B,7.15
+447,NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,13.27,-0.04,-0.30%,"65,310","102,266",1.158B,7.09
+448,FANH,Fanhua Inc.,21.45,+0.29,+1.37%,"209,320","128,844",1.152B,14.65
+449,SBCF,Seacoast Banking Corporation of Florida,21.27,+0.21,+1.00%,"151,629","255,441",1.127B,14.12
+450,SNEX,StoneX Group Inc.,58.14,+0.32,+0.55%,"26,016","81,026",1.126B,N/A
+451,PIPR,Piper Sandler Companies,77.04,+4.78,+6.61%,"232,214","120,046",1.381B,N/A
+452,PFS,"Provident Financial Services, Inc.",14.18,+0.22,+1.58%,"322,437","441,407",934.089M,10.58
+453,HOPE,"Hope Bancorp, Inc.",8.93,+0.12,+1.42%,"763,381","985,017",1.1B,8.09
+454,VRTS,"Virtus Investment Partners, Inc.",142.62,+0.64,+0.45%,"23,448","49,028",1.093B,21.07
+455,NMZ,Nuveen Municipal High Income Opportunity Fund,13.61,-0.06,-0.44%,"156,410","238,255",1.097B,N/A
+456,OFG-PA,OFG Bancorp PFD A 7.125%,25.61,+0.11,+0.43%,"2,026","1,898",1.125B,26.21
+457,BSIG,BrightSphere Investment Group Inc.,13.46,-0.26,-1.90%,"409,761",1.146M,1.078B,5.91
+458,CHCO,City Holding Company,66.19,+0.06,+0.09%,"78,259","79,192",1.061B,11.74
+459,WPF,Foley Trasimene Acquisition Corp.,10.24,-0.01,-0.10%,"592,513","591,000",1.06B,N/A
+460,BIF,"Boulder Growth & Income Fund, Inc.",10.25,-0.05,-0.49%,"315,926","216,341",1.029B,N/A
+461,OCFC,OceanFirst Financial Corp.,16.95,+0.20,+1.22%,"127,243","248,565",1.023B,11.24
+462,SII,Sprott Inc.,40.10,-0.89,-2.17%,"56,766","91,768",979.454M,N/A
+463,BUSE,First Busey Corporation,18.59,+0.35,+1.92%,"218,100","183,073",1.013B,10.80
+464,WDR,"Waddell & Reed Financial, Inc.",15.50,+0.08,+0.52%,"477,140",1.015M,1B,11.14
+465,OFG-PD,OFG Bancorp,24.67,-0.14,-0.58%,"1,290","3,350",1.006B,54.82
+466,QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund,25.32,-0.12,-0.47%,"74,511","175,549",1.002B,N/A
+467,AGM-PC,Federal Agricultural Mortgage Corporation,26.47,+0.06,+0.24%,110,814,741.783M,3.38
+468,AGM-PA,Federal Agricultural Mortgage Corporation,25.33,-0.47,-1.82%,"18,183","1,589",733.858M,3.23
+469,NMFC,New Mountain Finance Corporation,10.18,-0.06,-0.59%,"450,261","561,990",985.702M,N/A
+470,EIG,"Employers Holdings, Inc.",33.66,+0.03,+0.09%,"144,073","229,293",985.262M,11.96
+471,SBSI,"Southside Bancshares, Inc.",29.76,+0.37,+1.26%,"71,449","142,909",983.071M,16.07
+472,BST,BlackRock Science and Technology Trust,40.92,-0.47,-1.14%,"53,225","108,866",980.472M,N/A
+473,SYBT,"Stock Yards Bancorp, Inc.",43.15,0.00,0.00%,"36,152","90,469",978.72M,16.22
+474,ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,9.04,-0.03,-0.33%,"224,212","351,990",971.682M,5.45
+475,RNP,"Cohen & Steers REIT and Preferred Income Fund, Inc.",20.15,+0.14,+0.70%,"113,788","160,628",958.781M,3.23
+476,EIM,Eaton Vance Municipal Bond Fund,13.29,-0.05,-0.37%,"125,028","185,314",956.258M,18.38
+477,STC,Stewart Information Services Corporation,40.06,-0.42,-1.04%,"305,205","215,690",949.458M,9.02
+478,FBK,FB Financial Corporation,29.52,-0.35,-1.17%,3.442M,"247,328",947.689M,13.59
+479,EOS,Eaton Vance Enhanced Equity Income Fund II,19.00,+0.01,+0.05%,"112,834","137,677",943.924M,4.83
+480,FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.,21.21,-0.01,-0.05%,"64,145","117,111",943.58M,42.08
+481,SRCE,1st Source Corporation,36.66,+0.54,+1.50%,"58,105","73,374",936.678M,11.57
+482,MYI,"BlackRock MuniYield Quality Fund III, Inc.",13.70,0.00,0.00%,"46,290","104,917",933.665M,6.47
+483,FFG,"FBL Financial Group, Inc.",37.75,-0.09,-0.24%,"28,258","43,588",920.473M,11.23
+484,GAM-PB,"General American Investors Company, Inc.",27.09,-0.08,-0.30%,"1,210","5,640",926.641M,N/A
+485,AWF,AllianceBernstein Global High Income Fund,10.71,-0.04,-0.37%,"153,715","201,477",923.52M,N/A
+486,TIGR,UP Fintech Holding Limited,6.52,-0.24,-3.55%,"681,394",1.427M,919.248M,N/A
+487,NBHC,National Bank Holdings Corporation,29.88,+0.28,+0.95%,"99,678","141,726",913.402M,12.50
+488,HQH,Tekla Healthcare Investors,21.23,-0.04,-0.19%,"85,220","143,634",914.654M,N/A
+489,JPC,Nuveen Preferred & Income Opportunities Fund,8.81,-0.02,-0.23%,"197,878","284,726",910.364M,5.49
+490,CCX,Churchill Capital Corp II,10.54,+0.01,+0.09%,"78,164","310,742",909.075M,N/A
+491,CHY,Calamos Convertible and High Income Fund,12.21,0.00,0.00%,"184,711","260,326",894.387M,N/A
+492,SPAQ-UN,Spartan Energy Acquisition Corp.,13.20,+0.10,+0.76%,"1,153","42,060",900.88M,137.50
+493,TCBK,TriCo Bancshares,29.82,+0.06,+0.20%,"59,394","107,215",887.419M,12.99
+494,PML,PIMCO Municipal Income Fund II,14.08,+0.11,+0.79%,"235,198","122,152",881.802M,8.58
+495,AOD,Aberdeen Total Dynamic Dividend Fund,8.13,0.00,0.00%,"359,558","288,007",857.154M,N/A
+496,STBA,"S&T Bancorp, Inc.",21.79,+0.25,+1.16%,"87,391","205,603",855.292M,27.65
+497,AC,"Associated Capital Group, Inc.",37.89,-0.89,-2.29%,"34,898","21,065",847.285M,N/A
+498,EFSC,Enterprise Financial Services Corp,32.34,+0.11,+0.34%,"58,596","123,269",847.502M,10.05
+499,GWB,"Great Western Bancorp, Inc.",15.39,+0.27,+1.79%,"270,866","620,895",846.665M,N/A
+500,VMO,Invesco Municipal Opportunity Trust,12.56,-0.02,-0.16%,"308,855","148,311",846.726M,7.60
+501,GAM,"General American Investors Company, Inc.",34.26,-0.10,-0.29%,"28,945","31,360",844.307M,N/A
+502,BHK,BlackRock Core Bond Trust,15.65,-0.04,-0.25%,"182,706","169,147",844.084M,N/A
+503,FCF,First Commonwealth Financial Corporation,8.60,+0.15,+1.78%,"492,849","632,982",843.941M,10.36
+504,TIG,"Trean Insurance Group, Inc.",16.49,-0.21,-1.26%,"209,265","518,050",843.346M,N/A
+505,CLM,"Cornerstone Strategic Value Fund, Inc.",11.18,-0.03,-0.27%,"395,433","536,952",841.106M,4.13
+506,SPAQ,Spartan Energy Acquisition Corp.,12.20,+0.05,+0.41%,2.73M,5.575M,841.8M,127.08
+507,NWLI,"National Western Life Group, Inc.",229.45,+0.45,+0.20%,"2,515","13,674",834.285M,8.02
+508,TPRE,Third Point Reinsurance Ltd.,8.69,-0.02,-0.23%,"194,503","380,904",825.119M,N/A
+509,BRKL,"Brookline Bancorp, Inc.",10.32,+0.11,+1.13%,"233,207","398,388",814.842M,17.44
+510,JQC,Nuveen Credit Strategies Income Fund,6.03,+0.02,+0.33%,"405,111","600,066",817.722M,9.33
+511,PRA,ProAssurance Corporation,15.15,+0.31,+2.09%,"308,642","503,030",816.421M,N/A
+512,FPAC,Far Point Acquisition Corporation,10.28,0.00,0.00%,6.742M,"619,663",812.762M,N/A
+513,CHI,Calamos Convertible Opportunities and Income Fund,11.43,-0.03,-0.26%,"170,699","212,055",810.659M,N/A
+514,EMD,Western Asset Emerging Markets Debt Fund Inc.,13.29,-0.06,-0.45%,"153,269","214,446",807.314M,5.86
+515,SHLL-UN,Tortoise Acquisition Corp.,28.35,+1.03,+3.77%,"17,530","22,914",799.382M,N/A
+516,FPAC-UN,Far Point Acquisition Corporation,10.29,-0.02,-0.23%,"1,000","1,221",788.317M,N/A
+517,GABC,"German American Bancorp, Inc.",29.68,+0.18,+0.61%,"26,734","59,238",786.455M,14.21
+518,CCH-UN,Collier Creek Holdings,14.70,-0.18,-1.21%,"2,931","8,072",780.488M,262.50
+519,LOB,"Live Oak Bancshares, Inc.",19.22,-0.13,-0.67%,"181,139","191,690",779.048M,120.12
+520,TDF,"Templeton Dragon Fund, Inc.",22.79,-0.06,-0.26%,"47,271","57,934",770.395M,4.65
+521,AGM-PD,Federal Agricultural Mortgage Corporation,26.56,+0.15,+0.57%,"2,943","8,534",778.28M,3.40
+522,CCH,Collier Creek Holdings,13.71,-0.03,-0.22%,"330,164",1.054M,766.046M,244.82
+523,RA,Brookfield Real Assets Income Fund Inc.,17.03,-0.08,-0.47%,"142,131","184,933",764.519M,N/A
+524,SCU,"Sculptor Capital Management, Inc.",13.90,-0.01,-0.07%,"49,431","107,288",767.783M,8.85
+525,CET,Central Securities Corp.,29.41,+0.01,+0.03%,"28,225","20,058",761.401M,N/A
+526,THQ,Tekla Healthcare Opportunities Fund,18.38,-0.04,-0.22%,"97,007","129,530",759.837M,N/A
+527,STFC,State Auto Financial Corporation,17.32,+0.11,+0.64%,"27,734","66,388",759.271M,N/A
+528,PFC,Premier Financial Corp.,20.24,+0.47,+2.35%,"83,666","102,527",754.883M,N/A
+529,FEAC,Flying Eagle Acquisition Corp.,10.87,-0.12,-1.09%,"125,647","618,749",750.03M,N/A
+530,AGM,Federal Agricultural Mortgage Corporation,70.50,+2.00,+2.92%,"61,268","47,412",746.426M,8.99
+531,NKX,Nuveen California AMT-Free Quality Municipal Income Fund,15.62,-0.06,-0.38%,"45,392","58,466",742.267M,5.74
+532,AIO,AllianzGI Artificial Intelligence Opportunities Fund,21.39,-0.17,-0.79%,"73,794","118,474",734.171M,N/A
+533,HFWA,Heritage Financial Corporation,20.42,+0.24,+1.16%,"135,988","214,747",733.08M,18.11
+534,GOF,Guggenheim Strategic Opportunities Fund,17.90,-0.25,-1.38%,"197,650","164,906",759.425M,N/A
+535,IGR,CBRE Clarion Global Real Estate Income Fund,6.24,-0.01,-0.16%,"241,827","388,388",727.522M,3.27
+536,TBK,"Triumph Bancorp, Inc.",29.35,+0.37,+1.28%,"47,565","129,206",729.394M,18.17
+537,GIM,Templeton Global Income Fund,5.38,-0.02,-0.46%,"427,531","467,344",721.695M,47.19
+538,AGM-A,Federal Agricultural Mortgage Corporation,62.00,0.00,0.00%,670,169,725.245M,7.91
+539,KRNY,Kearny Financial Corp.,8.03,+0.11,+1.39%,"244,524","321,019",718.822M,16.83
+540,IIM,Invesco Value Municipal Income Trust,15.27,-0.02,-0.13%,"85,440","92,201",718.553M,7.04
+541,SLRC,Solar Capital Ltd.,16.81,+0.08,+0.48%,"139,310","135,596",710.404M,N/A
+542,SHLL,Tortoise Acquisition Corp.,24.45,+0.45,+1.88%,8.009M,4.077M,712.133M,N/A
+543,OCSL,Oaktree Specialty Lending Corporation,5.03,-0.04,-0.79%,1.265M,"513,873",709.034M,N/A
+544,OFG,OFG Bancorp,13.77,+0.39,+2.91%,"414,192","385,922",706.982M,30.60
+545,CASH,"Meta Financial Group, Inc.",20.30,+0.19,+0.94%,"103,377","286,734",702.94M,6.63
+546,WIW,Western Asset Inflation-Linked Opportunities & Income Fund,11.47,-0.01,-0.09%,"73,990","153,622",701.782M,43.12
+547,HTD,John Hancock Tax-Advantaged Dividend Income Fund,19.80,-0.35,-1.74%,"96,019","106,401",700.936M,N/A
+548,VGM,Invesco Trust for Investment Grade Municipals,12.82,-0.03,-0.23%,"47,076","98,136",695.168M,7.59
+549,VKQ,Invesco Municipal Trust,12.53,+0.01,+0.08%,"66,482","97,255",693.162M,7.45
+550,PHK,PIMCO High Income Fund,5.23,+0.02,+0.38%,"367,602","569,133",690.951M,N/A
+551,CII,"BlackRock Enhanced Capital and Income Fund, Inc.",15.62,-0.04,-0.26%,"95,995","117,844",689.176M,4.24
+552,LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",23.76,-0.11,-0.46%,"76,403","67,604",685.901M,N/A
+553,BCSF,"Bain Capital Specialty Finance, Inc.",10.58,-0.23,-2.13%,"309,499","266,023",683.069M,N/A
+554,BANC-PD,"Banc of California, Inc.",25.50,+0.10,+0.40%,"2,072","9,427",684.048M,N/A
+555,UFCS,"United Fire Group, Inc.",27.27,-0.15,-0.55%,"36,487","82,804",682.601M,N/A
+556,NIE,AllianzGI Equity & Convertible Income Fund,24.49,-0.05,-0.20%,"54,206","79,760",678.593M,N/A
+557,BANC-PE,"Banc of California, Inc.",25.33,+0.03,+0.12%,"2,733","5,389",666.876M,N/A
+558,IQI,Invesco Quality Municipal Income Trust,12.61,-0.03,-0.24%,"33,074","80,661",666.865M,7.47
+559,PDT,John Hancock Premium Dividend Fund,13.63,-0.17,-1.23%,"121,639","112,717",663.022M,N/A
+560,MYD,"BlackRock MuniYield Fund, Inc.",14.10,-0.07,-0.53%,"162,666","84,577",661.333M,N/A
+561,KYN,Kayne Anderson MLP/Midstream Investment Company,5.22,+0.11,+2.15%,"830,256","946,592",660.059M,N/A
+562,HMST,"HomeStreet, Inc.",28.48,+0.08,+0.28%,"136,527","159,104",646.707M,13.66
+563,BFK,BlackRock Municipal Income Trust,14.55,-0.08,-0.55%,"57,437","73,317",652.295M,N/A
+564,ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,10.17,-0.01,-0.10%,"94,269","250,682",648.856M,N/A
+565,GSBD,"Goldman Sachs BDC, Inc.",16.07,+0.01,+0.06%,"111,137","190,022",649.999M,N/A
+566,GRAF-UN,Graf Industrial Corp.,22.00,0.00,0.00%,73,"3,881",648.27M,N/A
+567,BOE,BlackRock Enhanced Global Dividend Trust,9.96,0.00,0.00%,"93,071","135,861",649.007M,4.99
+568,HFRO,Highland Funds I - Highland Income Fund,8.98,+0.07,+0.79%,"447,653","362,403",644.548M,N/A
+569,EBSB,"Meridian Bancorp, Inc.",12.26,+0.17,+1.41%,"89,912","172,526",642.587M,9.35
+570,WRLD,World Acceptance Corporation,86.43,-0.54,-0.62%,"42,927","55,761",641.352M,18.41
+571,FBNC,First Bancorp,22.08,+0.13,+0.59%,"68,959","139,812",639.806M,8.07
+572,AINV,Apollo Investment Corporation,9.78,+0.08,+0.82%,"231,414","625,850",638.235M,N/A
+573,UVE,"Universal Insurance Holdings, Inc.",19.92,-0.16,-0.80%,"203,231","196,641",634.508M,73.24
+574,NID,Nuveen Intermediate Duration Municipal Term Fund,13.52,+0.01,+0.07%,"50,836","69,430",634.219M,26.88
+575,PCN,PIMCO Corporate & Income Strategy Fund,15.99,-0.16,-0.99%,"144,719","84,649",636.276M,8.51
+576,PFN,PIMCO Income Strategy Fund II,9.01,-0.07,-0.77%,"202,991","219,511",630.724M,8.59
+577,EOI,Eaton Vance Enhanced Equity Income Fund,15.72,+0.03,+0.19%,"162,412","98,563",618.172M,N/A
+578,MUC,"BlackRock MuniHoldings California Quality Fund, Inc.",14.91,0.00,0.00%,"334,576","96,292",611.347M,8.41
+579,CNOB,"ConnectOne Bancorp, Inc.",15.37,+0.25,+1.65%,"75,641","172,674",610.999M,9.14
+580,WASH,"Washington Trust Bancorp, Inc.",35.31,+0.40,+1.15%,"83,432","113,442",609.458M,9.15
+581,AMBC,"Ambac Financial Group, Inc.",13.27,+0.21,+1.61%,"243,506","506,976",607.887M,N/A
+582,PFBC,Preferred Bank,40.67,+0.51,+1.27%,"29,332","73,942",607.35M,8.59
+583,VCV,Invesco California Value Municipal Income Trust,12.66,+0.03,+0.28%,"92,548","92,865",606.214M,7.74
+584,BIT,BlackRock Multi-Sector Income Trust,16.17,+0.01,+0.06%,"89,076","137,061",606.983M,N/A
+585,CTBI,"Community Trust Bancorp, Inc.",33.96,+0.20,+0.59%,"38,569","48,579",604.556M,10.48
+586,RBCAA,"Republic Bancorp, Inc.",32.31,-0.31,-0.95%,"13,493","24,973",610.262M,7.87
+587,BANC,"Banc of California, Inc.",11.96,+0.18,+1.53%,"158,048","296,496",600.771M,N/A
+588,NBB,Nuveen Taxable Municipal Income Fund,21.97,-0.33,-1.48%,"73,441","55,961",601.273M,N/A
+589,TRST,TrustCo Bank Corp NY,6.20,+0.12,+2.06%,"281,220","454,666",598.365M,11.30
+590,BCX,Blackrock Resources & Commodities Strategy Trust,6.53,+0.01,+0.15%,"113,584","326,617",591.374M,N/A
+591,TSCAP,"TriState Capital Holdings, Inc.",22.53,+0.19,+0.85%,"14,084","6,476",573.463M,13.90
+592,GGT-PE,The Gabelli Multimedia Trust Inc. 5.125% PFD SER E,26.45,-0.10,-0.39%,200,"1,104",642.139M,N/A
+593,MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,21.15,-0.14,-0.66%,"30,528","40,600",583.782M,52.74
+594,NXJ,Nuveen New Jersey Quality Municipal Income Fund,14.02,+0.01,+0.07%,"44,125","80,217",581.946M,6.15
+595,OBNK,"Origin Bancorp, Inc.",24.69,+0.36,+1.48%,"32,416","73,568",580.245M,17.49
+596,BGY,BlackRock Enhanced International Dividend Trust,5.51,+0.03,+0.55%,"136,824","234,506",579.905M,5.09
+597,TBBK,"The Bancorp, Inc.",10.06,-0.07,-0.69%,"291,599","385,593",579.364M,10.59
+598,MVF,"BlackRock MuniVest Fund, Inc.",8.90,-0.05,-0.56%,"114,427","92,760",577.044M,6.62
+599,TCPC,BlackRock TCP Capital Corp.,9.92,-0.03,-0.30%,"168,058","338,626",573.052M,N/A
+600,VTA,Invesco Dynamic Credit Opportunities Fund,9.06,-0.01,-0.11%,"130,890","340,465",570.6M,17.32
+601,BCOR,"Blucora, Inc.",11.84,+0.28,+2.42%,"364,050","473,246",568.769M,N/A
+602,LBAI,"Lakeland Bancorp, Inc.",11.25,+0.12,+1.12%,"174,609","188,998",567.761M,9.38
+603,HIX,Western Asset High Income Fund II Inc.,6.67,-0.04,-0.60%,"139,737","249,087",561.873M,N/A
+604,BMTC,Bryn Mawr Bank Corporation,28.18,+0.02,+0.07%,"42,788","98,536",561.585M,15.53
+605,GSBC,"Great Southern Bancorp, Inc.",39.82,+0.76,+1.95%,"31,982","35,196",560.944M,8.65
+606,CCD,Calamos Dynamic Convertible and Income Fund,22.88,-0.12,-0.52%,"51,077","77,076",560.228M,N/A
+607,CUBI-PC,"Customers Bancorp, Inc.",22.45,+0.39,+1.77%,"12,271","6,244",549.486M,10.75
+608,MUI,"BlackRock Muni Intermediate Duration Fund, Inc.",14.38,-0.18,-1.24%,"105,702","92,120",550.701M,N/A
+609,TSCBP,"TriState Capital Holdings, Inc.",23.00,+0.62,+2.77%,"15,784","10,071",549.739M,12.17
+610,EFC,Ellington Financial Inc.,12.54,+0.22,+1.79%,"152,176","373,431",548.976M,N/A
+611,MMU,Western Asset Managed Municipals Fund Inc.,12.65,-0.03,-0.24%,"42,797","77,831",548.604M,N/A
+612,CUBI-PD,"Customers Bancorp, Inc.",22.47,+0.37,+1.68%,"15,984","1,919",548.471M,10.76
+613,GHY,"PGIM Global High Yield Fund, Inc",13.40,-0.06,-0.45%,"54,469","107,001",548.38M,N/A
+614,ENVA,"Enova International, Inc.",18.13,+0.10,+0.55%,"183,869","377,222",545.887M,19.99
+615,CUBI-PE,"Customers Bancorp, Inc.",22.40,+0.47,+2.17%,"2,414","3,189",543.588M,10.72
+616,HPI,John Hancock Preferred Income Fund,20.76,-0.24,-1.14%,"105,395","78,282",542.237M,6.59
+617,AMTB,Amerant Bancorp Inc.,14.10,+0.34,+2.47%,"15,237","47,214",536.449M,44.06
+618,IHC,Independence Holding Company,36.25,+0.12,+0.33%,"4,479","12,725",531.733M,355.39
+619,BLW,BlackRock Limited Duration Income Trust,14.96,-0.04,-0.27%,"44,920","121,738",534.844M,12.06
+620,BGB,Blackstone/GSO Strategic Credit Fund,11.97,-0.01,-0.08%,"116,978","169,349",534.633M,N/A
+621,HONE,"HarborOne Bancorp, Inc.",9.15,+0.15,+1.67%,"174,488","316,382",534.445M,18.71
+622,MYN,"BlackRock MuniYield New York Quality Fund, Inc.",13.39,-0.03,-0.22%,"25,671","45,998",530.065M,8.21
+623,MFL,BlackRock MuniHoldings Investment Quality Fund,13.97,-0.01,-0.09%,"66,079","72,723",529.33M,7.00
+624,LBC,Luther Burbank Corporation,10.09,-0.05,-0.49%,"28,722","73,506",528.656M,13.24
+625,HPS,John Hancock Preferred Income Fund III,16.62,-0.18,-1.07%,"52,886","72,193",526.261M,6.06
+626,CUBI-PF,"Customers Bancorp, Inc.",21.49,+0.54,+2.58%,"10,216","16,742",524.747M,10.29
+627,NQP,Nuveen Pennsylvania Quality Municipal Income Fund,14.00,-0.05,-0.36%,"31,502","35,349",523.366M,7.05
+628,NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",9.81,+0.05,+0.51%,"273,291","249,058",521.166M,11.95
+629,LEO,"BNY Mellon Strategic Municipals, Inc.",8.37,-0.02,-0.24%,"80,124","135,715",520.696M,N/A
+630,AMTBB,Amerant Bancorp Inc.,9.60,+0.15,+1.59%,671,"2,957",529.024M,30.00
+631,BPFH,"Boston Private Financial Holdings, Inc.",6.32,+0.10,+1.61%,"377,221","520,303",519.484M,13.33
+632,FVAC,Fortress Value Acquisition Corp.,12.17,-0.03,-0.25%,"433,298",1.42M,524.831M,N/A
+633,EVN,Eaton Vance Municipal Income Trust,13.00,-0.04,-0.31%,"39,781","89,974",515.674M,27.96
+634,CAC,Camden National Corporation,34.50,+0.13,+0.38%,"26,409","59,212",516.23M,9.71
+635,BY,"Byline Bancorp, Inc.",13.46,-0.25,-1.82%,"85,101","79,358",517.023M,12.14
+636,CFB,"CrossFirst Bankshares, Inc.",9.89,-0.22,-2.18%,"119,711","173,646",516.146M,11.92
+637,MUA,"BlackRock MuniAssets Fund, Inc.",14.28,-0.13,-0.90%,"43,046","51,182",515.662M,N/A
+638,MCA,"BlackRock MuniYield California Quality Fund, Inc.",14.97,+0.03,+0.20%,"76,828","67,877",515.053M,8.08
+639,JPI,Nuveen Preferred and Income Term Fund,22.55,+0.07,+0.31%,"57,971","75,412",513.177M,N/A
+640,BLX,"Banco Latinoamericano de Comercio Exterior, S.A",12.91,+0.72,+5.91%,"211,982","186,606",511.266M,6.83
+641,CGBD,"TCG BDC, Inc.",9.09,-0.12,-1.36%,"273,333","302,249",511.564M,N/A
+642,JHB,Nuveen High Income November 2021 Target Term Fund,9.15,-0.11,-1.19%,"111,482","98,028",511.419M,N/A
+643,DIAX,Nuveen Dow 30 Dynamic Overwrite Fund,14.05,-0.04,-0.28%,"81,014","112,046",510.955M,5.69
+644,UVSP,Univest Financial Corporation,17.45,+0.35,+2.05%,"73,713","118,342",510.006M,14.16
+645,DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,26.24,-0.22,-0.83%,"45,599","57,679",503.068M,N/A
+646,BHLB,"Berkshire Hills Bancorp, Inc.",9.99,+0.06,+0.60%,"316,052","610,528",503.264M,N/A
+647,MQY,"BlackRock MuniYield Quality Fund, Inc.",16.36,-0.07,-0.43%,"101,835","66,758",502.452M,N/A
+648,HBNC,"Horizon Bancorp, Inc.",11.31,+0.13,+1.16%,"53,817","168,928",496.219M,7.72
+649,VKI,Invesco Advantage Municipal Income Trust II,11.11,-0.03,-0.27%,"97,492","72,106",493.191M,7.69
+650,IGD,Voya Global Equity Dividend and Premium Opportunity Fund,5.07,+0.01,+0.20%,"152,202","352,603",492.182M,N/A
+651,THFF,First Financial Corporation,35.66,+0.13,+0.37%,"33,571","59,695",489.059M,9.56
+652,CHW,Calamos Global Dynamic Income Fund,8.24,-0.07,-0.84%,"177,294","200,371",489.016M,N/A
+653,COWN,Cowen Inc.,17.62,+0.43,+2.50%,"231,750","347,765",487.609M,5.04
+654,AVK,Advent Convertible and Income Fund,14.11,-0.13,-0.91%,"67,888","99,695",487.151M,N/A
+655,BME,BlackRock Health Sciences Trust,42.42,-0.27,-0.63%,"21,677","42,187",482.502M,5.76
+656,YIN,Yintech Investment Holdings Limited,6.59,+0.01,+0.15%,"42,471","28,487",481.344M,N/A
+657,CAF,"Morgan Stanley China A Share Fund, Inc.",21.84,+0.19,+0.88%,"50,475","93,890",477.892M,N/A
+658,FSD,First Trust High Income Long/Short Fund,13.95,-0.08,-0.57%,"64,732","91,084",476.406M,N/A
+659,CPF,Central Pacific Financial Corp.,16.80,+0.09,+0.54%,"122,422","202,517",472.991M,10.17
+660,EFT,Eaton Vance Floating-Rate Income Trust,11.84,+0.01,+0.08%,"39,729","112,017",471.986M,N/A
+661,DSU,"BlackRock Debt Strategies Fund, Inc.",10.05,-0.01,-0.10%,"70,196","173,961",470.522M,24.63
+662,JFR,Nuveen Floating Rate Income Fund,8.14,-0.02,-0.25%,"581,685","271,319",463.317M,10.40
+663,PMO,Putnam Municipal Opportunities Trust,13.58,-0.09,-0.66%,"32,173","58,131",463.213M,N/A
+664,ISD,"PGIM High Yield Bond Fund, Inc",13.88,-0.05,-0.36%,"105,320","118,066",461.603M,N/A
+665,MBI,MBIA Inc.,7.99,+0.23,+2.96%,"517,953","826,031",461.436M,N/A
+666,FSB,"Franklin Financial Network, Inc.",30.48,-0.41,-1.33%,"885,928","89,800",456.371M,29.53
+667,PKO,PIMCO Income Opportunity Fund,24.53,0.00,0.00%,"46,735","88,925",454.884M,N/A
+668,OXLCO,Oxford Lane Capital Corp.,24.55,-0.02,-0.10%,"2,798","11,266",454.258M,N/A
+669,EAD,Wells Fargo Advantage Funds - Wells Fargo Income Opportunities Fund,7.49,-0.05,-0.66%,"115,299","208,515",454.066M,N/A
+670,TSC,"TriState Capital Holdings, Inc.",15.06,+0.17,+1.14%,"61,169","153,690",449.655M,9.29
+671,KTF,DWS Municipal Income Trust,11.36,-0.03,-0.26%,"46,192","71,458",448.73M,8.40
+672,HTBK,Heritage Commerce Corp,7.42,+0.07,+0.95%,"83,820","257,666",444.28M,14.21
+673,THW,Tekla World Healthcare Fund,14.73,0.00,0.00%,"108,552","138,563",443.408M,N/A
+674,PEBO,Peoples Bancorp Inc.,22.21,+0.19,+0.86%,"39,015","79,966",442.423M,13.56
+675,ASA,ASA Gold and Precious Metals Limited,22.93,+0.22,+0.97%,"89,466","157,238",442.317M,3.21
+676,BTO,John Hancock Financial Opportunities Fund,23.77,+0.29,+1.24%,"83,816","104,238",444.297M,2.50
+677,DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,11.65,-0.03,-0.26%,"102,990","115,303",441.882M,N/A
+678,DCOM,"Dime Community Bancshares, Inc.",13.35,+0.03,+0.23%,"166,535","237,273",441.316M,14.64
+679,BFZ,BlackRock California Municipal Income Trust,13.94,-0.01,-0.07%,"36,424","53,641",441.573M,7.19
+680,OXLCM,Oxford Lane Capital Corp.,23.58,-0.03,-0.12%,"2,992","7,004",440.097M,N/A
+681,IFN,"The India Fund, Inc.",16.34,-0.16,-0.97%,"105,106","98,892",439.621M,15.12
+682,NHF,NexPoint Strategic Opportunities Fund,9.65,-0.23,-2.33%,"285,656","253,068",440.108M,N/A
+683,CBTX,"CBTX, Inc.",17.59,+0.33,+1.91%,"23,489","67,712",438.883M,12.37
+684,HCI,"HCI Group, Inc.",55.59,-1.92,-3.34%,"91,755","60,284",443.863M,19.91
+685,CRF,"Cornerstone Total Return Fund, Inc.",10.99,-0.03,-0.27%,"282,987","337,252",437.917M,4.17
+686,CRD-B,Crawford & Company,8.03,-0.03,-0.37%,"7,049","14,479",431.399M,N/A
+687,MHN,"BlackRock MuniHoldings New York Quality Fund, Inc.",14.03,-0.07,-0.50%,"131,874","56,982",436.782M,7.50
+688,EHI,Western Asset Global High Income Fund Inc.,9.90,-0.05,-0.50%,"22,867","94,025",434.288M,N/A
+689,GBAB,Guggenheim Taxable Municipal Managed Duration Trust,23.88,-0.24,-1.00%,"53,634","51,841",447.812M,N/A
+690,EFR,Eaton Vance Senior Floating-Rate Trust,11.79,-0.04,-0.34%,"49,477","98,006",434.441M,N/A
+691,LC,LendingClub Corporation,6.07,+0.15,+2.53%,"814,960",1.356M,434.098M,N/A
+692,NAN,Nuveen New York Quality Municipal Income Fund,14.06,-0.04,-0.28%,"29,310","33,207",433.769M,7.29
+693,AROW,Arrow Financial Corporation,28.80,+0.02,+0.07%,"9,591","31,684",432.435M,11.66
+694,JIH,"Juniper Industrial Holdings, Inc.",10.02,-0.01,-0.10%,"21,995","122,723",432.113M,N/A
+695,GUT,The Gabelli Utility Trust,7.93,-0.16,-1.92%,"151,114","120,003",432.248M,8.07
+696,MUJ,"BlackRock MuniHoldings New Jersey Quality Fund, Inc.",14.32,-0.09,-0.62%,"37,237","62,773",431.804M,8.18
+697,CUBI,"Customers Bancorp, Inc.",13.57,+0.25,+1.88%,"148,956","242,995",427.652M,6.50
+698,MIY,"BlackRock MuniYield Michigan Quality Fund, Inc.",14.43,-0.08,-0.55%,"59,211","46,314",425.822M,8.43
+699,CRD-A,Crawford & Company,8.12,-0.09,-1.10%,"22,835","50,998",428.263M,N/A
+700,HQL,Tekla Life Sciences Investors,17.90,-0.04,-0.22%,"61,999","89,266",420.557M,N/A
+701,FRA,"BlackRock Floating Rate Income Strategies Fund, Inc.",11.63,+0.06,+0.52%,"82,664","100,126",416.733M,28.93
+702,CNBKA,"Century Bancorp, Inc.",74.40,+0.15,+0.20%,"3,463","7,817",414.253M,10.22
+703,DGICB,Donegal Group Inc.,12.00,0.00,0.00%,11,407,408.389M,7.61
+704,WSBF,"Waterstone Financial, Inc.",15.78,+0.10,+0.67%,"49,765","96,626",408.809M,8.59
+705,DGICA,Donegal Group Inc.,14.50,-0.49,-3.27%,"38,467","37,279",408.118M,9.20
+706,BDGE,"Bridge Bancorp, Inc.",20.60,+0.20,+0.98%,"36,148","111,877",406.739M,8.55
+707,SBE,Switchback Energy Acquisition Corporation,10.31,-0.04,-0.39%,"86,485","103,385",404.819M,N/A
+708,ECCB,Eagle Point Credit Company Inc.,24.69,+0.08,+0.33%,"6,865","6,869",403.015M,N/A
+709,OPRT,Oportun Financial Corporation,14.76,+0.40,+2.79%,"39,698","184,744",403.409M,12.97
+710,BUI,"BlackRock Utilities, Infrastructure & Power Opportunities Trust",22.60,+0.18,+0.80%,"22,340","41,923",400.804M,N/A
+711,HPF,John Hancock Preferred Income Fund II,18.63,-0.17,-0.90%,"52,989","42,944",397.719M,6.03
+712,DHIL,"Diamond Hill Investment Group, Inc.",123.65,+0.14,+0.11%,"8,461","15,265",397.41M,10.64
+713,SFTW,Osprey Technology Acquisition Corp.,10.05,-0.05,-0.50%,"25,710","89,298",397.289M,N/A
+714,AFB,AllianceBernstein National Municipal Income Fund,13.82,-0.03,-0.22%,"39,775","49,263",397.254M,N/A
+715,BBDC,"Barings BDC, Inc.",8.26,-0.05,-0.60%,"227,562","140,266",396.164M,N/A
+716,GUT-PA,The Gabelli Utility Trust,27.09,+0.54,+2.02%,"8,660",300,395.213M,27.56
+717,BKT,"BlackRock Income Trust, Inc.",6.19,-0.01,-0.16%,"415,882","214,219",394.904M,13.43
+718,PROS,"ProSight Global, Inc.",8.99,-0.05,-0.55%,"121,003","63,831",391.853M,1.42
+719,PMX,PIMCO Municipal Income Fund III,11.84,0.00,0.00%,"54,685","66,341",391.312M,8.05
+720,ZTR,Virtus Total Return Fund Inc.,8.16,-0.03,-0.37%,"86,325","141,949",385.514M,N/A
+721,DFIN,"Donnelley Financial Solutions, Inc.",11.39,+0.01,+0.09%,"155,908","349,649",385.315M,16.00
+722,MCR,MFS Charter Income Trust,8.68,+0.02,+0.23%,"97,928","88,704",384.654M,18.24
+723,PMM,Putnam Managed Municipal Income Trust,7.85,-0.08,-1.01%,"95,451","96,588",383.708M,N/A
+724,LGC,Legacy Acquisition Corp.,10.55,+0.02,+0.19%,504,"12,700",143.719M,N/A
+725,TRNE,Trine Acquisition Corp.,10.20,-0.01,-0.10%,"160,631","118,384",382.692M,N/A
+726,TPVG,TriplePoint Venture Growth BDC Corp.,12.42,-0.06,-0.48%,"119,044","246,458",382.342M,26.65
+727,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",5.78,-0.01,-0.17%,"105,446","188,344",382.012M,N/A
+728,BYM,BlackRock Municipal Income Quality Trust,14.47,+0.04,+0.28%,"37,503","38,961",382.099M,7.07
+729,DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",7.72,-0.01,-0.13%,"40,232","95,225",381.534M,N/A
+730,MCBS,"MetroCity Bankshares, Inc.",14.80,+0.22,+1.51%,"20,949","79,463",377.843M,9.27
+731,GUT-PC,The Gabelli Utility Trust,26.01,-0.04,-0.16%,981,"7,377",376.266M,26.46
+732,NEV,Nuveen Enhanced Municipal Value Fund,15.06,-0.03,-0.18%,"29,840","55,730",375.749M,N/A
+733,WIA,Western Asset Inflation-Linked Income Fund,12.86,-0.01,-0.08%,"17,388","68,766",374.905M,31.37
+734,PZN,"Pzena Investment Management, Inc",5.23,-0.14,-2.61%,"28,279","75,842",372.586M,23.24
+735,ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,14.02,-0.04,-0.28%,"42,828","71,265",372.671M,5.57
+736,HRTG,"Heritage Insurance Holdings, Inc.",13.26,-0.13,-0.97%,"59,319","144,004",372.057M,11.60
+737,MMT,MFS Multimarket Income Trust,5.92,-0.02,-0.34%,"123,393","160,633",370.357M,N/A
+738,HBT,"HBT Financial, Inc.",13.40,+0.23,+1.75%,"42,176","50,495",367.928M,3.85
+739,TEI,Templeton Emerging Markets Income Fund,7.67,+0.02,+0.20%,"121,801","134,982",368.148M,N/A
+740,BLE,BlackRock Municipal Income Trust II,15.57,+0.04,+0.25%,"13,180","40,119",366.555M,8.62
+741,MBWM,Mercantile Bank Corporation,22.60,+0.12,+0.53%,"16,948","47,187",366.821M,8.16
+742,RPLA,Replay Acquisition Corp.,10.17,0.00,0.00%,"9,180","56,255",365.484M,105.94
+743,PMF,PIMCO Municipal Income Fund,14.10,-0.08,-0.54%,"32,471","44,996",364.372M,8.23
+744,GAINM,Gladstone Investment Corporation,24.90,+0.04,+0.16%,"1,522","4,157",363.435M,N/A
+745,PEO,"Adams Natural Resources Fund, Inc.",12.18,+0.17,+1.42%,"44,464","78,034",362.701M,N/A
+746,OIA,Invesco Municipal Income Opportunities Trust,7.56,0.00,0.00%,"27,800","90,082",359.51M,7.09
+747,ALUS,Alussa Energy Acquisition Corp.,9.99,+0.01,+0.10%,794,"110,963",359.016M,N/A
+748,GBL,"GAMCO Investors, Inc.",13.15,+0.03,+0.23%,"5,355","17,165",362.81M,5.84
+749,FCBC,"First Community Bankshares, Inc.",20.21,+0.03,+0.15%,"23,394","42,615",357.925M,9.76
+750,STK,Columbia Seligman Premium Technology Growth Fund,22.32,-0.27,-1.18%,"81,542","70,111",355.026M,N/A
+751,GBLI,Global Indemnity Limited,24.66,+0.44,+1.82%,"5,971","26,301",353.792M,12.28
+752,MEN,"BlackRock MuniEnhanced Fund, Inc.",11.90,-0.03,-0.29%,"13,109","63,755",353.358M,N/A
+753,CCBG,"Capital City Bank Group, Inc.",20.94,+0.07,+0.34%,"22,943","37,828",351.379M,11.57
+754,MYJ,"BlackRock MuniYield New Jersey Fund, Inc.",14.45,0.00,0.00%,"23,152","39,376",349.085M,8.37
+755,RMT,"Royce Micro-Cap Trust, Inc.",8.17,+0.01,+0.12%,"87,736","191,388",352.118M,4.60
+756,ERC,Wells Fargo Advantage Multi-Sector Income Fund,11.54,-0.06,-0.52%,"40,125","99,593",347.128M,N/A
+757,GAINL,Gladstone Investment Corporation,24.27,+0.01,+0.04%,"5,459","10,076",346.896M,N/A
+758,MSBI,"Midland States Bancorp, Inc.",15.09,+0.24,+1.62%,"140,066","126,174",341.755M,9.38
+759,ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,21.92,-0.08,-0.36%,"25,932","54,415",343.732M,N/A
+760,JRI,Nuveen Real Asset Income and Growth Fund,12.45,-0.04,-0.32%,"55,891","104,407",341.992M,N/A
+761,PFLT,PennantPark Floating Rate Capital Ltd.,8.79,+0.09,+1.03%,"197,769","209,639",340.807M,35.16
+762,AEF,"Aberdeen Emerging Markets Equity Income Fund, Inc.",6.70,-0.01,-0.15%,"11,459","57,266",340.037M,4.33
+763,PGC,Peapack-Gladstone Financial Corporation,17.93,+0.25,+1.41%,"36,570","70,007",338.968M,10.10
+764,FFIC,Flushing Financial Corporation,12.01,+0.09,+0.76%,"92,323","135,411",338.895M,8.53
+765,CCAC,CITIC Capital Acquisition Corp.,9.79,0.00,0.00%,"3,047","93,007",337.755M,N/A
+766,IBCP,Independent Bank Corporation,15.29,+0.09,+0.59%,"61,552","120,674",334.556M,7.50
+767,WTRE,Watford Holdings Ltd.,16.74,+0.02,+0.12%,"12,257","47,522",332.908M,N/A
+768,HYI,Western Asset High Yield Defined Opportunity Fund Inc.,14.71,+0.10,+0.68%,"65,264","65,036",333.202M,N/A
+769,PCQ,PIMCO California Municipal Income Fund,17.66,-0.12,-0.67%,"12,891","25,858",332.538M,9.88
+770,CURO,CURO Group Holdings Corp.,8.13,+0.16,+2.01%,"138,334","386,950",332.396M,3.03
+771,MOFG,"MidWestOne Financial Group, Inc.",20.52,+0.46,+2.29%,"22,378","51,315",330.358M,9.41
+772,JGH,Nuveen Global High Income Fund,14.24,-0.06,-0.42%,"53,899","54,185",330.046M,N/A
+773,JRO,Nuveen Floating Rate Income Opportunity Fund,8.13,-0.02,-0.25%,"149,252","182,107",329.6M,10.70
+774,NRGX,PIMCO Energy and Tactical Credit Opportunities Fund,7.33,+0.07,+0.96%,"79,912","240,888",327.702M,N/A
+775,GAIN,Gladstone Investment Corporation,9.77,+0.11,+1.09%,"129,225","228,658",324.247M,N/A
+776,RRBI,"Red River Bancshares, Inc.",44.25,+0.34,+0.77%,"5,491","18,896",324.271M,11.95
+777,FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc.",11.89,-0.08,-0.67%,"93,187","97,166",323.745M,N/A
+778,PSF,"Cohen & Steers Select Preferred and Income Fund, Inc.",26.92,-0.34,-1.25%,"24,709","28,312",323.301M,N/A
+779,RFI,"Cohen & Steers Total Return Realty Fund, Inc.",12.32,+0.08,+0.65%,"66,564","99,239",320.752M,3.76
+780,OPY,Oppenheimer Holdings Inc.,25.60,+0.39,+1.55%,"126,274","102,526",321.656M,6.33
+781,CIA,"Citizens, Inc.",5.97,+0.04,+0.67%,"23,189","88,480",300.63M,127.02
+782,EZPW,"EZCORP, Inc.",5.74,+0.07,+1.23%,"319,598","574,049",316.089M,N/A
+783,MYC,"Blackrock MuniYield California Fund, Inc.",14.75,+0.16,+1.10%,"40,671","36,247",315.938M,7.44
+784,EOT,Eaton Vance National Municipal Opportunities Trust,20.59,+0.01,+0.06%,"25,353","33,720",315.303M,N/A
+785,MVT,"BlackRock MuniVest Fund II, Inc.",14.74,-0.01,-0.07%,"12,373","41,887",314.55M,N/A
+786,HAFC,Hanmi Financial Corporation,10.26,+0.05,+0.49%,"205,869","293,709",314.538M,11.73
+787,SOR,"Source Capital, Inc.",36.98,-0.12,-0.32%,"2,123","18,804",313.46M,4.77
+788,NMY,Nuveen Maryland Quality Municipal Income Fund,13.56,-0.20,-1.45%,"19,977","30,141",313.232M,145.81
+789,VPV,Invesco Pennsylvania Value Municipal Income Trust,13.04,-0.02,-0.15%,"33,874","32,144",310.737M,7.58
+790,FFA,First Trust Enhanced Equity Income Fund,15.54,+0.01,+0.06%,"20,568","42,379",310.533M,3.72
+791,GNTY,"Guaranty Bancshares, Inc.",28.16,+0.26,+0.93%,"10,065","19,493",310.163M,14.49
+792,GRAF,Graf Industrial Corp.,17.65,-0.45,-2.49%,"441,942","929,704",309.727M,N/A
+793,IPV,InterPrivate Acquisition Corp.,9.95,-0.04,-0.45%,"52,262","37,561",309.158M,N/A
+794,GLO,Clough Global Opportunities Fund,9.56,-0.05,-0.52%,"102,101","131,609",308.065M,N/A
+795,DMYT,"dMY Technology Group, Inc.",10.62,-0.18,-1.67%,"617,172","292,163",305.325M,N/A
+796,PFL,PIMCO Income Strategy Fund,10.07,-0.06,-0.59%,"117,821","113,714",306.558M,8.55
+797,FIV,First Trust Senior Floating Rate 2022 Target Term Fund,8.54,-0.01,-0.12%,"122,176","75,739",306.002M,N/A
+798,ASG,"Liberty All-Star Growth Fund, Inc.",7.34,+0.07,+0.96%,"169,940","234,287",305.649M,4.36
+799,BKK,BlackRock Municipal 2020 Term Trust,15.05,0.00,0.00%,"18,884","33,466",304.561M,46.59
+800,BFST,"Business First Bancshares, Inc.",14.73,+0.13,+0.89%,"17,183","55,752",304.431M,12.07
+801,PCK,PIMCO California Municipal Income Fund II,9.47,-0.01,-0.11%,"16,957","58,415",303.817M,7.47
+802,MQT,"BlackRock MuniYield Quality Fund II, Inc.",13.28,+0.08,+0.61%,"22,653","65,646",299.57M,N/A
+803,NCA,"Nuveen California Municipal Value Fund, Inc.",10.60,0.00,0.00%,"24,479","36,936",297.765M,8.45
+804,MUE,"BlackRock MuniHoldings Quality Fund II, Inc.",13.21,-0.09,-0.68%,"47,716","51,165",297.5M,8.79
+805,RMG,RMG Acquisition Corp.,10.30,+0.10,+0.93%,"304,794","63,600",296.125M,194.34
+806,BSRR,Sierra Bancorp,19.43,+0.12,+0.62%,"16,353","50,392",295.196M,8.71
+807,FCT,First Trust Senior Floating Rate Income Fund II,11.02,+0.01,+0.09%,"52,247","102,330",293.87M,14.99
+808,EVM,Eaton Vance California Municipal Bond Fund,11.71,-0.02,-0.21%,"37,587","53,057",292.683M,25.35
+809,WTBA,"West Bancorporation, Inc.",17.68,+0.06,+0.34%,"16,417","42,411",295.258M,9.40
+810,NUM,Nuveen Michigan Quality Municipal Income Fund,14.39,-0.03,-0.21%,"24,888","28,615",291.065M,8.07
+811,ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",12.70,-0.02,-0.16%,"90,013","91,858",291.019M,N/A
+812,PIC,Pivotal Investment Corporation II,10.11,0.00,0.00%,"2,399","88,906",290.662M,N/A
+813,DBL,DoubleLine Opportunistic Credit Fund,19.37,-0.06,-0.31%,"39,369","45,341",289.471M,N/A
+814,SCVX,SCVX Corp.,10.00,0.00,0.00%,"102,991","78,673",287.5M,N/A
+815,NBH,Neuberger Berman Municipal Fund Inc.,15.28,-0.09,-0.59%,"54,497","46,749",287.457M,N/A
+816,RCS,"PIMCO Strategic Income Fund, Inc.",6.49,0.00,0.00%,"125,775","176,344",284.499M,8.48
+817,NUO,Nuveen Ohio Quality Municipal Income Fund,15.50,-0.09,-0.58%,"17,511","26,261",283.914M,7.24
+818,BKN,BlackRock Investment Quality Municipal Trust Inc.,16.50,-0.08,-0.48%,"36,574","39,482",283.567M,N/A
+819,FISI,"Financial Institutions, Inc.",17.64,+0.37,+2.14%,"35,774","60,077",282.903M,7.70
+820,PFIS,Peoples Financial Services Corp.,38.30,0.00,0.00%,"8,876","12,190",278.985M,11.30
+821,CSWC,Capital Southwest Corporation,15.04,+0.37,+2.52%,"55,176","111,904",279.565M,N/A
+822,NXP,Nuveen Select Tax-Free Income Portfolio,16.81,-0.04,-0.24%,"27,815","30,185",278.673M,20.75
+823,CCNE,CNB Financial Corporation,18.06,+0.42,+2.41%,"41,140","48,588",305.192M,7.29
+824,MHI,Pioneer Municipal High Income Trust,12.16,0.00,0.00%,"41,956","81,649",276.899M,52.41
+825,MCI,Barings Corporate Investors,13.65,+0.16,+1.19%,"44,110","24,158",276.572M,7.08
+826,SI,Silvergate Capital Corporation,14.85,+0.29,+1.99%,"109,985","158,850",277.349M,13.87
+827,MFM,MFS Municipal Income Trust,6.71,-0.01,-0.15%,"104,466","94,568",276.369M,N/A
+828,TSI,"TCW Strategic Income Fund, Inc.",5.79,0.00,0.00%,"55,483","101,569",276.45M,12.48
+829,KIO,KKR Income Opportunities Fund,13.54,-0.06,-0.44%,"67,322","115,925",275.408M,N/A
+830,GPM,Guggenheim Enhanced Equity Income Fund,5.68,-0.01,-0.18%,"232,646","250,584",274.586M,2.93
+831,NPV,Nuveen Virginia Quality Municipal Income Fund,15.22,+0.16,+1.03%,"26,010","21,974",272.106M,8.76
+832,NXQ,Nuveen Select Tax-Free Income Portfolio 2,15.31,0.00,0.00%,"15,991","25,020",271.197M,22.82
+833,SPFI,"South Plains Financial, Inc.",15.00,+0.01,+0.07%,"1,845","15,585",270.888M,8.90
+834,MAV,Pioneer Municipal High Income Advantage Trust,11.32,-0.05,-0.44%,"35,903","58,846",270.537M,20.62
+835,GF,"The New Germany Fund, Inc.",17.09,-0.20,-1.18%,"17,628","26,220",268.932M,3.44
+836,BGH,Barings Global Short Duration High Yield Fund,13.42,+0.02,+0.15%,"50,312","72,901",269.176M,N/A
+837,ACV,AllianzGI Diversified Income & Convertible Fund,25.86,-0.09,-0.35%,"41,953","43,012",267.752M,N/A
+838,AMNB,American National Bankshares Inc.,24.40,+0.33,+1.37%,"10,026","20,276",267.529M,8.95
+839,OAC,Oaktree Acquisition Corp.,10.75,+0.06,+0.56%,"138,600","92,652",270.429M,N/A
+840,EBTC,"Enterprise Bancorp, Inc.",22.26,-0.34,-1.50%,"4,293","13,241",265.157M,9.09
+841,FTF,Franklin Limited Duration Income Trust,8.75,-0.05,-0.57%,"64,775","84,844",263.714M,9.53
+842,FEI,First Trust MLP and Energy Income Fund,5.60,+0.10,+1.82%,"151,299","238,877",263.24M,N/A
+843,RBB,RBB Bancorp,13.32,+0.06,+0.45%,"20,083","62,396",261.743M,8.42
+844,CHN,"The China Fund, Inc.",25.06,-0.12,-0.48%,"1,627","16,285",262.564M,22.68
+845,GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,17.54,+0.14,+0.82%,"18,384","34,679",262.049M,N/A
+846,FDUS,Fidus Investment Corporation,10.72,+0.06,+0.56%,"86,646","160,392",261.969M,17.60
+847,GLRE,"Greenlight Capital Re, Ltd.",7.27,-0.07,-0.95%,"57,519","260,236",261.692M,N/A
+848,MCB,Metropolitan Bank Holding Corp.,31.12,-0.47,-1.49%,"5,222","26,050",258.1M,8.10
+849,BWG,Legg Mason BW Global Income Opportunities Fund Inc.,12.42,+0.01,+0.08%,"36,245","105,985",260.693M,N/A
+850,MCBC,Macatawa Bank Corporation,7.62,+0.05,+0.66%,"28,513","90,679",259.956M,8.56
+851,DUC,Duff & Phelps Utility and Corporate Bond Trust Inc.,9.38,+0.05,+0.54%,"7,686","29,217",257.9M,16.69
+852,HTBI,"HomeTrust Bancshares, Inc.",15.09,+0.03,+0.20%,"16,371","57,477",256.777M,11.61
+853,BGT,BlackRock Floating Rate Income Trust,11.31,+0.03,+0.27%,"23,030","72,226",256.727M,21.38
+854,DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",13.91,-0.09,-0.64%,"65,644","47,277",255.772M,7.15
+855,IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,23.58,+0.60,+2.61%,"82,709","21,614",255.595M,N/A
+856,OSBC,"Old Second Bancorp, Inc.",8.57,+0.13,+1.54%,"43,608","118,779",253.58M,8.31
+857,EMF,Templeton Emerging Markets Fund,15.31,-0.11,-0.71%,"43,353","42,311",253.381M,23.02
+858,NUW,Nuveen AMT-Free Municipal Value Fund,16.31,+0.13,+0.80%,"16,561","20,765",253.068M,N/A
+859,MTT,Western Asset Municipal Defined Opportunity Trust Inc.,20.58,+0.04,+0.21%,"8,753","26,057",251.121M,N/A
+860,CSTR,"Capstar Financial Holdings, Inc.",11.38,+0.12,+1.07%,"23,395","45,346",249.607M,10.83
+861,ITIC,Investors Title Company,131.62,-0.66,-0.50%,"1,284","6,347",249.079M,9.31
+862,VTN,Invesco Trust for Investment Grade New York Municipals,12.74,-0.06,-0.47%,"16,359","30,034",248.147M,7.36
+863,PZC,PIMCO California Municipal Income Fund III,11.04,+0.11,+1.01%,"20,369","36,639",246.623M,8.90
+864,ACBI,"Atlantic Capital Bancshares, Inc.",11.43,+0.09,+0.79%,"25,807","86,719",246.949M,13.12
+865,EQBK,"Equity Bancshares, Inc.",16.01,+0.14,+0.88%,"74,887","68,120",243.645M,10.69
+866,PHD,Pioneer Floating Rate Trust,9.85,-0.02,-0.25%,"40,821","100,946",243.548M,N/A
+867,TYG,Tortoise Energy Infrastructure Corporation,18.01,+0.05,+0.28%,"42,399","140,403",240.149M,N/A
+868,CEM,ClearBridge MLP and Midstream Fund Inc,17.14,+0.11,+0.65%,"34,731","86,042",241.383M,N/A
+869,GLAD,Gladstone Capital Corporation,7.64,+0.08,+1.06%,"144,328","175,882",238.311M,N/A
+870,FNLC,"The First Bancorp, Inc.",21.80,-0.19,-0.86%,"5,015","19,766",238.49M,9.12
+871,VBF,Invesco Bond Fund,20.86,+0.15,+0.72%,"31,618","28,161",237.524M,6.88
+872,PHT,Pioneer High Income Trust,8.11,-0.02,-0.25%,"55,198","116,965",237.07M,N/A
+873,BMRG,B. Riley Principal Merger Corp. II,10.22,-0.07,-0.68%,"93,715","268,361",236.912M,N/A
+874,ECC,Eagle Point Credit Company Inc.,7.85,-0.10,-1.26%,"105,154","256,079",234.366M,N/A
+875,MGU,Macquarie Global Infrastructure Total Return Fund Inc.,18.76,-0.09,-0.48%,"32,887","62,398",233.905M,N/A
+876,SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,13.61,-0.01,-0.08%,"37,443","68,953",233.975M,4.74
+877,ETX,Eaton Vance Municipal Income 2028 Term Trust,21.50,+0.05,+0.22%,"8,913","19,987",233.101M,N/A
+878,SCPE,SC Health Corporation,10.06,+0.02,+0.19%,"5,805","51,465",229.48M,N/A
+879,IIF,"Morgan Stanley India Investment Fund, Inc.",17.15,-0.18,-1.04%,"19,778","60,676",228.561M,N/A
+880,INSI,Insight Select Income Fund,21.28,+0.03,+0.14%,"13,024","19,569",227.909M,73.89
+881,JOF,"Japan Smaller Capitalization Fund, Inc.",8.03,+0.01,+0.12%,"5,521","39,882",227.521M,N/A
+882,JCO,Nuveen Credit Opportunities 2022 Target Term Fund,8.20,-0.07,-0.85%,"34,507","37,476",227.286M,N/A
+883,GHL,"Greenhill & Co., Inc.",12.09,+0.04,+0.33%,"94,418","168,382",229.27M,15.78
+884,MHD,"BlackRock MuniHoldings Fund, Inc.",15.92,-0.04,-0.25%,"17,674","28,169",226.218M,N/A
+885,JRS,Nuveen Real Estate Income Fund,7.81,-0.05,-0.64%,"97,145","111,371",225.65M,2.96
+886,GIX,"GigCapital2, Inc.",10.12,0.00,0.00%,"5,621","85,117",225.119M,N/A
+887,STXB,"Spirit of Texas Bancshares, Inc.",12.94,+0.23,+1.81%,"17,089","43,755",224.44M,9.71
+888,HBCP,"Home Bancorp, Inc.",25.03,+0.32,+1.30%,"10,140","15,925",224.16M,12.50
+889,WHF,"WhiteHorse Finance, Inc.",10.84,+0.16,+1.50%,"35,967","92,971",222.719M,12.75
+890,EVF,Eaton Vance Senior Income Trust,5.82,+0.03,+0.52%,"143,871","158,925",220.384M,9.11
+891,ENX,Eaton Vance New York Municipal Bond Fund,12.11,-0.06,-0.49%,"27,238","26,765",219.413M,42.64
+892,NHS,Neuberger Berman High Yield Strategies Fund Inc.,11.23,-0.14,-1.23%,"39,681","64,719",219.441M,N/A
+893,SUNS,Solar Senior Capital Ltd.,13.63,+0.11,+0.81%,"30,734","43,790",218.748M,23.14
+894,MFAC,Megalith Financial Acquisition Corp.,10.29,-0.01,-0.05%,"15,562","105,760",76.426M,115.62
+895,DFNS,LGL Systems Acquisition Corp.,10.06,+0.07,+0.70%,"1,517","29,233",216.91M,N/A
+896,BGR,BlackRock Energy and Resources Trust,7.29,+0.07,+0.97%,"125,723","180,453",217.426M,4.80
+897,NXR,Nuveen Select Tax-Free Income Portfolio 3,16.53,-0.06,-0.33%,"7,582","17,187",215.709M,17.30
+898,HRZN,Horizon Technology Finance Corporation,12.48,+0.15,+1.22%,"217,067","153,761",215.823M,10.15
+899,TBNK,Territorial Bancorp Inc.,22.54,+0.04,+0.18%,"8,281","21,992",214.443M,11.04
+900,FLC,Flaherty & Crumrine Total Return Fund Inc.,21.33,-0.12,-0.56%,"22,869","30,744",213.109M,36.78
+901,JCE,Nuveen Core Equity Alpha Fund,13.28,+0.02,+0.15%,"29,792","48,311",212.869M,N/A
+902,EHT,Eaton Vance High Income 2021 Target Term Trust,9.71,-0.02,-0.21%,"56,538","46,352",208.418M,N/A
+903,FEN,First Trust Energy Income and Growth Fund,10.44,+0.08,+0.77%,"45,174","113,428",209.017M,N/A
+904,SMMF,"Summit Financial Group, Inc.",15.97,+0.28,+1.78%,"3,790","15,352",207.241M,7.35
+905,RM,Regional Management Corp.,18.49,+0.28,+1.54%,"47,925","94,969",209.623M,7.13
+906,BSL,Blackstone / GSO Senior Floating Rate Term Fund,13.47,+0.05,+0.37%,"22,061","69,014",205.905M,6.29
+907,SAR,Saratoga Investment Corp.,18.33,+0.42,+2.35%,"43,727","83,804",205.617M,7.34
+908,EVG,Eaton Vance Short Duration Diversified Income Fund,11.35,-0.01,-0.04%,"79,463","61,339",203.034M,N/A
+909,IVH,Ivy Funds - Ivy High Income Opportunities Fund,12.16,+0.04,+0.34%,"18,184","59,166",201.523M,N/A
+910,LOAK,Live Oak Acquisition Corp.,10.00,+0.05,+0.50%,"8,890","51,896",200M,N/A
+911,LGI,"Lazard Global Total Return and Income Fund, Inc.",15.33,-0.06,-0.39%,"21,533","53,128",199.452M,4.71
+912,AFT,Apollo Senior Floating Rate Fund Inc.,12.80,-0.05,-0.39%,"32,695","64,833",199.336M,7.10
+913,CARE,Carter Bank & Trust,7.53,+0.05,+0.67%,"63,404","100,582",198.678M,9.88
+914,EFL,Eaton Vance Floating-Rate 2022 Target Term Trust,8.38,-0.01,-0.12%,"46,767","47,725",197.906M,N/A
+915,HYB,The New America High Income Fund Inc.,8.41,-0.07,-0.83%,"109,591","68,922",196.532M,4.72
+916,SCD,LMP Capital and Income Fund Inc.,10.80,0.00,0.00%,"63,128","84,931",194.22M,N/A
+917,JTD,Nuveen Tax-Advantaged Dividend Growth Fund,13.38,-0.06,-0.45%,"31,381","39,819",193.8M,2.82
+918,GRX,The Gabelli Healthcare & Wellness Trust,10.64,-0.01,-0.09%,"23,021","56,238",193.122M,N/A
+919,OCSI,Oaktree Strategic Income Corporation,6.54,+0.04,+0.62%,"15,939","54,649",192.713M,N/A
+920,MYF,BlackRock MuniYield Investment Fund,14.03,-0.24,-1.68%,"14,445","16,231",192.407M,8.63
+921,MPA,BlackRock MuniYield Pennsylvania Quality Fund,14.38,+0.03,+0.21%,"42,592","22,328",191.57M,7.79
+922,FINS,Angel Oak Financial Strategies Income Term Trust,16.53,-0.04,-0.24%,"68,922","39,457",190.424M,N/A
+923,IHIT,Invesco High Income 2023 Target Term Fund,7.92,+0.03,+0.38%,"61,812","79,687",190.324M,7.91
+924,BGIO,BlackRock 2022 Global Income Opportunity Trust,8.57,+0.01,+0.09%,"49,004","30,420",189.747M,N/A
+925,OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",14.14,-0.37,-2.55%,"222,748","61,225",189.262M,N/A
+926,NIQ,Nuveen Intermediate Duration Quality Municipal Term Fund,14.39,-0.01,-0.10%,"23,653","20,355",188.411M,N/A
+927,BNY,BlackRock New York Municipal Income Trust,14.47,-0.10,-0.69%,"33,633","22,533",187.764M,9.05
+928,FUND,"Sprott Focus Trust, Inc.",6.40,-0.04,-0.62%,"37,172","53,977",186.899M,3.12
+929,FIF,First Trust Energy Infrastructure Fund,10.62,+0.02,+0.19%,"33,491","60,849",186.383M,N/A
+930,EMO,ClearBridge Energy Midstream Opportunity Fund Inc,12.98,+0.06,+0.46%,"49,159","79,285",186.17M,N/A
+931,ACP,Aberdeen Income Credit Strategies Fund,10.58,+0.12,+1.13%,"171,978","144,825",184.489M,N/A
+932,AIF,Apollo Tactical Income Fund Inc.,12.70,-0.02,-0.16%,"58,644","63,853",183.693M,6.28
+933,FDEU,First Trust Dynamic Europe Equity Income Fund,10.64,-0.11,-1.02%,"26,773","79,787",183.347M,N/A
+934,TWN,"The Taiwan Fund, Inc.",24.45,-0.00,-0.02%,415,"7,676",182.872M,5.11
+935,DMF,"BNY Mellon Municipal Income, Inc.",8.68,-0.02,-0.29%,"28,655","39,749",180.097M,90.42
+936,IDE,"Voya Infrastructure, Industrials and Materials Fund",9.35,+0.04,+0.43%,"32,514","62,606",180.256M,N/A
+937,JHS,John Hancock Income Securities Trust,15.36,+0.03,+0.20%,"12,042","19,141",178.892M,21.07
+938,PFHD,Professional Holding Corp.,13.27,-0.08,-0.60%,"3,573","54,295",178.41M,35.48
+939,GGT,The Gabelli Multimedia Trust Inc.,7.19,+0.06,+0.84%,"29,092","59,598",179.02M,3.94
+940,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc.",8.74,-0.06,-0.68%,"109,629","85,409",178.18M,6.48
+941,PFD,Flaherty & Crumrine Preferred Income Fund Inc.,15.74,+0.02,+0.11%,"28,192","25,350",177.467M,49.34
+942,FT,Franklin Universal Trust,7.00,-0.08,-1.07%,"40,676","44,780",176.034M,11.64
+943,MUH,"BlackRock MuniHoldings Fund II, Inc.",15.31,-0.07,-0.49%,"3,861","17,717",173.615M,N/A
+944,GLEO,Galileo Acquisition Corp.,9.94,0.00,0.00%,"4,616","37,979",172.956M,N/A
+945,CCB,Coastal Financial Corporation,14.41,+0.06,+0.42%,"2,457","19,436",171.871M,13.10
+946,NRIM,"Northrim BanCorp, Inc.",26.89,+0.56,+2.13%,"12,290","28,138",171.237M,7.70
+947,BTA,BlackRock Long-Term Municipal Advantage Trust,12.68,-0.12,-0.94%,"18,175","31,006",170.242M,N/A
+948,MUS,"BlackRock MuniHoldings Quality Fund, Inc.",13.04,-0.09,-0.69%,"33,323","32,060",169.759M,N/A
+949,CBH,AllianzGI Convertible & Income 2024 Target Term Fund,9.27,+0.06,+0.65%,"8,701","26,909",169.242M,N/A
+950,AMRK,"A-Mark Precious Metals, Inc.",24.04,+0.48,+2.04%,"30,523","39,274",169.036M,14.32
+951,FMN,Federated Hermes Premier Municipal Income Fund,14.56,-0.38,-2.54%,"22,603","29,287",167.427M,112.87
+952,BBK,BlackRock Municipal Bond Trust,15.92,-0.07,-0.44%,"6,126","22,492",167.526M,6.92
+953,SCM,Stellus Capital Investment Corporation,8.56,+0.04,+0.47%,"40,634","143,287",166.8M,26.58
+954,WEA,Western Asset Premier Bond Fund,13.98,+0.04,+0.28%,"22,076","18,941",165.849M,5.72
+955,MHF,Western Asset Municipal High Income Fund Inc.,7.64,-0.02,-0.24%,"25,350","41,888",165.308M,N/A
+956,NAZ,Nuveen Arizona Quality Municipal Income Fund,14.33,-0.00,-0.00%,"11,239","18,188",165.815M,7.55
+957,ECF,Ellsworth Growth and Income Fund Ltd.,12.34,-0.03,-0.24%,"13,677","40,041",162.951M,N/A
+958,FBIZ,"First Business Financial Services, Inc.",18.89,+0.17,+0.91%,"15,157","19,280",161.113M,9.35
+959,BGX,Blackstone / GSO Long-Short Credit Income Fund,12.66,+0.06,+0.48%,"50,951","81,118",160.881M,N/A
+960,MXF,"The Mexico Fund, Inc.",10.61,+0.17,+1.63%,"14,955","36,249",159.205M,N/A
+961,CXE,MFS High Income Municipal Trust,5.05,-0.02,-0.49%,"23,929","66,782",159.184M,N/A
+962,JPT,Nuveen Preferred and Income 2022 Term Fund,23.11,-0.14,-0.61%,"8,864","11,128",157.977M,N/A
+963,PCPL,CC Neuberger Principal Holdings I,10.25,-0.04,-0.39%,"216,777","195,065",157.338M,N/A
+964,JDD,Nuveen Diversified Dividend and Income Fund,7.95,-0.06,-0.75%,"59,503","61,820",156.905M,3.29
+965,GGM,Guggenheim Credit Allocation Fund,18.14,-0.04,-0.24%,"32,032","36,444",158.697M,N/A
+966,KF,"The Korea Fund, Inc.",30.61,-0.66,-2.11%,"3,094","5,715",155.226M,15.61
+967,ESSA,"ESSA Bancorp, Inc.",13.99,+0.01,+0.07%,"6,472","17,250",153.199M,10.22
+968,GLQ,Clough Global Equity Fund,11.71,-0.03,-0.26%,"58,518","52,938",154.933M,N/A
+969,NNY,"Nuveen New York Municipal Value Fund, Inc.",10.16,-0.01,-0.10%,"5,442","20,171",154.769M,10.88
+970,IGA,Voya Global Advantage and Premium Opportunity Fund,8.44,-0.10,-1.17%,"22,030","80,125",154.494M,N/A
+971,INBK,First Internet Bancorp,15.75,-0.10,-0.63%,"60,260","49,433",154.335M,6.64
+972,PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc.,12.15,+0.13,+1.08%,"9,525","21,320",153.908M,45.00
+973,ASPS,Altisource Portfolio Solutions S.A.,9.85,+1.43,+16.91%,"544,178","167,709",153.971M,N/A
+974,TEAF,Tortoise Essential Assets Income Term Fund,11.32,+0.07,+0.62%,"27,359","50,966",152.718M,N/A
+975,VMM,"Delaware Investments Minnesota Municipal Income Fund II, Inc.",13.21,+0.02,+0.17%,"7,765","15,306",151.981M,42.34
+976,MRCC,Monroe Capital Corporation,7.38,-0.12,-1.60%,"88,836","149,125",157.22M,N/A
+977,PCB,PCB Bancorp,9.81,+0.16,+1.66%,"84,539","39,192",150.86M,8.66
+978,PWOD,"Penns Woods Bancorp, Inc.",21.28,+0.25,+1.19%,"6,964","9,514",149.953M,10.58
+979,PAI,Western Asset Investment Grade Income Fund Inc.,15.74,+0.13,+0.83%,"23,700","24,317",149.582M,7.26
+980,CBNK,"Capital Bancorp, Inc.",10.80,+0.06,+0.56%,"2,463","11,153",149.258M,8.78
+981,JHY,Nuveen High Income 2020 Target Term Fund,9.43,-0.01,-0.14%,"29,471","35,260",149.031M,N/A
+982,CEE,"The Central and Eastern Europe Fund, Inc.",22.20,-0.26,-1.18%,"19,954","5,706",148.872M,N/A
+983,CHMG,Chemung Financial Corporation,30.92,+0.86,+2.86%,674,"9,011",147.798M,10.40
+984,HGLB,Highland Global Allocation Fund,6.51,+0.04,+0.62%,"66,569","131,222",146.487M,N/A
+985,MNP,Western Asset Municipal Partners Fund Inc.,14.95,-0.08,-0.51%,"18,737","19,425",145.326M,N/A
+986,DMO,Western Asset Mortgage Opportunity Fund Inc.,13.68,+0.06,+0.44%,"16,530","66,058",143.873M,N/A
+987,BCV,Bancroft Fund Ltd.,26.75,-0.03,-0.11%,"15,805","16,587",143.193M,21.57
+988,RIV,"RiverNorth Opportunities Fund, Inc.",15.24,+0.11,+0.76%,"31,719","60,219",142.397M,N/A
+989,JHI,John Hancock Investors Trust,16.26,-0.05,-0.33%,"6,832","25,268",141.576M,N/A
+990,DNI,Dividend and Income Fund,11.33,-0.05,-0.44%,"31,890","41,485",141.054M,2.68
+991,MVC,"MVC Capital, Inc.",7.88,-0.10,-1.25%,"150,007","43,258",139.674M,N/A
+992,HEQ,John Hancock Hedged Equity & Income Fund,11.31,-0.11,-0.96%,"63,271","54,044",138.251M,N/A
+993,BBF,BlackRock Municipal Income Investment Trust,13.46,-0.02,-0.11%,"9,202","21,133",137.727M,8.02
+994,BCML,BayCom Corp,11.58,+0.22,+1.94%,"26,698","26,934",137.707M,8.84
+995,RGT,"Royce Global Value Trust, Inc.",13.04,-0.05,-0.41%,"33,033","25,866",137.491M,N/A
+996,RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc.",21.38,-0.10,-0.45%,"3,528","13,404",136.261M,N/A
+997,NMT,Nuveen Massachusetts Quality Municipal Income Fund,14.53,-0.06,-0.39%,"8,269","12,947",135.486M,34.68
+998,SHBI,"Shore Bancshares, Inc.",10.58,+0.47,+4.65%,"67,995","39,379",132.532M,7.99
+999,WNEB,"Western New England Bancorp, Inc.",5.16,+0.01,+0.19%,"15,038","48,226",132.325M,12.26
+1000,NIM,Nuveen Select Maturities Municipal Fund,10.60,-0.02,-0.19%,"12,968","23,973",131.915M,55.49
+1001,VGI,Virtus Global Multi-Sector Income Fund,11.64,-0.05,-0.47%,"21,786","55,650",131.563M,N/A
+1002,NKG,Nuveen Georgia Quality Municipal Income Fund,12.68,-0.03,-0.28%,"21,869","13,625",131.817M,23.52
+1003,GDL,The GDL Fund,8.44,+0.01,+0.18%,"7,604","33,758",130.564M,N/A
+1004,BPRN,The Bank of Princeton,19.28,+0.28,+1.47%,731,"9,260",130.611M,10.04
+1005,BANX,StoneCastle Financial Corp.,19.79,+0.15,+0.74%,"2,481","14,753",129.856M,N/A
+1006,BAF,BlackRock Municipal Income Investment Quality Trust,14.83,+0.03,+0.20%,"17,808","20,652",129.754M,7.88
+1007,FAM,First Trust/Aberdeen Global Opportunity Income Fund,10.18,-0.01,-0.10%,"10,309","35,660",129.199M,5.88
+1008,IHD,Voya Emerging Markets High Dividend Equity Fund,6.75,-0.08,-1.17%,"19,712","60,453",128.515M,N/A
+1009,SFE,"Safeguard Scientifics, Inc.",6.19,+0.05,+0.81%,"46,813","78,239",128.645M,N/A
+1010,LEVL,"Level One Bancorp, Inc.",16.48,-0.32,-1.90%,"2,527","6,934",127.462M,8.07
+1011,SBI,Western Asset Intermediate Muni Fund Inc.,9.05,-0.03,-0.33%,"41,032","40,290",127.445M,N/A
+1012,MCN,Madison Covered Call & Equity Strategy Fund,6.07,+0.01,+0.17%,"41,832","73,407",127.148M,5.22
+1013,ATLC,Atlanticus Holdings Corporation,8.00,+0.01,+0.13%,"4,904","24,193",127.355M,3.89
+1014,KSM,DWS Strategic Municipal Income Trust,11.15,-0.05,-0.42%,"26,627","30,333",124.923M,7.24
+1015,MPV,Barings Participation Investors,11.74,+0.32,+2.80%,"30,227","14,346",124.464M,28.70
+1016,HIE,Miller/Howard High Income Equity Fund,6.63,-0.01,-0.15%,"58,058","114,807",123.919M,N/A
+1017,DTF,DTF Tax-Free Income Inc.,14.48,+0.04,+0.26%,"17,769","6,733",123.358M,88.82
+1018,PNI,PIMCO New York Municipal Income Fund II,10.94,-0.05,-0.45%,"17,508","21,803",122.353M,7.65
+1019,HWBK,"Hawthorn Bancshares, Inc.",18.70,+1.05,+5.95%,"7,764","11,306",121.282M,10.09
+1020,NTG,"Tortoise Midstream Energy Fund, Inc.",19.15,+0.10,+0.52%,"40,089","58,746",121.044M,N/A
+1021,ERH,Wells Fargo Advantage Utilities and High Income Fund,13.07,-0.04,-0.31%,"13,346","22,482",121.159M,20.42
+1022,JSD,Nuveen Short Duration Credit Opportunities Fund,11.99,-0.05,-0.42%,"9,127","42,904",121.046M,N/A
+1023,DCF,"BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc.",8.09,+0.01,+0.12%,"35,375","27,663",121.051M,N/A
+1024,AGD,Aberdeen Global Dynamic Dividend Fund,9.57,+0.03,+0.31%,"43,570","42,998",120.1M,N/A
+1025,MFT,BlackRock MuniYield Investment Quality Fund,14.15,-0.02,-0.11%,"4,831","19,998",120.016M,8.79
+1026,BFIN,BankFinancial Corporation,8.04,+0.11,+1.39%,"18,786","28,814",119.371M,10.13
+1027,EDF,Stone Harbor Emerging Markets Income Fund,7.27,-0.12,-1.62%,"102,614","94,550",120.552M,N/A
+1028,MH-PA,"Maiden Holdings, Ltd.",10.25,+0.23,+2.24%,"17,244","12,294",118.998M,N/A
+1029,JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,8.48,-0.04,-0.47%,"21,061","41,285",117.456M,3.01
+1030,CFFI,C&F Financial Corporation,32.00,-1.00,-3.03%,"2,959","6,519",116.755M,6.83
+1031,MH-PC,"Maiden Holdings, Ltd.",9.79,+0.04,+0.41%,"10,270","12,659",116.485M,N/A
+1032,SPE-PB,"Special Opportunities Fund, Inc.",25.23,0.00,0.00%,0,"4,687",115.825M,7.86
+1033,MH-PD,"Maiden Holdings, Ltd.",9.77,+0.28,+2.95%,"2,011","6,346",115.443M,N/A
+1034,MYFW,"First Western Financial, Inc.",14.30,0.00,0.00%,"11,638","31,579",113.71M,7.61
+1035,CTR,ClearBridge MLP and Midstream Total Return Fund Inc,14.56,-0.15,-1.02%,"24,269","47,695",111.821M,N/A
+1036,WHG,"Westwood Holdings Group, Inc.",13.21,-0.32,-2.37%,"24,202","46,323",111.56M,50.42
+1037,PCM,PCM Fund Inc.,9.55,-0.14,-1.42%,"11,210","32,536",110.938M,8.09
+1038,CGO,Calamos Global Total Return Fund,12.58,-0.06,-0.47%,"26,464","28,528",110.908M,N/A
+1039,CALB,California BanCorp,13.60,+0.12,+0.89%,644,"48,895",110.615M,23.90
+1040,SPE,"Special Opportunities Fund, Inc.",12.93,-0.08,-0.59%,"14,308","26,060",109.945M,4.03
+1041,DEX,Delaware Enhanced Global Dividend and Income Fund,9.16,+0.08,+0.88%,"32,558","85,720",109.987M,N/A
+1042,HNW,Pioneer Diversified High Income Trust,13.07,+0.10,+0.77%,"18,242","18,017",108.91M,N/A
+1043,EFF,Eaton Vance Floating-Rate Income Plus Fund,14.34,+0.03,+0.17%,"4,412","13,992",109.076M,N/A
+1044,SWZ,The Swiss Helvetia Fund Inc.,8.16,-0.02,-0.24%,"17,693","33,374",108.218M,4.30
+1045,BSVN,Bank7 Corp.,11.69,+0.25,+2.19%,"12,069","16,092",107.855M,14.27
+1046,UBFO,United Security Bancshares,6.33,-0.20,-3.06%,"6,632","27,726",107.466M,9.17
+1047,GNT,"GAMCO Natural Resources, Gold & Income Trust",5.09,-0.01,-0.20%,"70,003","99,204",106.416M,N/A
+1048,JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund,7.50,+0.03,+0.33%,"33,460","24,312",106.81M,N/A
+1049,NMI,"Nuveen Municipal Income Fund, Inc.",11.43,+0.01,+0.09%,"6,492","12,404",104.625M,N/A
+1050,JEQ,"Aberdeen Japan Equity Fund, Inc.",7.86,+0.01,+0.13%,"7,439","25,758",105.392M,58.66
+1051,BSD,BlackRock Strategic Municipal Trust,14.22,-0.01,-0.10%,"2,449","17,657",103.894M,N/A
+1052,GCV,The Gabelli Convertible and Income Securities Fund Inc.,5.50,+0.00,+0.00%,"26,782","27,647",103.52M,4.16
+1053,NXC,Nuveen California Select Tax-Free Income Portfolio,16.33,+0.04,+0.25%,"6,272","6,711",103.727M,22.04
+1054,JLS,Nuveen Mortgage and Income Fund,18.55,-0.18,-0.99%,"15,008","24,825",101.765M,N/A
+1055,VCIF,Vertical Capital Income Fund,9.76,-0.00,-0.02%,"8,986","23,111",101.257M,N/A
+1056,SRL,Scully Royalty Ltd.,7.94,+0.20,+2.59%,218,"3,834",99.694M,N/A
+1057,MRBK,Meridian Corporation,16.35,+0.01,+0.06%,"1,870","25,587",99.654M,7.06
+1058,CEV,Eaton Vance California Municipal Income Trust,13.93,+0.10,+0.69%,"4,196","14,928",99.335M,20.54
+1059,PROV,"Provident Financial Holdings, Inc.",13.15,+0.15,+1.15%,"3,354","9,946",97.788M,13.02
+1060,TRNE-UN,Trine Acquisition Corp.,11.22,0.00,0.00%,0,"3,734",95.809M,N/A
+1061,GGZ,The Gabelli Global Small and Mid Cap Value Trust,10.19,+0.05,+0.49%,"15,128","34,149",95.385M,N/A
+1062,FFNW,"First Financial Northwest, Inc.",9.47,+0.19,+2.05%,"16,925","46,552",95.045M,10.51
+1063,PNF,PIMCO New York Municipal Income Fund,12.05,-0.09,-0.74%,"9,132","13,268",94.195M,7.98
+1064,EXD,Eaton Vance Tax-Advantaged Bond and Option Strategies Fund,9.57,+0.08,+0.84%,"43,035","42,998",93.131M,N/A
+1065,IAE,Voya Asia Pacific High Dividend Equity Income Fund,7.81,-0.11,-1.39%,"18,300","34,339",92.93M,N/A
+1066,PGP,PIMCO Global StocksPLUS & Income Fund,8.37,+0.09,+1.09%,"39,533","51,166",91.793M,3.84
+1067,FSLF,First Eagle Senior Loan Fund,12.29,+0.01,+0.08%,"21,214","32,520",91.179M,N/A
+1068,CXH,MFS Investment Grade Municipal Trust,9.94,+0.01,+0.10%,"6,899","15,274",90.556M,116.94
+1069,TLI,Western Asset Corporate Loan Fund Inc.,9.15,0.00,0.00%,"20,611","35,973",90.374M,N/A
+1070,RSF,RiverNorth Specialty Finance Corporation,14.71,+0.31,+2.15%,"5,228","20,477",90.206M,N/A
+1071,GLU,The Gabelli Global Utility & Income Trust,16.81,+0.02,+0.12%,"14,143","14,300",90.258M,5.86
+1072,BSE,BlackRock New York Municipal Income Quality Trust,13.65,-0.07,-0.51%,"6,531","10,750",88.993M,8.08
+1073,MRLN,Marlin Business Services Corp.,7.25,+0.01,+0.14%,"173,434","64,749",86.572M,N/A
+1074,NMS,Nuveen Minnesota Quality Municipal Income Fund,14.77,+0.01,+0.05%,"4,436","5,038",85.406M,N/A
+1075,ASFI,"Asta Funding, Inc.",13.00,0.00,0.00%,717,"12,774",85.381M,27.20
+1076,SOAC,Sustainable Opportunities Acquisition Corp.,9.89,-0.01,-0.10%,"39,566","124,274",370.875M,N/A
+1077,NHA,Nuveen Municipal 2021 Target Term Fund,9.85,+0.02,+0.20%,420,"11,200",84.934M,N/A
+1078,GLV,Clough Global Dividend and Income Fund,10.00,-0.04,-0.40%,"18,863","40,461",84.077M,N/A
+1079,FUNC,First United Corporation,11.98,+0.23,+1.96%,"26,324","33,582",83.677M,7.23
+1080,VLT,Invesco High Income Trust II,12.65,-0.06,-0.47%,"19,786","22,566",82.158M,16.43
+1081,SZC,The Cushing Renaissance Fund,31.72,-0.02,-0.05%,"19,250","11,763",82.526M,N/A
+1082,PGZ,Principal Real Estate Income Fund,11.84,+0.06,+0.51%,"13,066","37,820",81.694M,N/A
+1083,BFO,BlackRock Florida Municipal 2020 Term Trust,14.75,0.00,0.00%,"3,431","7,404",78.477M,57.62
+1084,EDI,Stone Harbor Emerging Markets Total Income Fund,7.96,+0.02,+0.25%,"17,678","36,320",78.46M,N/A
+1085,XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,6.07,+0.01,+0.17%,"29,495","63,293",77.458M,N/A
+1086,GFY,Western Asset Variable Rate Strategic Fund Inc.,16.46,+0.14,+0.89%,"14,855","5,180",76.842M,N/A
+1087,NBW,Neuberger Berman California Municipal Fund Inc.,13.60,+0.04,+0.29%,"2,370","12,780",75.494M,N/A
+1088,JHAA,Nuveen High Income 2023 Target Term Fund,9.37,+0.06,+0.59%,"8,349","10,323",73.269M,N/A
+1089,BFY,BlackRock New York Municipal Income Trust II,14.43,-0.07,-0.48%,"8,548","9,455",72.221M,7.77
+1090,EVY,Eaton Vance New York Municipal Income Trust,13.36,-0.08,-0.56%,"11,650","6,407",72.168M,28.98
+1091,MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund,8.41,-0.06,-0.71%,"26,572","36,366",71.884M,N/A
+1092,EEA,"The European Equity Fund, Inc.",9.34,+0.13,+1.41%,"22,833","23,911",70.487M,4.24
+1093,GER,Goldman Sachs MLP and Energy Renaissance Fund,7.78,+0.14,+1.83%,"39,093","62,826",68.916M,N/A
+1094,VCF,"Delaware Investments Colorado Municipal Income Fund, Inc.",14.14,+0.06,+0.43%,162,"6,123",68.397M,101.73
+1095,MZA,"BlackRock MuniYield Arizona Fund, Inc.",14.73,+0.03,+0.20%,228,"6,061",68.297M,8.17
+1096,IHTA,Invesco High Income 2024 Target Term Fund,7.69,-0.16,-2.10%,"12,704","32,558",67.504M,N/A
+1097,DDF,"Delaware Investments Dividend and Income Fund, Inc.",8.78,+0.05,+0.57%,"37,621","39,046",67.502M,N/A
+1098,FMO,Fiduciary/Claymore Energy Infrastructure Fund,9.24,+0.03,+0.33%,"13,686","48,811",65.495M,N/A
+1099,FEO,First Trust/Aberdeen Emerging Opportunity Fund,12.88,-0.09,-0.69%,"3,228","14,134",65.129M,4.81
+1100,JMM,Nuveen Multi-Market Income Fund,6.91,+0.00,+0.01%,"10,345","11,111",66.044M,11.68
+1101,TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",9.31,-0.04,-0.43%,"16,067","41,315",64.717M,N/A
+1102,NICK,"Nicholas Financial, Inc.",8.26,-0.05,-0.60%,"6,363","7,723",64.428M,14.83
+1103,GMZ,Goldman Sachs MLP Income Opportunities Fund,9.98,+0.15,+1.53%,"14,809","44,696",63.758M,N/A
+1104,FCO,"Aberdeen Global Income Fund, Inc.",7.26,-0.03,-0.41%,"29,298","41,822",63.342M,N/A
+1105,EGF,"BlackRock Enhanced Government Fund, Inc.",13.20,-0.06,-0.42%,"2,429","8,785",62.502M,23.87
+1106,NBO,"Neuberger Berman New York Municipal Fund, Inc.",12.13,-0.01,-0.08%,"7,850","15,982",61.589M,N/A
+1107,AMRB,American River Bankshares,10.23,-0.05,-0.49%,132,"5,401",60.746M,9.59
+1108,HTY,John Hancock Investments - John Hancock Tax-Advantaged Global Shareholder Yield Fund,5.46,+0.02,+0.37%,"11,668","39,182",59.588M,N/A
+1109,VFL,Delaware Investments National Municipal Income Fund,13.11,-0.08,-0.63%,"23,904","9,657",59.354M,N/A
+1110,FMY,First Trust Mortgage Income Fund,13.70,-0.02,-0.15%,"14,505","4,649",57.721M,57.32
+1111,NXN,Nuveen New York Select Tax-Free Income Portfolio,13.51,+0.05,+0.37%,"2,785","4,763",53.025M,35.74
+1112,PYN,PIMCO New York Municipal Income Fund III,9.12,-0.06,-0.65%,"3,163","9,119",52.185M,8.54
+1113,NCB,Nuveen California Municipal Value Fund 2,15.44,-0.08,-0.48%,"5,263","9,531",50.998M,8.01
+1114,PCF,High Income Securities Fund,8.08,+0.06,+0.78%,"13,830","27,317",44.98M,20.06
+1115,BQH,BlackRock New York Municipal Bond Trust,16.02,-0.04,-0.25%,942,"5,669",44.858M,7.83
+1116,CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,8.79,+0.03,+0.40%,"26,362","61,477",43.304M,N/A
+1117,IRL,"The New Ireland Fund, Inc.",8.75,-0.04,-0.47%,"4,845","11,414",43.04M,N/A
+1118,MXE,Mexico Equity & Income Fund Inc.,8.28,+0.14,+1.72%,"1,323","2,817",42.821M,25.63
+1119,MCC,Medley Capital Corporation,15.37,-0.43,-2.72%,"15,481","17,080",41.863M,N/A
+1120,MFV,MFS Special Value Trust,5.36,+0.01,+0.19%,"19,417","17,196",38.612M,N/A
+1121,TTP,"Tortoise Pipeline & Energy Fund, Inc.",15.02,+0.10,+0.67%,"8,176","20,463",37.612M,N/A
+1122,NYV,Nuveen New York Municipal Value Fund 2,15.04,+0.02,+0.13%,"4,958","5,928",35.338M,9.01
+1123,NOM,Nuveen Missouri Quality Municipal Income Fund,14.05,-0.02,-0.14%,698,"1,474",32.958M,48.62
+1124,SRV,The Cushing MLP & Infrastructure Total Return Fund,19.26,+0.32,+1.69%,"6,012","11,739",42.052M,N/A
+1125,MHE,BlackRock Massachusetts Tax-Exempt Trust,13.49,-0.11,-0.83%,"3,827","4,166",31.985M,8.03
+1126,BZM,BlackRock Maryland Municipal Bond Trust,14.85,-0.15,-1.00%,295,"3,107",30.923M,8.66
+1127,GRF,"Eagle Capital Growth Fund, Inc.",7.24,-0.05,-0.75%,691,"5,230",29.478M,4.45
+1128,BHV,BlackRock Virginia Municipal Bond Trust,16.00,0.00,0.00%,4,"2,398",25.723M,9.71
+1129,NDP,"Tortoise Energy Independence Fund, Inc.",12.37,+0.16,+1.31%,"6,994","13,120",22.835M,N/A
+1130,NJV,Nuveen New Jersey Municipal Value Fund,14.01,+0.03,+0.21%,"5,600","6,855",21.447M,8.68
+1131,JRJC,China Finance Online Co. Limited,8.54,-0.53,-5.84%,"47,158","586,728",20.854M,N/A
+1132,NPN,Nuveen Pennsylvania Municipal Value Fund,14.79,-0.51,-3.33%,"3,661","1,339",18.031M,10.76
+1133,GGO,The Gabelli Go Anywhere Trust,10.55,-0.84,-7.37%,501,749,16.352M,N/A
+1134,LOAK-UN,Live Oak Acquisition Corp.,10.33,-0.10,-0.96%,400,N/A,N/A,N/A
+1135,LGVW,Longview Acquisition Corp.,9.90,+0.01,+0.10%,"1,112","302,008",N/A,N/A
+1136,FCNCP,"First Citizens BancShares, Inc.",25.49,+0.05,+0.20%,"13,932","34,212",N/A,N/A
+1137,WTREP,Watford Holdings Ltd.,24.65,0.00,0.00%,"6,200","3,192",N/A,12.32
+1138,FHN-PE,First Horizon National Corporation,26.34,+0.19,+0.73%,"2,420",N/A,N/A,N/A
+1139,KCAC-UN,Kensington Capital Acquisition Corp.,10.16,-0.10,-0.97%,"89,559",N/A,N/A,N/A
+1140,WTFCP,Wintrust Financial Corporation,26.27,+0.24,+0.92%,"68,774","91,945",N/A,N/A
+1141,TFC-PO,Truist Financial Corporation De,27.84,+0.21,+0.76%,"39,196",N/A,N/A,N/A
+1142,YAC-UN,Yucaipa Acquisition Corporation,10.10,0.00,0.00%,"12,884",N/A,N/A,N/A
+1143,JWS,Jaws Acquisition Corp.,10.18,-0.15,-1.45%,"281,677","437,780",N/A,N/A
+1144,PSTH-UN,"Pershing Square Tontine Holdings, Ltd.",21.66,+0.06,+0.28%,"485,315",N/A,N/A,N/A
+1145,FMBIP,"First Midwest Bancorp, Inc.",25.62,+0.27,+1.07%,"16,744","31,944",N/A,N/A
+1146,IPOB,Social Capital Hedosophia Holdings Corp. II,10.97,+0.11,+1.01%,"113,174","342,829",N/A,N/A
+1147,BAC-PM,Bank of America Corporation,27.27,+0.04,+0.15%,"53,774","129,954",N/A,9.92
+1148,AHL-PE,Aspen Insurance Holdings Limited,25.05,+0.02,+0.08%,"8,620","36,939",N/A,N/A
+1149,MS-PL,Morgan Stanley,26.02,-0.08,-0.31%,"74,802","71,122",N/A,N/A
+1150,PRIF-PF,"Priority Income Fund, Inc.",23.80,0.00,0.00%,597,"3,290",N/A,N/A
+1151,BAC-PN,Bank of America Corporation,27.00,+0.02,+0.07%,"92,451","177,950",N/A,9.82
+1152,OXLCP,Oxford Lane Capital Corp.,22.41,+0.13,+0.58%,93,"16,205",N/A,N/A
+1153,WFC-PZ,Wells Fargo & Company,24.70,0.00,0.00%,"152,492","317,057",N/A,N/A
+1154,EQH-PA,"Equitable Holdings, Inc.",25.16,+0.11,+0.44%,"131,823","97,366",N/A,N/A
+1155,TFC-PG,Truist Financial Corporation,25.37,-0.04,-0.16%,"21,231","34,764",N/A,N/A
+1156,CPSR-UN,Capstar Special Purpose Acquisition Corp.,10.15,+0.03,+0.30%,205,N/A,N/A,N/A
+1157,FUSE-UN,Fusion Acquisition Corp.,10.06,-0.07,-0.69%,"28,220",N/A,N/A,N/A
+1158,AEL-PB,American Equity Investment Life,25.05,+0.12,+0.48%,"42,413",N/A,N/A,N/A
+1159,JPM-PG,J P Morgan Chase & Co Depositar,25.55,-0.02,-0.08%,"39,947","133,025",N/A,N/A
+1160,JWS-UN,Jaws Acquisition Corp.,10.85,0.00,0.00%,"2,882",N/A,N/A,N/A
+1161,BMRG-UN,B. Riley Principal Merger Corp. II,10.84,-0.06,-0.55%,"11,457",N/A,N/A,N/A
+1162,TFC-PR,Truist Financial Corporation,25.87,+0.15,+0.58%,"278,364",N/A,N/A,N/A
+1163,SIVBP,SVB Financial Group,25.88,+0.03,+0.12%,"17,762","37,602",N/A,N/A
+1164,WSBCP,"WesBanco, Inc.",26.24,-0.06,-0.23%,"206,794","314,250",N/A,N/A
+1165,FITBP,Fifth Third Bancorp,26.60,+0.03,+0.13%,"3,075","5,003",N/A,7.99
+1166,TREB,Trebia Acquisition Corp.,10.30,+0.24,+2.39%,"2,589","253,400",N/A,N/A
+1167,OCFCP,OceanFirst Financial Corp.,26.00,+0.02,+0.08%,"12,483","9,080",N/A,N/A
+1168,RKT,"Rocket Companies, Inc.",18.96,+0.22,+1.17%,32.931M,45.269M,37.61B,N/A
+1169,WPF-UN,Foley Trasimene Acquisition Corp.,10.91,-0.09,-0.78%,"67,351",N/A,N/A,N/A
+1170,CCIV-UN,Churchill Capital Corp IV,10.00,0.00,0.00%,"192,264",N/A,N/A,N/A
+1171,RBAC-UN,RedBall Acquisition Corp.,10.13,+0.03,+0.30%,"844,022",N/A,N/A,N/A
+1172,DGNR-UN,10.68,+0.68,+6.80%,9.275M,N/A,N/A,N/A,
+1173,ARGO-PA,"Argo Group International Holdings, Ltd.",25.24,+0.14,+0.56%,"130,868",N/A,N/A,N/A
+1174,GDV-PG,The Gabelli Dividend & Income Trust PFD SER G,26.23,0.00,0.00%,0,"4,422",2.162B,N/A
+1175,SNV-PE,Synovus Financial Corp.,25.01,-0.05,-0.20%,"18,094","66,204",N/A,7.21
+1176,TFC-PF,Truist Financial Corporation,25.35,-0.02,-0.08%,"13,811","30,229",N/A,N/A
+1177,TY-P,Tri-Continental Corporation PFD $2.50,57.50,0.00,0.00%,"1,970",323,3.214B,N/A
+1178,EFC-PA,Ellington Financial Inc.,21.41,-0.04,-0.19%,"3,581","12,773",N/A,N/A
+1179,SCE-PG,SCE Trust II TR PFD SECS 5.1%,24.40,0.00,0.00%,"3,539","17,272",N/A,N/A
+1180,OAC-UN,Oaktree Acquisition Corp.,11.08,-0.00,-0.02%,402,"9,321",N/A,N/A
+1181,GGZ-PA,The Gabelli Global Small and Mid Cap Value Trust,25.94,+0.09,+0.35%,"1,400",857,N/A,N/A
+1182,COF-PI,Capital One Financial Corporation,24.87,+0.12,+0.50%,"117,516","149,716",N/A,2.25
+1183,CCXX-UN,Churchill Capital Corp III,11.19,+0.01,+0.13%,"10,311","86,923",N/A,N/A
+1184,DMYT-UN,"dMY Technology Group, Inc.",11.59,-0.10,-0.89%,"1,623","30,348",N/A,N/A
+1185,SF-PC,Stifel Financial Corp.,26.81,-0.08,-0.30%,"11,628",N/A,N/A,N/A
+1186,ATH-PC,Athene Holding Ltd.,26.46,+0.18,+0.68%,"480,643",N/A,N/A,N/A
+1187,ASB-PF,Associated Banc-Corp Depositary,25.98,+0.06,+0.23%,"8,291",N/A,N/A,N/A
+1188,PANA-UN,Panacea Acquisition Corp.,11.47,+0.07,+0.61%,119,N/A,N/A,N/A
+1189,KTH,Corts Trust For Peco Energy Capital Trust III,33.48,-0.39,-1.16%,478,774,N/A,N/A
+1190,TREB-UN,Trebia Acquisition Corp.,10.65,+0.09,+0.85%,"1,201",N/A,N/A,N/A
+1191,FMBIO,"First Midwest Bancorp, Inc.",25.50,+0.21,+0.83%,"48,515","52,507",N/A,N/A
+1192,UCBIO,"United Community Banks, Inc.",26.45,+0.01,+0.04%,"9,778","55,508",N/A,N/A
+1193,HTLFP,"Heartland Financial USA, Inc.",26.74,+0.14,+0.53%,"2,677","51,608",N/A,N/A
+1194,BPOPN,Popular Capital Trust I PFD 6.70% GTD,25.74,-0.22,-0.83%,"4,754","7,890",N/A,N/A
+1195,TBKCP,"Triumph Bancorp, Inc.",25.33,-0.02,-0.08%,"28,079","19,043",N/A,N/A
+1196,FVAC-UN,Fortress Value Acquisition Corp.,12.83,-0.57,-4.25%,"5,333","64,837",N/A,N/A
+1197,DFNS-UN,LGL Systems Acquisition Corp.,10.65,0.00,0.00%,"1,002","24,496",N/A,N/A
+1198,ATCO-PI,Atlas Corp.,21.68,+0.20,+0.95%,"12,309","16,375",N/A,N/A
+1199,SBE-UN,Switchback Energy Acquisition Corporation,10.70,0.00,0.00%,0,"19,324",N/A,N/A
+1200,SBE-UN,Switchback Energy Acquisition Corporation,10.70,0.00,0.00%,0,"19,324",N/A,N/A
+1201,GRX-PB,The Gabelli Healthcare & Wellness Trust,26.01,+0.01,+0.04%,139,800,N/A,N/A
+1202,TFC-PH,Truist Financial Corporation,25.78,-0.04,-0.15%,"29,112","22,800",N/A,N/A
+1203,OFG-PB,OFG Bancorp 7.0% Non Cumulative,24.67,+0.00,+0.02%,"1,601","2,356",N/A,28.04
+1204,GGT-PG,The Gabelli Multimedia Trust Inc.,26.24,0.00,0.00%,"2,012","6,154",N/A,N/A
+1205,CIT-PB,CIT Group Inc.,23.53,+0.29,+1.25%,"19,182","35,200",N/A,N/A
+1206,SCE-PJ,SCE Trust IV,22.85,+0.06,+0.26%,"7,578","12,917",N/A,N/A
+1207,JIH-UN,"Juniper Industrial Holdings, Inc.",10.60,0.00,0.00%,0,"24,718",N/A,N/A
+1208,CCX-UN,Churchill Capital Corp II,11.22,-0.03,-0.27%,"1,012","7,920",N/A,N/A
+1209,FVAC-UN,Fortress Value Acquisition Corp.,12.83,-0.57,-4.25%,"5,333","64,837",N/A,N/A
+1210,DFNS-UN,LGL Systems Acquisition Corp.,10.65,0.00,0.00%,"1,002","24,496",N/A,N/A
+1211,FRC-PJ,FIRST REPUBLIC BANK Depositary,26.33,+0.19,+0.72%,"28,668","73,250",N/A,N/A
+1212,IPV-UN,InterPrivate Acquisition Corp.,10.16,-0.03,-0.29%,"1,624","16,722",N/A,N/A
+1213,GIX-UN,"GigCapital2, Inc.",11.31,+0.01,+0.09%,300,"8,693",N/A,N/A
+1214,FEAC-UN,Flying Eagle Acquisition Corp.,11.70,0.00,0.00%,30,"79,347",N/A,N/A
+1215,IPOB-UN,Social Capital Hedosophia Holdings Corp. II,11.88,+0.12,+1.06%,"26,640","166,502",N/A,N/A
+1216,ATCO-PI,Atlas Corp.,21.68,+0.20,+0.95%,"12,309","16,375",N/A,N/A
+1217,DEH-UN,D8 Holdings Corp.,10.00,-0.01,-0.10%,"301,112",N/A,N/A,N/A
+1218,SOAC-UN,Sustainable Opportunities Acquisition Corp.,10.26,-0.14,-1.32%,515,N/A,N/A,N/A
+1219,C-PK,Citigroup Inc. Dep Shs Repstg 1,27.60,+0.05,+0.18%,"68,824","94,444",N/A,N/A
+1220,GIK,"GigCapital3, Inc.",9.93,+0.03,+0.30%,"88,807","110,716",N/A,N/A
+1221,AUBAP,Atlantic Union Bankshares Corporation,25.76,+0.17,+0.66%,"40,575","81,147",N/A,N/A
+1222,FSKR,FS KKR Capital Corp. II,15.15,+0.03,+0.20%,"437,795",1.126M,2.604B,N/A
+1223,TCFCP,TCF Financial Corporation,25.33,+0.03,+0.12%,"9,383","10,723",N/A,9.93
+1224,BHFAO,"Brighthouse Financial, Inc.",26.61,+0.04,+0.15%,"50,154","173,069",N/A,N/A
+1225,GSAH-UN,GS Acquisition Holdings Corp II,10.32,-0.04,-0.39%,"201,031",N/A,N/A,N/A
+1226,AGM-PE,Federal Agricultural Mortgage Corporation,26.67,0.00,0.00%,"2,195",N/A,N/A,N/A
+1227,ALL-PI,The Allstate Corporation,26.74,+0.03,+0.11%,"12,253","30,073",N/A,N/A
+1228,JPM-PJ,JPMorgan Chase & Co.,26.87,-0.03,-0.11%,"95,021","229,733",N/A,N/A
+1229,PRIF-PC,"Priority Income Fund, Inc.",24.59,+0.28,+1.15%,800,"2,263",N/A,N/A
+1230,ATCO-PE,Atlas Corp.,23.92,+0.51,+2.18%,"8,258","9,709",N/A,N/A
+1231,BAC-PA,Bank of America Corporation Dep,26.02,+0.02,+0.08%,"52,641","67,623",N/A,N/A
+1232,SCVX-UN,SCVX Corp.,10.60,+0.01,+0.09%,362,"23,089",N/A,N/A
+1233,SFTW-UN,Osprey Technology Acquisition Corp.,10.65,0.00,0.00%,"1,402","4,507",N/A,N/A
+1234,GAB-PK,The Gabelli Equity Trust Inc.,26.30,+0.06,+0.21%,"35,756","8,831",N/A,N/A
+1235,SYF-PA,Synchrony Financial,24.61,0.00,0.00%,"48,822","135,397",N/A,N/A
+1236,USB-PA,U.S. Bancorp PERP PFD SER A,855.28,0.00,0.00%,5,312,1.436T,243.67
+1237,IPOC-UN,Social Capital Hedosophia Holdings Corp. III,11.41,+0.17,+1.51%,"78,592","382,837",N/A,N/A
+1238,CCAC-UN,CITIC Capital Acquisition Corp.,10.11,0.00,0.00%,"9,555","50,674",N/A,N/A
+1239,BXS-PA,BancorpSouth Bank,25.51,-0.28,-1.09%,"6,095","10,944",N/A,N/A
+1240,PRPB-UN,CC Neuberger Principal Holdings II,10.08,-0.02,-0.20%,"218,251",N/A,N/A,N/A
+1241,GIK-UN,"GigCapital3, Inc.",10.19,+0.00,+0.03%,"1,867",N/A,N/A,N/A
+1242,LGVW-UN,Longview Acquisition Corp.,10.20,+0.05,+0.49%,500,N/A,N/A,N/A
+1243,HPX-UN,HPX Corp.,10.12,+0.06,+0.55%,"52,248",N/A,N/A,N/A
+1244,GOAC-UN,GO Acquisition Corp.,10.02,-0.01,-0.10%,"40,463",N/A,N/A,N/A
+1245,BPOPM,Popular Capital Trust II PFD GTD 6.125%,25.50,+0.10,+0.39%,"3,116","5,377",N/A,N/A
+1246,FAII-UN,Fortress Value Acquisition Corp. II,10.16,0.00,0.00%,"311,377",N/A,N/A,N/A
+1247,NTRSO,Northern Trust Corporation,27.27,-0.03,-0.11%,"27,404","36,530",N/A,N/A
+1248,ACND-UN,Ascendant Digital Acquisition Corp.,10.13,-0.01,-0.10%,"2,796",N/A,N/A,N/A
+1249,PNFPP,"Pinnacle Financial Partners, Inc.",26.32,+0.06,+0.24%,"218,976","85,750",N/A,N/A
+1250,FITBO,Fifth Third Bancorp,25.39,-0.17,-0.67%,"57,681","32,693",N/A,N/A
+1251,BANFP,BFC Capital Trust II PFD TR 7.20%,28.05,-0.65,-2.26%,233,792,N/A,N/A
+1252,IPOC,Social Capital Hedosophia Holdings Corp. III,10.50,0.00,0.00%,"235,756","724,288",N/A,N/A
+1253,SCE-PH,SCE Trust III,22.58,-0.07,-0.33%,"13,440","13,944",N/A,N/A
+1254,CFG-PE,"Citizens Financial Group, Inc.",24.95,-0.03,-0.12%,"42,169","63,616",N/A,N/A
+1255,JPM-PH,J P Morgan Chase & Co Depositar,25.73,+0.06,+0.23%,"33,953","90,427",N/A,4.08
+1256,ATCO-PD,Atlas Corp.,22.67,+0.25,+1.11%,"5,149","8,742",N/A,N/A
+1257,ALLY-PA,GMAC Capital Trust I GTD TR PFD-2,24.44,+0.16,+0.66%,"189,402","268,604",N/A,N/A
+1258,OAK-PA,"Oaktree Capital Group, LLC 6.625% PFD UT A",27.86,-0.03,-0.11%,"6,927","10,042",N/A,13.07
+1259,C-PN,Citigroup Capital XIII TR PFD SECS,27.00,-0.04,-0.15%,"78,431","141,806",N/A,N/A
+1260,AEL-PA,American Equity Investment Life Holding Company,23.10,+0.06,+0.26%,"12,815","78,736",N/A,N/A
+1261,GNT-PA,"GAMCO Natural Resources, Gold &",25.86,-0.06,-0.24%,"2,281","1,652",N/A,N/A
+1262,ATCO-PG,Atlas Corp.,23.73,+0.43,+1.85%,"13,483","15,462",N/A,N/A
+1263,MET-PF,"MetLife, Inc.",26.00,-0.04,-0.15%,"100,764","128,450",N/A,N/A
+1264,ATCO-PH,Atlas Corp.,22.64,+0.03,+0.13%,"30,126","17,998",N/A,N/A
+1265,ATH-PB,Athene Holding Ltd.,25.40,+0.02,+0.08%,"44,147","41,715",N/A,N/A
+1266,COF-PJ,Capital One Financial Corporation,23.60,+0.21,+0.90%,"233,267","197,325",N/A,N/A

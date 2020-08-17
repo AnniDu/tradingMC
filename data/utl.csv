@@ -1,0 +1,110 @@
+,Symbol,Name,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap,PE Ratio (TTM)
+0,NEE,"NextEra Energy, Inc.",280.50,-3.90,-1.37%,1.158M,2.014M,137.346B,38.74
+1,DUK-PA,Duke Energy Corporation,28.06,-0.07,-0.25%,"42,409","80,209",69.176B,10.03
+2,D,"Dominion Energy, Inc.",78.85,-0.46,-0.58%,1.932M,4.463M,66.245B,139.80
+3,DCUE,"Dominion Energy, Inc.",102.10,-0.50,-0.49%,"153,895","89,939",61.522B,59.02
+4,DUK,Duke Energy Corporation,82.15,-0.59,-0.71%,1.953M,3.656M,60.416B,29.36
+5,SO,The Southern Company,53.56,-0.81,-1.49%,3.07M,4.427M,56.566B,17.53
+6,AEP,"American Electric Power Company, Inc.",82.95,-0.71,-0.85%,2.682M,3.138M,41.156B,21.65
+7,NGG,National Grid plc,58.35,-0.67,-1.14%,"250,237","517,490",40.977B,9.06
+8,SRE,Sempra Energy,131.89,-2.77,-2.06%,1.193M,1.813M,38.151B,9.08
+9,XEL,Xcel Energy Inc.,70.73,-0.55,-0.77%,3.421M,2.72M,37.157B,26.54
+10,EXC,Exelon Corporation,37.93,-0.01,-0.03%,3.314M,5.972M,36.963B,14.00
+11,SRE-PB,Sempra Energy,107.35,-2.12,-1.94%,"94,363","30,391",36.088B,7.39
+12,SRE-PA,Sempra Energy,106.89,-1.74,-1.60%,"304,767","72,344",35.905B,7.35
+13,ES,Eversource Energy,87.15,-0.77,-0.88%,"577,905",1.582M,30.127B,25.02
+14,WEC,"WEC Energy Group, Inc.",91.21,-0.23,-0.25%,"682,120",1.448M,28.771B,24.65
+15,PEG,Public Service Enterprise Group Incorporated,55.17,-0.29,-0.52%,"965,475",2.506M,27.903B,16.13
+16,AWK,"American Water Works Company, Inc.",145.31,-1.20,-0.82%,"350,796","827,063",26.331B,41.28
+17,ED,"Consolidated Edison, Inc.",73.53,-0.24,-0.33%,1.593M,1.924M,24.596B,18.41
+18,DTE,DTE Energy Company,117.71,-0.45,-0.38%,"445,030",1.202M,22.677B,18.59
+19,PPL,PPL Corporation,29.05,-0.07,-0.24%,3.966M,5.616M,22.333B,12.62
+20,ETR,Entergy Corporation,100.93,-0.80,-0.79%,"707,044",1.19M,20.207B,16.47
+21,AEE,Ameren Corporation,81.27,-0.10,-0.12%,"616,619",1.588M,20.08B,23.77
+22,EIX,Edison International,52.69,-0.92,-1.72%,2.281M,2.874M,19.928B,17.07
+23,FTS,Fortis Inc.,40.26,-0.52,-1.28%,"190,856","370,912",18.657B,23.33
+24,PCG,PG&E Corporation,9.41,-0.21,-2.18%,11.177M,23.293M,18.688B,N/A
+25,NMK-PC,Niagara Mohawk Power Corporation PFD 3.90%,104.53,0.00,0.00%,0,92,19.585B,99.74
+26,CMS,CMS Energy Corporation,60.88,-0.08,-0.13%,1.062M,1.772M,17.429B,23.06
+27,FE,FirstEnergy Corp.,29.33,-0.27,-0.91%,3.601M,9.407M,15.89B,23.83
+28,AGR,"Avangrid, Inc.",49.62,-0.40,-0.80%,"690,042","681,852",15.333B,21.96
+29,LNT,Alliant Energy Corporation,53.77,-0.21,-0.39%,"688,286",1.352M,13.423B,20.49
+30,BIP,Brookfield Infrastructure Partners L.P.,44.39,-0.51,-1.14%,"238,193","351,993",13.068B,N/A
+31,ATO,Atmos Energy Corporation,104.50,-0.12,-0.11%,"816,099","899,020",12.891B,21.45
+32,EVRG,"Evergy, Inc.",53.57,+0.91,+1.73%,1.373M,2.656M,12.151B,19.41
+33,AES,The AES Corporation,17.57,-0.22,-1.24%,4.032M,6.508M,11.686B,61.87
+34,KEP,Korea Electric Power Corporation,9.00,+0.10,+1.12%,"163,089","178,892",11.81B,N/A
+35,BEPC,Brookfield Renewable Corporation Inc.,47.10,+0.32,+0.68%,"489,289",1.14M,11.323B,N/A
+36,NI-PB,NiSource Inc.,27.55,+0.06,+0.22%,"41,678","28,719",11.346B,N/A
+37,WTRG,"Essential Utilities, Inc.",45.35,+0.04,+0.09%,1.084M,1.133M,11.118B,N/A
+38,CNP-PB,"CenterPoint Energy, Inc.",38.19,-0.32,-0.83%,"74,161","99,819",11.039B,N/A
+39,ENIA,Enel Américas S.A.,7.05,-0.11,-1.54%,"738,194",1.71M,10.86B,7.83
+40,CNP,"CenterPoint Energy, Inc.",20.54,-0.20,-0.96%,4.362M,8.743M,11.191B,N/A
+41,EBR-B,Centrais Elétricas Brasileiras S.A. - Eletrobrás,6.54,+0.03,+0.46%,"9,044","52,643",9.821B,N/A
+42,EBR,Centrais Elétricas Brasileiras S.A. - Eletrobrás,6.28,+0.09,+1.45%,"653,366","582,765",9.918B,N/A
+43,VST,Vistra Corp.,19.05,-0.06,-0.31%,1.216M,3.761M,9.311B,16.51
+44,NI,NiSource Inc.,24.12,-0.23,-0.94%,1.432M,2.971M,9.239B,N/A
+45,CMS-PB,Consumers Energy Company,109.83,+0.33,+0.30%,600,244,9.238B,11.38
+46,WTRU,"Aqua America, Inc.",59.27,-0.09,-0.15%,"76,208","44,604",9.277B,67.35
+47,PNW,Pinnacle West Capital Corporation,78.00,-0.49,-0.62%,"628,216",1.112M,8.779B,14.69
+48,NRG,"NRG Energy, Inc.",34.94,-0.35,-0.99%,1.182M,2.456M,8.53B,2.09
+49,AQN,Algonquin Power & Utilities Corp.,13.63,-0.16,-1.16%,1.326M,"830,757",7.972B,14.21
+50,BEP,Brookfield Renewable Partners L.P.,43.40,-0.35,-0.80%,"457,174","626,866",7.963B,N/A
+51,UGI,UGI Corporation,34.60,-0.18,-0.52%,"463,905",1.141M,7.208B,15.09
+52,SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,10.30,-0.10,-0.96%,"944,063",1.536M,7.181B,13.79
+53,HNP,"Huaneng Power International, Inc.",16.76,+0.08,+0.48%,"4,930","22,634",6.577B,52.38
+54,OGE,OGE Energy Corp.,32.62,-0.42,-1.27%,"718,332",1.465M,6.53B,N/A
+55,CWEN-A,"Clearway Energy, Inc.",24.79,-0.24,-0.96%,"158,250","199,314",5.091B,53.43
+56,CWEN,"Clearway Energy, Inc.",26.24,-0.24,-0.91%,"440,484","616,928",5.093B,56.55
+57,SR-PA,Spire Inc.,27.54,-0.05,-0.18%,"9,016","17,895",4.588B,8.00
+58,NFE,New Fortress Energy Inc.,27.03,+0.91,+3.48%,"299,033","184,731",4.56B,N/A
+59,IDA,"IDACORP, Inc.",87.94,-0.97,-1.09%,"199,532","273,085",4.438B,18.91
+60,SJIU,"South Jersey Industries, Inc. CORP UNITS",41.00,-0.14,-0.34%,"52,955","24,809",3.253B,46.59
+61,NEP,"NextEra Energy Partners, LP",62.34,-0.31,-0.49%,"429,352","489,312",4.085B,N/A
+62,OGS,"ONE Gas, Inc.",75.46,-0.21,-0.28%,"188,982","253,498",3.993B,21.62
+63,HE,"Hawaiian Electric Industries, Inc.",35.67,+0.05,+0.14%,"322,309","444,130",3.894B,18.48
+64,SWX,"Southwest Gas Holdings, Inc.",70.53,-1.01,-1.41%,"156,124","303,706",3.944B,18.78
+65,POR,Portland General Electric Company,42.41,+0.30,+0.71%,"666,322","641,130",3.796B,16.07
+66,BKH,Black Hills Corporation,58.53,-0.43,-0.73%,"256,309","458,968",3.672B,18.53
+67,PNM,"PNM Resources, Inc.",44.80,+0.02,+0.04%,"385,357","480,168",3.568B,20.24
+68,ORA,"Ormat Technologies, Inc.",62.88,-0.12,-0.19%,"325,799","345,838",3.211B,41.86
+69,NJR,New Jersey Resources Corporation,32.79,-0.06,-0.18%,"359,256","532,533",3.146B,18.18
+70,SR,Spire Inc.,60.76,-0.43,-0.70%,"155,280","308,933",3.128B,52.52
+71,AY,Atlantica Sustainable Infrastructure plc,30.70,+0.38,+1.25%,"459,913","470,777",3.119B,183.83
+72,ELP,Companhia Paranaense de Energia - COPEL,11.22,+0.19,+1.72%,"512,120","610,822",3.051B,10.53
+73,ALE,"ALLETE, Inc.",56.90,-0.49,-0.85%,"217,426","369,200",2.952B,17.58
+74,AWR,American States Water Company,78.74,+0.12,+0.16%,"121,547","199,217",2.904B,34.58
+75,NWE,NorthWestern Corporation,55.52,+0.04,+0.07%,"194,655","351,638",2.808B,18.32
+76,AVA,Avista Corporation,37.25,-0.10,-0.27%,"269,045","433,066",2.53B,20.49
+77,MGEE,"MGE Energy, Inc.",66.89,-0.08,-0.12%,"47,655","126,379",2.419B,25.31
+78,CWT,California Water Service Group,48.44,+0.07,+0.14%,"140,566","264,085",2.393B,60.63
+79,SJI,"South Jersey Industries, Inc.",24.20,-0.04,-0.17%,"531,629","861,206",2.434B,21.76
+80,SJW,SJW Group,69.05,+0.41,+0.60%,"142,462","122,396",1.97B,75.71
+81,TAC,TransAlta Corporation,6.38,-0.12,-1.85%,"133,560","228,193",1.757B,N/A
+82,NWN,Northwest Natural Holding Company,53.50,-0.12,-0.22%,"101,429","160,555",1.634B,27.21
+83,OTTR,Otter Tail Corporation,40.03,-0.28,-0.69%,"84,467","141,377",1.636B,18.71
+84,CPK,Chesapeake Utilities Corporation,85.39,+0.07,+0.08%,"56,613","84,184",1.408B,20.67
+85,PAM,Pampa Energía S.A.,11.15,+0.15,+1.36%,"286,128","485,328",1.219B,0.03
+86,MSEX,Middlesex Water Company,67.43,-0.48,-0.71%,"15,613","57,726",1.178B,31.94
+87,KEN,Kenon Holdings Ltd.,21.00,-0.04,-0.19%,344,"1,249",1.131B,84.34
+88,AZRE,Azure Power Global Limited,21.75,+0.30,+1.40%,"84,322","27,993",1.036B,N/A
+89,SPH,"Suburban Propane Partners, L.P.",13.72,+0.15,+1.11%,"109,641","298,192",852.649M,16.81
+90,ALP-PQ,Alabama Power Company,27.00,+0.14,+0.52%,"428,520","25,722",824.513M,0.73
+91,YORW,The York Water Company,47.05,-0.28,-0.59%,"27,743","50,338",613.287M,38.10
+92,UTL,Unitil Corporation,40.48,-0.30,-0.74%,"42,183","64,058",607.091M,18.88
+93,SPKEP,"Spark Energy, Inc.",21.90,+0.28,+1.31%,"3,469","8,228",340.719M,13.82
+94,ARTNA,Artesian Resources Corporation,36.66,+0.07,+0.19%,"23,862","40,582",341.919M,21.19
+95,IPLDP,Interstate Power and Light Company,25.50,-0.07,-0.27%,"15,788","11,438",340.955M,1.04
+96,SPKE,"Spark Energy, Inc.",8.85,+0.06,+0.63%,"126,972","168,676",313.931M,5.59
+97,GNE-PA,Genie Energy Ltd.,8.72,-0.02,-0.18%,"5,312","4,616",300.599M,20.28
+98,GNE,Genie Energy Ltd.,9.03,+0.05,+0.56%,"47,074","111,926",235.634M,21.00
+99,CWCO,Consolidated Water Co. Ltd.,12.59,+0.02,+0.16%,"53,621","85,898",190.292M,36.07
+100,PICO,"PICO Holdings, Inc.",8.95,-0.01,-0.11%,"18,734","71,461",169.645M,29.34
+101,SOLN,Southern Company (The) 2019 Ser,46.02,-0.49,-1.05%,"92,892","161,826",N/A,N/A
+102,PCGU,PG&E Corporation,98.25,-2.92,-2.89%,"10,983","312,144",N/A,N/A
+103,NEE-PP,"NextEra Energy, Inc. 5.279% Cor",48.53,-0.87,-1.76%,"138,460","407,674",N/A,N/A
+104,BEP-PA,Brookfield Renewable Partners L.P.,25.84,-0.01,-0.04%,"2,245","15,569",N/A,N/A
+105,AEP-PB,American Electric Power Company,50.24,-0.28,-0.55%,"18,933","179,061",N/A,N/A
+106,ETI-P,"Entergy Texas, Inc.",27.25,0.00,0.00%,"1,379","3,427",N/A,6.98
+107,DTP,DTE Energy Company 6.25% Corpor,46.06,-0.10,-0.22%,"5,319","129,168",N/A,N/A
+108,NMK-PB,Niagara Mohawk Power Corporation PFD 3.60%,102.50,-0.50,-0.49%,45,128,19.204B,97.80
